@@ -45,9 +45,6 @@ jobs:
         key: modio-release-cache-${{ github.run_number }}
         restore-keys: |
           modio-release-cache-
-        # Save the cache even if a later step (e.g. export) fails, so previously
-        # downloaded mods aren't re-downloaded on the next run.
-        save-always: true
 
     - name: Build and Run
       # Executes your Main method and generates the files
