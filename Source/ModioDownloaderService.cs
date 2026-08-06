@@ -163,7 +163,7 @@ namespace RosettaModio
             }
           }
 
-          CleanFolderExceptCache(localDataPath);
+          CleanFolderExceptCache(localDataPath, tempZipPath);
 
           int manifestsFound = 0;
           using (var archive = ZipFile.OpenRead(tempZipPath))
@@ -203,7 +203,7 @@ namespace RosettaModio
       return false;
     }
 
-    private void CleanFolderExceptCache(string folderPath)
+    private void CleanFolderExceptCache(string folderPath, string keepFile)
     {
       if (!Directory.Exists(folderPath)) return;
 
@@ -211,6 +211,7 @@ namespace RosettaModio
 
       foreach (var file in dirInfo.GetFiles())
       {
+        if (file.FullName.Equals(keepFile, StringComparison.OrdinalIgnoreCase)) continue;
         if (!file.Name.Equals(".rosetta_cache.json", StringComparison.OrdinalIgnoreCase))
         {
           file.Delete();
