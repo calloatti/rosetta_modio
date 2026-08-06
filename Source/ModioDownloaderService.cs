@@ -172,6 +172,11 @@ namespace RosettaModio
             {
               if (entry.Name.Equals("manifest.json", StringComparison.OrdinalIgnoreCase))
               {
+                // Ignore stored Unix permissions (external attributes) so extracted manifests
+                // are always readable. Some mods ship bogus modes (e.g. 0o010) that .NET would
+                // otherwise restore on Linux, making the file unreadable and crashing the export.
+                entry.ExternalAttributes = 0;
+
                 string destinationPath = Path.Combine(localDataPath, entry.FullName);
                 Directory.CreateDirectory(Path.GetDirectoryName(destinationPath)!);
                 entry.ExtractToFile(destinationPath, true);
