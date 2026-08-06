@@ -1,0 +1,80 @@
+name: Daily Rosetta Modio Generator
+
+on:
+  schedule:
+    # Runs at 00:00 UTC every day
+    - cron: '0 0 * * *'
+  # Allows manual triggering from the Actions tab
+  workflow_dispatch: 
+
+# Grant the default GITHUB_TOKEN permission to push commits to the repo
+permissions:
+  contents: write
+
+jobs:
+  run-generator:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Setup .NET 10
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: '10.0.x'
+
+    - name: Inject Private Credentials
+      env:
+        GAME_ID: ${{ secrets.MODIO_GAMEID }}
+        API_KEY: ${{ secrets.MODIO_APIKEY }}
+        USER_ID: ${{ secrets.MODIO_USERID }}
+      run: |
+        printf '%s\n' "$GAME_ID" > modio_gameid.txt
+        printf '%s\n' "$API_KEY" > modio_apikey.txt
+        printf '%s\n' "$USER_ID" > modio_userid.txt
+
+    - name: Restore dependencies
+      run: dotnet restore
+
+    - name: Cache Release folder
+      uses: actions/cache@v4
+      with:
+        # Caches the entire Release build output, including data_modio and .rosetta_cache.json files
+        path: bin/Release/
+        key: modio-release-cache-${{ github.run_number }}
+        restore-keys: |
+          modio-release-cache-
+
+    - name: Build and Run
+      # Executes your Main method and generates the files
+      run: dotnet run --configuration Release
+
+    - name: Clean Temporary Secrets
+      if: always()
+      run: |
+        rm -f modio_gameid.txt modio_apikey.txt modio_userid.txt
+        rm -f bin/Release/net10.0/modio_gameid.txt bin/Release/net10.0/modio_apikey.txt bin/Release/net10.0/modio_userid.txt
+
+    - name: Commit and Push results
+      # Configures the bot, moves files to a data folder, checks for changes, and pushes
+      run: |
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        
+        # Create a top-level data directory in the repository
+        mkdir -p data
+        
+        # Copy the generated text files from the .NET build output to the repo's data directory
+        cp bin/Release/net10.0/rosetta*.txt data/
+        
+        # Stage only the text files located in the repo's data directory
+        git add data/rosetta*.txt
+        
+        # Check if there are any actual changes before committing to prevent errors
+        if ! git diff --staged --quiet; then
+          git commit -m "Automated update of Rosetta Modio files"
+          git push
+        else
+          echo "No changes to commit."
+        fi
