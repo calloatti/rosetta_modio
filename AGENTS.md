@@ -28,7 +28,7 @@ There is no test suite in this repository.
 | `Source/Program.cs` | Entry point (`Program.Main`), orchestrates the 4 phases, handles `-clean` flag. |
 | `Source/LogService.cs` | Static logger: writes to console and `rosetta_modio.log` (deleted at startup). |
 | `Source/ModioCrawlerService.cs` | mod.io API crawl. Incremental `date_updated-min` filter, server-side `tags=mod` filter, 2 GB file-size cap, HTTP 429 handling with `Retry-After`/backoff. Defines `CachedModEntry` model. |
-| `Source/ModioDownloaderService.cs` | 4-worker concurrent downloader with retry/backoff. Extracts only `manifest.json` entries, enforces 2 GB limit, marks cache `Downloaded=true`. |
+| `Source/ModioDownloaderService.cs` | 4-worker concurrent downloader with retry/backoff. Extracts only `manifest.json` entries, clears zip external attributes before extraction (see warning below), enforces 2 GB limit, marks cache `Downloaded=true`. |
 | `Source/ModioManifestProcessorService.cs` | Reads `manifest.json` + `.rosetta_cache.json` per folder, writes the three TSV exports. |
 | `.github/workflows/rosetta_modio.yml` | Daily (00:00 UTC) GitHub Action: injects secrets, runs generator, commits refreshed exports. |
 
@@ -48,6 +48,7 @@ There is no test suite in this repository.
 - **Never commit or log credentials.** `modio_gameid.txt`, `modio_apikey.txt`, `modio_userid.txt` are gitignored and must remain private.
 - Always keep API keys redacted when logging URLs — see `SanitizeUrl` in `ModioCrawlerService.cs`.
 - In CI, secrets (`MODIO_GAMEID`, `MODIO_APIKEY`, `MODIO_USERID`) are injected as temp files and removed in a `finally`-style step (`if: always()`).
+- **Linux-only extraction permissions:** .NET's `ExtractToFile` restores the Unix mode stored in a zip entry's `ExternalAttributes` on Linux/macOS (never on Windows). Some mods ship bogus modes (e.g. `0o010`, no read bit), which made extracted manifests unreadable on the Linux CI runner and crashed the export. The downloader must keep setting `entry.ExternalAttributes = 0` before `ExtractToFile` so files are always extracted with default readable permissions. Local Windows runs never reproduce this — always test extraction behavior on Linux.
 
 ## Code Style
 
