@@ -1428,3 +1428,4 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6284078	Sort-a-Mole	version-1.0.8.1	Sort-a-Mole	Sort-a-Mole	1.0.9.08	1.0.12.0	ModdableToolGroups	10.4.4		
 6284078	Sort-a-Mole	version-1.0.8.1	Sort-a-Mole	Sort-a-Mole	1.0.9.08	1.0.12.0	List-a-Mole			
 6284078	Sort-a-Mole	version-1.0.8.1	Sort-a-Mole	Sort-a-Mole	1.0.9.08	1.0.12.0	Wack-a-Mole			
+6285159	AutoResourceFlags	version-1.0	Auto Resource Flags	Auto Resource Flags	1.0.0	1.0.0				
