@@ -100,45 +100,52 @@ namespace RosettaModio
 
         foreach (var manifestPath in allManifests)
         {
-          if (hasSubfolderManifests && manifestPath.Equals(rootManifestPath, StringComparison.OrdinalIgnoreCase))
+          try
           {
-            continue;
-          }
-
-          var data = ParseManifest(manifestPath);
-          if (data == null) continue;
-
-          if (!string.IsNullOrWhiteSpace(data.Id))
-          {
-            uniqueIdMappings.Add((publishedFileId, data.Id, workshopCreator));
-          }
-
-          string manifestDir = Path.GetDirectoryName(manifestPath)!;
-          string relativePath = Path.GetRelativePath(effectiveRootFolder, manifestDir);
-          string directoryName = Sanitize(relativePath == "." ? "" : relativePath);
-
-          string baseData = $"{publishedFileId}\t{data.Id}\t{directoryName}\t{data.Name}\t{workshopTitle}\t{data.Version}\t{data.MinimumGameVersion}";
-
-          bool hasDependencies = data.RequiredMods.Count > 0 || data.OptionalMods.Count > 0;
-
-          if (!hasDependencies)
-          {
-            sb.AppendLine($"{baseData}\t\t\t\t");
-          }
-          else
-          {
-            foreach (var req in data.RequiredMods)
+            if (hasSubfolderManifests && manifestPath.Equals(rootManifestPath, StringComparison.OrdinalIgnoreCase))
             {
-              sb.AppendLine($"{baseData}\t{req.Id}\t{req.MinimumVersion}\t\t");
+              continue;
             }
 
-            foreach (var opt in data.OptionalMods)
-            {
-              sb.AppendLine($"{baseData}\t\t\t{opt.Id}\t{opt.MinimumVersion}");
-            }
-          }
+            var data = ParseManifest(manifestPath);
+            if (data == null) continue;
 
-          processed++;
+            if (!string.IsNullOrWhiteSpace(data.Id))
+            {
+              uniqueIdMappings.Add((publishedFileId, data.Id, workshopCreator));
+            }
+
+            string manifestDir = Path.GetDirectoryName(manifestPath)!;
+            string relativePath = Path.GetRelativePath(effectiveRootFolder, manifestDir);
+            string directoryName = Sanitize(relativePath == "." ? "" : relativePath);
+
+            string baseData = $"{publishedFileId}\t{data.Id}\t{directoryName}\t{data.Name}\t{workshopTitle}\t{data.Version}\t{data.MinimumGameVersion}";
+
+            bool hasDependencies = data.RequiredMods.Count > 0 || data.OptionalMods.Count > 0;
+
+            if (!hasDependencies)
+            {
+              sb.AppendLine($"{baseData}\t\t\t\t");
+            }
+            else
+            {
+              foreach (var req in data.RequiredMods)
+              {
+                sb.AppendLine($"{baseData}\t{req.Id}\t{req.MinimumVersion}\t\t");
+              }
+
+              foreach (var opt in data.OptionalMods)
+              {
+                sb.AppendLine($"{baseData}\t\t\t{opt.Id}\t{opt.MinimumVersion}");
+              }
+            }
+
+            processed++;
+          }
+          catch (Exception ex)
+          {
+            LogService.Log($"[Warning] Skipped manifest {manifestPath}: {ex.Message}");
+          }
         }
       }
 
@@ -231,9 +238,19 @@ namespace RosettaModio
       return "";
     }
 
-    private RosettaData ParseManifest(string path)
+    private RosettaData? ParseManifest(string path)
     {
-      string json = File.ReadAllText(path, Encoding.UTF8);
+      string json;
+      try
+      {
+        json = File.ReadAllText(path, Encoding.UTF8);
+      }
+      catch (Exception ex)
+      {
+        LogService.Log($"[Warning] Failed to read manifest {path}: {ex.Message}");
+        return null;
+      }
+
       try
       {
         var options = new JsonSerializerOptions

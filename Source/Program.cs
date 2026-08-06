@@ -47,7 +47,7 @@ namespace RosettaModio
       }
       catch (Exception ex)
       {
-        LogService.Log($"\n[Fatal Error] Application execution crashed: {ex.Message}");
+        LogService.Log($"\n[Fatal Error] Application execution crashed: {ex}");
         Environment.ExitCode = 1;
       }
       finally
