@@ -50,6 +50,14 @@ There is no test suite in this repository.
 - In CI, secrets (`MODIO_GAMEID`, `MODIO_APIKEY`, `MODIO_USERID`) are injected as temp files and removed in a `finally`-style step (`if: always()`).
 - **Linux-only extraction permissions:** .NET's `ExtractToFile` restores the Unix mode stored in a zip entry's `ExternalAttributes` on Linux/macOS (never on Windows). Some mods ship bogus modes (e.g. `0o010`, no read bit), which made extracted manifests unreadable on the Linux CI runner and crashed the export. The downloader must keep setting `entry.ExternalAttributes = 0` before `ExtractToFile` so files are always extracted with default readable permissions. Local Windows runs never reproduce this — always test extraction behavior on Linux.
 
+## Known Pitfalls (recent fixes — keep them fixed)
+
+- **csproj config file casing is significant:** the `<None Update="...">` entries for `modio_gameid.txt`, `modio_apikey.txt`, `modio_userid.txt` must be **lowercase** to match the actual filenames. Windows matches case-insensitively, but the Linux CI runner does not — a case mismatch silently fails to copy the files to the build output and the run exits with missing-config.
+- **Do not delete the temp zip before extraction:** `CleanFolderExceptCache(localDataPath, tempZipPath)` must keep the `<modId>_temp.zip` it is passed. It used to delete it, so `ZipFile.OpenRead` threw "Could not find file" on every download.
+- **Export must never crash on one bad manifest:** `ParseManifest` returns `null` when a manifest can't be read (permission errors, corrupt files), and each manifest is processed inside a try/catch that logs `[Warning] Skipped manifest ...` and continues. Do not let an unreadable file abort the whole pipeline.
+- **CI secrets:** write them with `printf '%s\n'` (not `echo`, which can mangle values starting with `-e`/`-n`), and the cleanup step also removes the copies that `CopyToOutputDirectory` placed in `bin/Release/net10.0/`.
+- **CI cache only saves on success:** `actions/cache@v4` uses `save-always: false` (intentionally — cache should persist only for successful runs). A failed run therefore forces a full re-download next time; that is expected, not a bug.
+
 ## Code Style
 
 - Block namespaces (not file-scoped), 2-space indentation, `using` directives at top.
