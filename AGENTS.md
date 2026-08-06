@@ -8,7 +8,7 @@ The pipeline runs in 4 phases orchestrated from `Main`:
 1. **Verify config** — check for required local credential files.
 2. **Crawl** — query the mod.io API (`tags=mod`, incremental via `date_updated-min`), flag changed/new mods for download.
 3. **Download** — concurrent worker queue downloads zips and extracts only `manifest.json`.
-4. **Export** — parse manifests and write three TSV output files.
+4. **Export** — parse manifests and write four TSV output files.
 
 ## Commands
 
@@ -29,7 +29,7 @@ There is no test suite in this repository.
 | `Source/LogService.cs` | Static logger: writes to console and `rosetta_modio.log` (deleted at startup). |
 | `Source/ModioCrawlerService.cs` | mod.io API crawl. Incremental `date_updated-min` filter, server-side `tags=mod` filter, 2 GB file-size cap, HTTP 429 handling with `Retry-After`/backoff. Defines `CachedModEntry` model. |
 | `Source/ModioDownloaderService.cs` | 4-worker concurrent downloader with retry/backoff. Extracts only `manifest.json` entries, clears zip external attributes before extraction (see warning below), enforces 2 GB limit, marks cache `Downloaded=true`. |
-| `Source/ModioManifestProcessorService.cs` | Reads `manifest.json` + `.rosetta_cache.json` per folder, writes the three TSV exports. |
+| `Source/ModioManifestProcessorService.cs` | Reads `manifest.json` + `.rosetta_cache.json` per folder, writes the four TSV exports. |
 | `.github/workflows/rosetta_modio.yml` | Daily (00:00 UTC) GitHub Action: injects secrets, runs generator, commits refreshed exports. |
 
 ## Data Flow & Conventions
@@ -41,6 +41,7 @@ There is no test suite in this repository.
   - `rosetta_modio.txt` — master metadata export.
   - `rosetta_duplicates_modio.txt` — internal Mod ID conflicts across mod.io items.
   - `rosetta_invalid_packages_modio.txt` — items illegally declaring multiple internal Mod IDs.
+  - `rosetta_nomanifest_modio.txt` — items whose downloaded zip contains no `manifest.json` anywhere; columns `PublishedFileID\Url\Creator\Title` where Url is `https://mod.io/search/mods/<PublishedFileID>`.
 - **Commits:** the GitHub Action copies `rosetta*.txt` into the top-level `data/` directory and commits only `data/rosetta*.txt`. `data_modio/` is a local cache inside `bin/` and is never committed.
 
 ## Critical Warnings

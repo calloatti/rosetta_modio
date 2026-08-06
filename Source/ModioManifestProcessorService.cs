@@ -30,6 +30,7 @@ namespace RosettaModio
     private readonly string _rosettaTxtPath;
     private readonly string _duplicatesTxtPath;
     private readonly string _invalidPackagesTxtPath;
+    private readonly string _noManifestTxtPath;
 
     public ModioManifestProcessorService()
     {
@@ -38,6 +39,7 @@ namespace RosettaModio
       _rosettaTxtPath = Path.Combine(rootPath, "rosetta_modio.txt");
       _duplicatesTxtPath = Path.Combine(rootPath, "rosetta_duplicates_modio.txt");
       _invalidPackagesTxtPath = Path.Combine(rootPath, "rosetta_invalid_packages_modio.txt");
+      _noManifestTxtPath = Path.Combine(rootPath, "rosetta_nomanifest_modio.txt");
     }
 
     public void RunExport()
@@ -59,25 +61,15 @@ namespace RosettaModio
       var uniqueIdMappings = new HashSet<(string PublishedFileId, string Id, string Creator)>();
       int processed = 0;
 
+      var noManifestSb = new StringBuilder();
+      noManifestSb.AppendLine("PublishedFileID\tUrl\tCreator\tTitle");
+      int noManifestCount = 0;
+
       foreach (var modFolder in directories)
       {
         string publishedFileId = Sanitize(new DirectoryInfo(modFolder).Name);
 
         var allManifests = Directory.GetFiles(modFolder, "manifest.json", SearchOption.AllDirectories);
-        if (allManifests.Length == 0) continue;
-
-        // Strip single wrapper directory if present
-        string effectiveRootFolder = modFolder;
-        var subDirs = Directory.GetDirectories(modFolder);
-        var rootFiles = Directory.GetFiles(modFolder).Where(f => !Path.GetFileName(f).Equals(".rosetta_cache.json", StringComparison.OrdinalIgnoreCase)).ToArray();
-
-        if (subDirs.Length == 1 && rootFiles.Length == 0)
-        {
-          effectiveRootFolder = subDirs[0];
-        }
-
-        string rootManifestPath = Path.Combine(effectiveRootFolder, "manifest.json");
-        bool hasSubfolderManifests = allManifests.Any(p => !p.Equals(rootManifestPath, StringComparison.OrdinalIgnoreCase));
 
         // Read Title and Creator directly from local .rosetta_cache.json
         string workshopTitle = "";
@@ -97,6 +89,26 @@ namespace RosettaModio
           }
           catch { }
         }
+
+        if (allManifests.Length == 0)
+        {
+          noManifestSb.AppendLine($"{publishedFileId}\thttps://mod.io/search/mods/{publishedFileId}\t{workshopCreator}\t{workshopTitle}");
+          noManifestCount++;
+          continue;
+        }
+
+        // Strip single wrapper directory if present
+        string effectiveRootFolder = modFolder;
+        var subDirs = Directory.GetDirectories(modFolder);
+        var rootFiles = Directory.GetFiles(modFolder).Where(f => !Path.GetFileName(f).Equals(".rosetta_cache.json", StringComparison.OrdinalIgnoreCase)).ToArray();
+
+        if (subDirs.Length == 1 && rootFiles.Length == 0)
+        {
+          effectiveRootFolder = subDirs[0];
+        }
+
+        string rootManifestPath = Path.Combine(effectiveRootFolder, "manifest.json");
+        bool hasSubfolderManifests = allManifests.Any(p => !p.Equals(rootManifestPath, StringComparison.OrdinalIgnoreCase));
 
         foreach (var manifestPath in allManifests)
         {
@@ -151,6 +163,9 @@ namespace RosettaModio
 
       File.WriteAllText(_rosettaTxtPath, sb.ToString());
       LogService.Log($"[Export] {_rosettaTxtPath} created successfully. Processed {processed} manifests.");
+
+      File.WriteAllText(_noManifestTxtPath, noManifestSb.ToString());
+      if (noManifestCount > 0) LogService.Log($"[Analysis] {noManifestCount} mod.io items have no manifest.json. Details in {Path.GetFileName(_noManifestTxtPath)}");
 
       ExportIdAnalysis(uniqueIdMappings);
       LogService.Log("=== ROSETTA EXPORT COMPLETE ===");
