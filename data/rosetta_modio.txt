@@ -81,7 +81,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 2613736	KnatteAnka.Path_extention	version-1.0.0	Path Extention	Path Extention	1.0.0.9	1.0.11.1	ModdableToolGroups	10.1.0		
 2613736	KnatteAnka.Path_extention	version-1.0.0	Path Extention	Path Extention	1.0.0.9	1.0.11.1			Emberpelts	
 2613736	KnatteAnka.Path_extention	version-1.0.0	Path Extention	Path Extention	1.0.0.9	1.0.11.1			BobPlatforms	
-2645391	Tobbert.FerrisWheel		Ferris Wheel	Ferris Wheel	2.0.1	0.6.0.0				
+2645391	Tobbert.FerrisWheel		Ferris Wheel	Ferris Wheel	3.0.0	1.0.0.0				
 2645506	Tobbert.MorePaths		More Paths	More Paths	3.0.3	0.6.0.0	Harmony	2.3.3		
 2645506	Tobbert.MorePaths		More Paths	More Paths	3.0.3	0.6.0.0	eMka.ModSettings	0.6.3.0		
 2645506	Tobbert.MorePaths		More Paths	More Paths	3.0.3	0.6.0.0	TimberApi	0.7.0.1		
@@ -417,7 +417,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 4401243	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.1	1.0.12.0			Lapantouflemagic.1x1x2Storage	
 4424312	MoreModLogs	version-0.6	More Mod Logs (requires Harmony)	More Mod Logs	0.0.11	0.6.7.0	Harmony	2.3.3		
 4424312	MoreModLogs	version-0.7	More Mod Logs (requires Harmony)	More Mod Logs	0.1.12	0.7.1.0	Harmony	2.3.3		
-4424312	MoreModLogs	version-1.0	More Mod Logs (requires Harmony)	More Mod Logs	0.2.34	1.0.0.0				
+4424312	MoreModLogs	version-1.0	More Mod Logs (requires Harmony)	More Mod Logs	0.2.35	1.0.0.0				
 4424527	Timberborn.Mods.RemoveBrokenTeeth		Remove broken teeth	Disable broken teeth	0.1	0.6.0.0				
 4434038	ToolFinder	version-0.6	Tool Finder	Tool Finder	0.0.3	0.6.8.4	Harmony	2.3.3		
 4434038	ToolFinder	version-0.7	Tool Finder	Tool Finder	0.0.8	0.7.3.0	Harmony	2.3.3		
@@ -1425,7 +1425,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6272285	Wack-a-Mole	version-1.0.8	Wack-a-Mole	Wack-a-Mole	1.0.9.07	1.0.8.0			Lapantoufleagic.WhitepawsFaction	6.2.3
 6272285	Wack-a-Mole	version-1.0.8	Wack-a-Mole	Wack-a-Mole	1.0.9.07	1.0.8.0			Lapantoufleagic.FrostyWhiskersFaction	0.0.1
 6274214	WorkplaceSchedules	version-1.0	Workplace Schedules	Workplace Schedules	1.0.0	1.0.0	Harmony			
-6277625	pir2.OhTomatoRecipe		OhTomatoRecipe	OhTomatoRecipe (automate recipe selection)	1.0.0	1.0.12				
+6277625	pir2.OhTomatoRecipe		OhTomatoRecipe	OhTomatoRecipe (automate recipe selection)	2.1.0	1.0.12				
 6279618	Calloatti.OmniFactionDevTool	Version-1.0	OmniFaction Dev Tool	OmniFaction Dev Tool	1.1.4	1.0.12.5	Harmony			
 6280057	Calloatti.HoomanStairsBuildingsNBS	Version-1.1	Hooman Stairs Buildings NBS	Hooman Stairs Buildings NBS	1.0.1	1.1.0.0	Calloatti.HoomanStairs			
 6280057	Calloatti.HoomanStairsBuildingsNBS	Version-1.1	Hooman Stairs Buildings NBS	Hooman Stairs Buildings NBS	1.0.1	1.1.0.0	Redic.NewStyles			
@@ -1445,3 +1445,4 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6284078	Sort-a-Mole	version-1.0.8.1	Sort-a-Mole	Sort-a-Mole	1.0.9.08	1.0.12.0	Wack-a-Mole			
 6285159	AutoResourceFlags	version-1.0	Auto Resource Flags	Auto Resource Flags	1.0.0	1.0.0				
 6289707	ConstructionSiteHauler		Construction Site Hauler	Construction Site Hauler	11.0.0	1.1.1	ModdableTimberborn	11.1.0		
+6291634	Calloatti.BreedingPodTweaks	Version-1.0	Breeding Pod Tweaks	Breeding Pod Tweaks	1.0.0	1.0.0.0	Harmony			
