@@ -702,7 +702,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 4957908	UMTbyBlotto		Ukraine mod translations	UMT	0.0.3	0.0.0.0			KnatteAnka.frogstatue	
 4957908	UMTbyBlotto		Ukraine mod translations	UMT	0.0.3	0.0.0.0			KnatteAnka.MoreTopbars	
 4957908	UMTbyBlotto		Ukraine mod translations	UMT	0.0.3	0.0.0.0			TimberCommons	
-4960361	huHU	version-1.1	TimberHUN -- magyarítás	TimberHUN -- magyarítás	1.1.1.0	1.1.0.0				
+4960361	huHU	version-1.1	TimberHUN -- magyarítás	TimberHUN -- magyarítás	1.1.2.0	1.1.0.0				
 4960361	huHU	version-0.7	TimberHUN -- magyarítás	TimberHUN -- magyarítás	0.23	0.7.0.0				
 4960361	huHU	version-1.0	TimberHUN -- magyarítás	TimberHUN -- magyarítás	1.0.20.0	1.0.12.9				
 4970416	alin.pathember	version-0.7	BuildingPathforEmberpelts	BuildingPath for Emberpelts	7.0.0.0	0.7.0.0	Emberpelts			
