@@ -163,8 +163,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3168318	Timberborn.IgorZ.SmartPower	version-1.1	SmartPower	Smart Power	1.17.1	1.1.1.1	eMka.ModSettings	1.0.5.0		
 3168318	Timberborn.IgorZ.SmartPower	version-1.0	SmartPower	Smart Power	1.16.3	1.0.12.7	Harmony	2.3.3		
 3168318	Timberborn.IgorZ.SmartPower	version-1.0	SmartPower	Smart Power	1.16.3	1.0.12.7	eMka.ModSettings	1.0.5.0		
-3198745	Timberborn.IgorZ.TimberCommons	version-1.1	TimberCommons	Timber Commons	1.22.0	1.1.0.2	Harmony	2.3.3		
-3198745	Timberborn.IgorZ.TimberCommons	version-1.1	TimberCommons	Timber Commons	1.22.0	1.1.0.2	eMka.ModSettings	1.0.1.0		
+3198745	Timberborn.IgorZ.TimberCommons	version-1.1	TimberCommons	Timber Commons	1.23.0	1.1.0.2	Harmony	2.3.3		
+3198745	Timberborn.IgorZ.TimberCommons	version-1.1	TimberCommons	Timber Commons	1.23.0	1.1.0.2	eMka.ModSettings	1.0.1.0		
 3198745	Timberborn.IgorZ.TimberCommons	version-1.0	TimberCommons	Timber Commons	1.15.2	1.0.11.0	Harmony	2.3.3		
 3198745	Timberborn.IgorZ.TimberCommons	version-1.0	TimberCommons	Timber Commons	1.15.2	1.0.11.0	eMka.ModSettings	1.0.1.0		
 3198790	KnatteAnka.MoreGroups	version-0.7	MoreGroups	More Groups	7.0.0	0.7.0.0	TimberApi	0.7.11.0		
