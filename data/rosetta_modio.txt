@@ -159,8 +159,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3097037	KnatteAnka.damdecoration_decorationextention	version-0.7.9	DamDecorations_DecorationExtention	Dam Decoration: Decoration Extention	7.0.0	0.7.9.0			GreedyEmbers	
 3155916	Tobbert.TobbyTools	version-0.7	Tobby Tools	Tobby Tools	3.0.0	0.6.0.0	Harmony	2.3.3		
 3166467	ToolShortcuts		Tool Shortcuts	ToolShortcuts	2.1.4	1.0.12.5	Harmony	2.4.1		
-3168318	Timberborn.IgorZ.SmartPower	version-1.1	SmartPower	Smart Power	1.17.1	1.1.1.1	Harmony	2.3.3		
-3168318	Timberborn.IgorZ.SmartPower	version-1.1	SmartPower	Smart Power	1.17.1	1.1.1.1	eMka.ModSettings	1.0.5.0		
+3168318	Timberborn.IgorZ.SmartPower	version-1.1	SmartPower	Smart Power	1.18.0	1.1.1.1	Harmony	2.3.3		
+3168318	Timberborn.IgorZ.SmartPower	version-1.1	SmartPower	Smart Power	1.18.0	1.1.1.1	eMka.ModSettings	1.0.5.0		
 3168318	Timberborn.IgorZ.SmartPower	version-1.0	SmartPower	Smart Power	1.16.3	1.0.12.7	Harmony	2.3.3		
 3168318	Timberborn.IgorZ.SmartPower	version-1.0	SmartPower	Smart Power	1.16.3	1.0.12.7	eMka.ModSettings	1.0.5.0		
 3198745	Timberborn.IgorZ.TimberCommons	version-1.1	TimberCommons	Timber Commons	1.23.0	1.1.0.2	Harmony	2.3.3		
@@ -412,10 +412,10 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 4399324	KnatteAnka.waterextention.IrrigationTowers	version-0.7.9	Water Extention Irrigation Towers	Water Extention: Irrigation towers	7.0.2	0.7.9.0	KnatteAnka.Materials	2.1.0		
 4399324	KnatteAnka.waterextention.IrrigationTowers	version-0.7.9	Water Extention Irrigation Towers	Water Extention: Irrigation towers	7.0.2	0.7.9.0	Timberborn.IgorZ.TimberCommons	1.12.0		
 4399324	KnatteAnka.waterextention.IrrigationTowers	version-0.7.9	Water Extention Irrigation Towers	Water Extention: Irrigation towers	7.0.2	0.7.9.0			TimberApi	
-4401243	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.0	1.1.1.0	BobingaboutScriptPack	1.1.1.1		
-4401243	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.0	1.1.1.0			Lapantouflemagic.1x1x2Storage	
-4401243	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.1	1.0.12.0	BobingaboutScriptPack	1.0.10.0		
-4401243	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.1	1.0.12.0			Lapantouflemagic.1x1x2Storage	
+4401243	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.1	1.1.1.0	BobingaboutScriptPack	1.1.1.1		
+4401243	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.1	1.1.1.0			Lapantouflemagic.1x1x2Storage	
+4401243	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.2	1.0.12.0	BobingaboutScriptPack	1.0.10.0		
+4401243	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.2	1.0.12.0			Lapantouflemagic.1x1x2Storage	
 4424312	MoreModLogs	version-0.7	More Mod Logs (requires Harmony)	More Mod Logs	0.1.12	0.7.1.0	Harmony	2.3.3		
 4424312	MoreModLogs	version-1.0	More Mod Logs (requires Harmony)	More Mod Logs	0.2.35	1.0.0.0				
 4424312	MoreModLogs	version-0.6	More Mod Logs (requires Harmony)	More Mod Logs	0.0.11	0.6.7.0	Harmony	2.3.3		
@@ -516,10 +516,10 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 4731089	alin.nobreedingpods	version-0.7.9.3	No more Breeding Pods	No breeding pods	7.9.3.0	0.7.9.3				
 4731089	alin.nobreedingpods	version-0.7.9.1	No more Breeding Pods	No breeding pods	7.9.0.0	0.7.9.0				
 4736294	MaterialPlzNoCrashes		MaterialPlzNoCrashes	MaterialPlzNoCrashes	7.0.1	0.7.0.0	Harmony	0.0.0		
-4736384	BobingaboutTubewayLevee	version-1.1	Tubeway Levee	Tubeway Levee	1.1.1.0	1.1.0.0			GreedyBuilders	
+4736384	BobingaboutTubewayLevee	version-1.1	Tubeway Levee	Tubeway Levee	1.1.1.1	1.1.0.0			GreedyBuilders	
 4736384	BobingaboutTubewayLevee	version-0.7	Tubeway Levee	Tubeway Levee	0.7.9.0	0.7.9.0				
 4736384	BobingaboutTubewayLevee	version-1.0	Tubeway Levee	Tubeway Levee	1.0.13.0	1.0.7.0			GreedyBuilders	
-4736906	BobingaboutZiplineLevee	version-1.1	Zipline Levee	Levee with Zipline Beam	1.1.1.0	1.1.1.0			GreedyBuilders	
+4736906	BobingaboutZiplineLevee	version-1.1	Zipline Levee	Levee with Zipline Beam	1.1.1.1	1.1.1.0			GreedyBuilders	
 4736906	BobingaboutZiplineLevee	version-0.7	Zipline Levee	Levee with Zipline Beam	0.7.9.0	0.7.9.0				
 4736906	BobingaboutZiplineLevee	version-1.0	Zipline Levee	Levee with Zipline Beam	1.0.11.1	1.0.11.0			GreedyBuilders	
 4743881	BobingaboutVerticalTPowerShafts	version-0.7.6	Bobingabout	Bobingabout Vertical T Power Shafts [Obsolete]	0.7.6.1	0.7.6.0				
@@ -799,11 +799,11 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 5169262	ConfigurableFaction		Configurable Faction (Faction Mixer)	Configurable Faction (Faction Mixer)	7.3.0	0.7.0.0	MaterialPlzNoCrashes			
 5169262	ConfigurableFaction		Configurable Faction (Faction Mixer)	Configurable Faction (Faction Mixer)	7.3.0	0.7.0.0	TimberUi	7.7.3		
 5169262	ConfigurableFaction		Configurable Faction (Faction Mixer)	Configurable Faction (Faction Mixer)	7.3.0	0.7.0.0			TimberModBuilder	
-5180618	LeafCoats	version-1.1	Leaf Coats	Leaf Coats	1.1.2.0	1.1.0.0	BobingaboutScriptPack	1.1.1.0		
-5180618	LeafCoats	version-1.1	Leaf Coats	Leaf Coats	1.1.2.0	1.1.0.0	Vertical Nav Mesh			
+5180618	LeafCoats	version-1.1	Leaf Coats	Leaf Coats	1.1.2.1	1.1.0.0	BobingaboutScriptPack	1.1.2.0		
+5180618	LeafCoats	version-1.1	Leaf Coats	Leaf Coats	1.1.2.1	1.1.0.0	Vertical Nav Mesh			
 5180618	LeafCoats	version-0.7	Leaf Coats (Early Access)	Leaf Coats	0.7.10.20	0.7.10.0	BobingaboutScriptPack	0.7.10.0		
-5180618	LeafCoats	version-1.0	Leaf Coats	Leaf Coats	1.0.13.5	1.0.12.0	BobingaboutScriptPack	1.0.10.0		
-5180618	LeafCoats	version-1.0	Leaf Coats	Leaf Coats	1.0.13.5	1.0.12.0	Vertical Nav Mesh			
+5180618	LeafCoats	version-1.0	Leaf Coats	Leaf Coats	1.0.13.6	1.0.12.0	BobingaboutScriptPack	1.0.10.0		
+5180618	LeafCoats	version-1.0	Leaf Coats	Leaf Coats	1.0.13.6	1.0.12.0	Vertical Nav Mesh			
 5195817	LeafCoatsBadwater	version-1.1	Leaf Coats: Badwater	Leaf Coats: Badwater	1.1.1.0	1.1.0.0	LeafCoats	1.1.0.0		
 5195817	LeafCoatsBadwater	version-0.7	Leaf Coats: Badwater	Leaf Coats: Badwater	0.7.10.0	0.7.10.0	LeafCoats	0.7.10.1		
 5195817	LeafCoatsBadwater	version-1.0	Leaf Coats: Badwater	Leaf Coats: Badwater	1.0.13.1	1.0.7.0	LeafCoats	1.0.7.0		
@@ -1393,9 +1393,9 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6255164	Aoernis.ChooChooCompatEmberpelts		Choo!Choo! - Emberpelts Compatibility	Choo!Choo! - Emberpelts Compatibility	1.0.0	1.0.12.0	Aoernis.ChooChoo			
 6255177	Aoernis.ChooChooCompatLeafCoats		Choo!Choo! - Leaf Coats Compatibility	Choo!Choo! - Leaf Coats Compatibility	1.0.0	1.0.12.0	LeafCoats			
 6255177	Aoernis.ChooChooCompatLeafCoats		Choo!Choo! - Leaf Coats Compatibility	Choo!Choo! - Leaf Coats Compatibility	1.0.0	1.0.12.0	Aoernis.ChooChoo			
-6258587	CharcoalBeavers	version-1.1	Charcoal Beavers	Charcoal Beavers	1.1.1.1	1.1.1.0	Emberpelts	1.1.1.0		
-6258587	CharcoalBeavers	version-1.1	Charcoal Beavers	Charcoal Beavers	1.1.1.1	1.1.1.0	EmberpeltsFoodExtension	1.1.1.0		
-6258587	CharcoalBeavers	version-1.1	Charcoal Beavers	Charcoal Beavers	1.1.1.1	1.1.1.0	EmberpeltsAmenitiesExtension	1.1.1.0		
+6258587	CharcoalBeavers	version-1.1	Charcoal Beavers	Charcoal Beavers	1.1.2.0	1.1.1.0	Emberpelts	1.1.1.0		
+6258587	CharcoalBeavers	version-1.1	Charcoal Beavers	Charcoal Beavers	1.1.2.0	1.1.1.0	EmberpeltsFoodExtension	1.1.1.0		
+6258587	CharcoalBeavers	version-1.1	Charcoal Beavers	Charcoal Beavers	1.1.2.0	1.1.1.0	EmberpeltsAmenitiesExtension	1.1.1.0		
 6258587	CharcoalBeavers	version-1.0	Charcoal Beavers	Charcoal Beavers	1.0.13.1	1.0.13.0	Emberpelts	1.0.12.0		
 6258587	CharcoalBeavers	version-1.0	Charcoal Beavers	Charcoal Beavers	1.0.13.1	1.0.13.0	EmberpeltsFoodExtension	1.0.10.0		
 6258587	CharcoalBeavers	version-1.0	Charcoal Beavers	Charcoal Beavers	1.0.13.1	1.0.13.0	EmberpeltsAmenitiesExtension	1.0.12.0		
