@@ -1338,7 +1338,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6249580	SuperFaction	version-1.0	SuperFaction - Limitless	SuperFaction 2	1.0.0.0	1.0.0.0	KnatteAnka.MoreGroups_Paths	1.0.0.1		
 6250020	Calloatti.DevNoCtrl	Version-1.0	DevNoCtrl	DevNoCtrl	1.1.2	1.0.12.5	Harmony			
 6250020	Calloatti.DevNoCtrl	Version-1.1	DevNoCtrl	DevNoCtrl	1.1.2	1.1.0.0	Harmony			
-6250026	Calloatti.Grid	Version-1.0	Grid	Grid	3.16.1	1.0.12.5	Harmony			
+6250026	Calloatti.Grid	version-1.0	Grid	Grid	3.17.0	1.0.12.5	Harmony			
 6250159	Calloatti.HousingTweaks	Version-1.0	Housing Tweaks	Housing Tweaks	1.1.1	1.0.0.0	Harmony			
 6250185	Calloatti.HoomanStairs	Version-1.0	Hooman Stairs	Hooman Stairs	2.0.1	1.0.12.5	Harmony			
 6250205	Calloatti.InfiniteStockpiles	Version-1.0	Infinite Stockpiles (Dev Tool)	Infinite Stockpiles (Dev Tool)	1.0.1	1.0.12.5				
@@ -1346,7 +1346,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6250206	Calloatti.ListAllGoods	Version-1.0	List All Goods	List All Goods	1.1.1	1.0.12.10	Harmony			
 6250207	Calloatti.LoadGameModValidator	Version-1.0	Load Game Mod Validator	Load Game Mod Validator	2.0.2	1.0.12.9	Harmony			
 6250208	Calloatti.MapSizeTweaks	Version-1.0	Map Size Tweaks	Map Size Tweaks	1.0.2	1.0.12.5	Harmony			
-6250210	Calloatti.MoreDistrictCrossings	Version-1.0	More District Crossings	More District Crossings	1.0.2	1.0.12.5	Harmony			
+6250210	Calloatti.MoreDistrictCrossings	Version-1.0	More District Crossings	More District Crossings	1.0.4	1.0.12.5	Harmony			
 6250211	Calloatti.NaturalResourcesTweaks	Version-1.0	Natural Resources Tweaks	Natural Resources Tweaks	2.3.10	1.0.12.5	Harmony			
 6250212	Calloatti.NoCameraShift	Version-1.0	No Camera Shift	No Camera Shift	1.0.0	1.0.12.5	Harmony			
 6250215	Calloatti.OneBlockSensors	Version-1.0	One Block Sensors	One Block Sensors	1.1.1	1.0.12.5				
@@ -1368,8 +1368,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6250372	Calloatti.WonderAutomation	Version-1.0	Wonder Automation	Wonder Automation	1.0.2	1.0.12.5				
 6250372	Calloatti.WonderAutomation	Version-1.1	Wonder Automation	Wonder Automation	1.0.2	1.1.0.0				
 6250381	Calloatti.WorkshopClick	Version-1.0	Workshop Click	Workshop Click	1.0.8	1.0.12.5	Harmony			
-6250403	Calloatti.DepthMonitor	Version-1.0	Depth Monitor	Depth Monitor	1.0.5	1.0.12.9				
-6250403	Calloatti.DepthMonitor	Version-1.1	Depth Monitor	Depth Monitor	1.0.5	1.1.0.0				
+6250403	Calloatti.DepthMonitor	Version-1.1	Depth Monitor	Depth Monitor	1.0.6	1.1.0.0				
+6250403	Calloatti.DepthMonitor	version-1.0	Depth Monitor	Depth Monitor	1.0.6	1.0.12.9				
 6250410	Calloatti.VisibleLayersList	Version-1.0	Visible Layers List	Visible Layers List	1.0.3	1.0.12.5	Harmony			
 6250415	Calloatti.ZapThatSap	Version-1.0	Zap That Sap	Zap That Sap	1.0.0	1.0.12.5	Harmony			
 6252300	Ohimeee.BeaverForecast		Beaver Forecast	Beaver Forecast	1.2.0	1.0.13.0				
