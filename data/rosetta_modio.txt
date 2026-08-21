@@ -837,7 +837,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	eMka.ModSettings			
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	Harmony			
 5237083	StreamGaugeTracker		Stream Gauge Tracker	Stream Gauge Tracker	7.0.0	0.7.0.0	TimberUi			
-5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.7.300	0.1				
+5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.8.200	0.1				
 5240798	Grauschweif.MapElements		Grauschweif	Grauschweif's Map Elements	0.2.1	0.7.10.0				
 5241515	Timberborn.CapitanMaxwell.CustomNameList		Custom Name List	Custom Beavers Name List	2.0	0.0.0.0				
 5242703	ExtendedBuilderReach	version-1.1	Extended Builder Reach	Extended Builder Reach	11.0.0	1.1.1	eMka.ModSettings			
@@ -1355,13 +1355,13 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6250218	calloatti.pumptotank	Version-1.1	Pump to Tank	Pump to Tank	1.0.7	1.1.0.0	Harmony			
 6250219	Calloatti.Replatform	Version-1.0	Replatform	Replatform	2.0.10	1.0.12.9	Harmony			
 6250219	Calloatti.Replatform	Version-1.1	Replatform	Replatform	2.0.10	1.1.0.0	Harmony			
-6250220	Calloatti.ResourceMonitor	Version-1.0	Resource Monitor	Resource Monitor	1.0.6	1.0.0.0				
-6250220	Calloatti.ResourceMonitor	Version-1.1	Resource Monitor	Resource Monitor	1.0.6	1.1.0.0				
+6250220	Calloatti.ResourceMonitor	version-1.1	Resource Monitor	Resource Monitor	1.1.0	1.1.0.0				
+6250220	Calloatti.ResourceMonitor	version-1.0	Resource Monitor	Resource Monitor	1.1.0	1.0.0.0				
 6250221	Calloatti.RubbleScavengers	Version-1.0	Rubble Scavengers	Rubble Scavengers	1.1.0	1.0.13.1	Harmony			
 6250223	Calloatti.ShaftBuildOrder	Version-1.0	Shaft Build Order	Shaft Build Order	1.2.0	1.0.0.0	Harmony			
 6250223	Calloatti.ShaftBuildOrder	Version-1.1	Shaft Build Order	Shaft Build Order	1.2.0	1.1.0.0	Harmony			
-6250224	Calloatti.StorageMonitor	Version-1.0	Storage Monitor	Storage Monitor	1.0.2	1.0.12.5				
-6250224	Calloatti.StorageMonitor	Version-1.1	Storage Monitor	Storage Monitor	1.0.2	1.1.0.0				
+6250224	Calloatti.StorageMonitor	version-1.1	Storage Monitor	Storage Monitor	1.1.0	1.1.0.0				
+6250224	Calloatti.StorageMonitor	version-1.0	Storage Monitor	Storage Monitor	1.1.0	1.0.12.5				
 6250225	Calloatti.StoragePanelTweaks	Version-1.0	Storage Panel Tweaks	Storage Panel Tweaks	1.1.1	1.0.13.0	Harmony			
 6250226	calloatti.syncmodspro	Version-1.0	Sync Mods Pro	Sync Mods Pro	1.1.9	1.0.0.0	Harmony			
 6250227	Calloatti.UnPath	Version-1.0	UnPath	UnPath	1.0.5	1.0.12.5	Harmony			
