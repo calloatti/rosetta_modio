@@ -837,7 +837,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	eMka.ModSettings			
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	Harmony			
 5237083	StreamGaugeTracker		Stream Gauge Tracker	Stream Gauge Tracker	7.0.0	0.7.0.0	TimberUi			
-5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.8.200	0.1				
+5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.8.210	0.1				
 5240798	Grauschweif.MapElements		Grauschweif	Grauschweif's Map Elements	0.2.1	0.7.10.0				
 5241515	Timberborn.CapitanMaxwell.CustomNameList		Custom Name List	Custom Beavers Name List	2.0	0.0.0.0				
 5242703	ExtendedBuilderReach	version-1.1	Extended Builder Reach	Extended Builder Reach	11.0.0	1.1.1	eMka.ModSettings			
@@ -877,7 +877,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 5310197	Grauschweif.Seasons		Seasons	Seasons	1.0.4	1.0.13.0				
 5320223	HealAll	version-0.7	HealAll	Heal All	7.0.0	0.7.0.0	ModdablePrefab	7.2.0		
 5320223	HealAll	version-1.0	HealAll	Heal All	1.0.0.2	1.0.0.0				
-5321017	Grauschweif.Scriptpack	version-1.1	Grauschweif	Grauschweif's Scriptpack	1.6.2	1.1.1.0				
+5321017	Grauschweif.Scriptpack	version-1.1	Grauschweif	Grauschweif's Scriptpack	1.7.0	1.1.1.0				
 5321017	Grauschweif.Scriptpack	version-0.7	Grauschweif	Grauschweif's Scriptpack	0.7.3	0.7.10.0				
 5321017	Grauschweif.Scriptpack	version-1.0	Grauschweif	Grauschweif's Scriptpack	1.5.27	1.0.13.0				
 5324252	GreedyGroups	version-1.0.8.1	zxuiji -m- Greedy Groups	GreedyGroups	1.0.8.60	1.0.12.0	ModdableToolGroups	10.4.4		
@@ -1322,7 +1322,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6247150	Calloatti.AutoTools	Version-1.0	Automation Tools	Automation Tools	1.4.5	1.0.12.5	Harmony			
 6247175	Calloatti.AutoTweaks	Version-1.0	Automation Tweaks	Automation Tweaks	1.0.2	1.0.13.1	Harmony			
 6247175	Calloatti.AutoTweaks	Version-1.1	Automation Tweaks	Automation Tweaks	1.0.2	1.1.2.1	Harmony			
-6247335	Calloatti.BeaversForReal	Version-1.0	Beavers For Real	Beavers For Real	2.1.2	1.0.12.10	Harmony			
+6247335	Calloatti.BeaversForReal	Version-1.0	Beavers For Real	Beavers For Real	2.2.0	1.0.13.1	Harmony			
 6247343	Calloatti.BotStorage	Version-1.0	Bot Storage	Bot Storage	1.0.8	1.0.13.1	Harmony			
 6247343	Calloatti.BotStorage	Version-1.0	Bot Storage	Bot Storage	1.0.8	1.0.13.1			Lapantoufleagic.WhitepawsFaction	
 6247343	Calloatti.BotStorage	Version-1.0	Bot Storage	Bot Storage	1.0.8	1.0.13.1			Emberpelts	
@@ -1331,8 +1331,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6247494	Calloatti.BotStoragePowered	Version-1.0	Bot Storage (Powered)	Bot Storage (Powered)	1.0.11	1.0.13.1			Lapantoufleagic.WhitepawsFaction	
 6247494	Calloatti.BotStoragePowered	Version-1.0	Bot Storage (Powered)	Bot Storage (Powered)	1.0.11	1.0.13.1			Emberpelts	
 6247494	Calloatti.BotStoragePowered	Version-1.0	Bot Storage (Powered)	Bot Storage (Powered)	1.0.11	1.0.13.1			Leafcoats	
-6247495	Calloatti.CompactWaterTurbine	version-1.1	Compact Water Turbine	Compact Water Turbine	1.6.6	1.1.2.1	Harmony			
-6247495	Calloatti.CompactWaterTurbine	version-1.0	Compact Water Turbine	Compact Water Turbine	1.6.6	1.0.13.1	Harmony			
+6247495	Calloatti.CompactWaterTurbine	version-1.1	Compact Water Turbine	Compact Water Turbine	1.7.0	1.1.2.1	Harmony			
+6247495	Calloatti.CompactWaterTurbine	version-1.0	Compact Water Turbine	Compact Water Turbine	1.7.0	1.0.13.1	Harmony			
 6249580	SuperFaction	version-1.0	SuperFaction - Limitless	SuperFaction 2	1.0.0.0	1.0.0.0	Emberpelts	1.0.8.1		
 6249580	SuperFaction	version-1.0	SuperFaction - Limitless	SuperFaction 2	1.0.0.0	1.0.0.0	LeafCoats	1.0.8.1		
 6249580	SuperFaction	version-1.0	SuperFaction - Limitless	SuperFaction 2	1.0.0.0	1.0.0.0	KnatteAnka.MoreGroups_Paths	1.0.0.1		
@@ -1454,3 +1454,4 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6297294	Timberborn.IgorZ.MapBrowser	version-1.1	MapBrowser	MapBrowser	1.0.0	1.1.0.0				
 6309767	Timberborn.IgorZ.FillTheGap	version-1.1	Fill The Gap	Fill The Gap	1.0.0	1.1.0.0	Harmony	2.3.3		
 6311926	Calloatti.Footprints	Version-1.0	Footprints	Footprints	1.0.0	1.0.0.0				
+6325096	dividehex.Simple Compass		Simple Compass	Simple Compass	1.0	1.0.0.0				
