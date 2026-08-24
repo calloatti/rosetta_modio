@@ -212,9 +212,9 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3198790	KnatteAnka.MoreGroups	version-0.7.9	MoreGroups	More Groups	7.0.2	0.7.0.0	TimberApi	0.7.11.0		
 3201863	Lapantouflemagic.MPMapEditor	version-0.7	MorePlants ! MapEditor	Map Editor Mod	3.0.9	0.7.8.0	Lapantouflemagic.TexturePack	1.0.4		
 3201863	Lapantouflemagic.MPMapEditor	version-0.6	MorePlants ! MapEditor	Map Editor Mod	3.0.4	0.6.0.4	Lapantouflemagic.TexturePack	1.0.4		
-3229481	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Advanced Automation	4.9.0	1.1.1.1	Harmony	2.3.3		
-3229481	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Advanced Automation	4.9.0	1.1.1.1	eMka.ModSettings	1.0.6.0		
-3229481	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Advanced Automation	4.9.0	1.1.1.1	Timberborn.IgorZ.CustomTools	1.1.1		
+3229481	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Advanced Automation	4.10.0	1.1.1.1	Harmony	2.3.3		
+3229481	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Advanced Automation	4.10.0	1.1.1.1	eMka.ModSettings	1.0.6.0		
+3229481	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Advanced Automation	4.10.0	1.1.1.1	Timberborn.IgorZ.CustomTools	1.1.1		
 3229481	Timberborn.IgorZ.Automation	version-1.0	Advanced Automation	Advanced Automation	4.0.9	1.0.12.0	Harmony	2.3.3		
 3229481	Timberborn.IgorZ.Automation	version-1.0	Advanced Automation	Advanced Automation	4.0.9	1.0.12.0	eMka.ModSettings	1.0.6.0		
 3229481	Timberborn.IgorZ.Automation	version-1.0	Advanced Automation	Advanced Automation	4.0.9	1.0.12.0	Timberborn.IgorZ.CustomTools	1.1.1		
@@ -837,7 +837,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	eMka.ModSettings			
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	Harmony			
 5237083	StreamGaugeTracker		Stream Gauge Tracker	Stream Gauge Tracker	7.0.0	0.7.0.0	TimberUi			
-5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.8.220	0.1				
+5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.8.230	0.1				
 5240798	Grauschweif.MapElements		Grauschweif	Grauschweif's Map Elements	0.2.1	0.7.10.0				
 5241515	Timberborn.CapitanMaxwell.CustomNameList		Custom Name List	Custom Beavers Name List	2.0	0.0.0.0				
 5242703	ExtendedBuilderReach	version-1.1	Extended Builder Reach	Extended Builder Reach	11.0.0	1.1.1	eMka.ModSettings			
@@ -1065,7 +1065,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 5802446	ConfigurableHousing	version-0.7	Configurable Housing	Configurable Housing	7.2.0	0.7.0.0	Harmony			
 5802446	ConfigurableHousing	version-1.0	Configurable Housing	Configurable Housing	10.0.0	1.0.0	eMka.ModSettings			
 5802446	ConfigurableHousing	version-1.0	Configurable Housing	Configurable Housing	10.0.0	1.0.0	ModdableTimberborn			
-5803970	Calloatti.BannerTweaks	Version-1.0	Banner Tweaks	Banner Tweaks	1.1.0	1.0.0.0	Harmony			
+5803970	Calloatti.BannerTweaks	Version-1.0	Banner Tweaks	Banner Tweaks	1.1.1	1.0.0.0	Harmony			
 5805999	eMka.TimberPhysics	version-1.1	Bober's Laws of Motion	Bober's Laws of Motion	1.1.1.0	1.0.10.2	Harmony	2.3.0		
 5805999	eMka.TimberPhysics	version-1.1	Bober's Laws of Motion	Bober's Laws of Motion	1.1.1.0	1.0.10.2	eMka.ModSettings	1.0.7.0		
 5805999	eMka.TimberPhysics	version-1.0	Bober's Laws of Motion	Bober's Laws of Motion	1.0.10.3	1.0.10.2	Harmony	2.3.0		
@@ -1276,8 +1276,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6109891	Revenio.Dragonclaws		Dragonclaws [ModContest1]	Dragonclaws	0.4.1	1.0.0.0	Tobbert.Ladder	1.0.0.2		
 6130246	Timberborn.IgorZ.XRay	version-1.1	X-Ray	X-Ray	1.3.0	1.1.1.1	Harmony	2.3.3		
 6130246	Timberborn.IgorZ.XRay	version-1.1	X-Ray	X-Ray	1.3.0	1.1.1.1	eMka.ModSettings	1.0.12.0		
-6130246	Timberborn.IgorZ.XRay	version-1.0	X-Ray	X-Ray	1.1.1	1.0.12.0	Harmony	2.3.3		
-6130246	Timberborn.IgorZ.XRay	version-1.0	X-Ray	X-Ray	1.1.1	1.0.12.0	eMka.ModSettings	1.0.12.0		
+6130246	Timberborn.IgorZ.XRay	version-1.0	X-Ray	X-Ray	1.1.2	1.0.12.0	Harmony	2.3.3		
+6130246	Timberborn.IgorZ.XRay	version-1.0	X-Ray	X-Ray	1.1.2	1.0.12.0	eMka.ModSettings	1.0.12.0		
 6131824	WoodYouLookAtTheLog		Wood You Look At The Log	Wood You Look At The Log	10.0.0	1.0.0	TimberUi			
 6131860	SylvanGames.LedgeLogging		Ledge Logging	Ledge Logging	0.2.0.0	1.0.0.0	Harmony	2.3.3		
 6131860	SylvanGames.LedgeLogging		Ledge Logging	Ledge Logging	0.2.0.0	1.0.0.0	eMka.ModSettings	1.0.13.0		
@@ -1350,29 +1350,35 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6250207	Calloatti.LoadGameModValidator	Version-1.0	Load Game Mod Validator	Load Game Mod Validator	2.0.2	1.0.12.9	Harmony			
 6250208	Calloatti.MapSizeTweaks	Version-1.0	Map Size Tweaks	Map Size Tweaks	1.0.2	1.0.12.5	Harmony			
 6250210	Calloatti.MoreDistrictCrossings	Version-1.0	More District Crossings	More District Crossings	1.0.4	1.0.12.5	Harmony			
-6250211	Calloatti.NaturalResourcesTweaks	Version-1.0	Natural Resources Tweaks	Natural Resources Tweaks	2.3.10	1.0.12.5	Harmony			
+6250211	Calloatti.NaturalResourcesTweaks	Version-1.0	Natural Resources Tweaks	Natural Resources Tweaks	2.3.11	1.0.12.5	Harmony			
 6250212	Calloatti.NoCameraShift	Version-1.0	No Camera Shift	No Camera Shift	1.0.0	1.0.12.5	Harmony			
-6250215	Calloatti.OneBlockSensors	Version-1.0	One Block Sensors	One Block Sensors	1.1.1	1.0.12.5				
+6250215	Calloatti.OneBlockSensors	Version-1.0	One Block Sensors	One Block Sensors	1.1.2	1.0.12.5			Emberpelts	
 6250217	Calloatti.PausableStorage	Version-1.0	Pausable Storage	Pausable Storage	1.1.0	1.0.0.0	Harmony			
 6250218	calloatti.pumptotank	Version-1.0	Pump to Tank	Pump to Tank	1.0.7	1.0.12.10	Harmony			
 6250218	calloatti.pumptotank	Version-1.1	Pump to Tank	Pump to Tank	1.0.7	1.1.0.0	Harmony			
-6250219	Calloatti.Replatform	Version-1.0	Replatform	Replatform	2.0.10	1.0.12.9	Harmony			
-6250219	Calloatti.Replatform	Version-1.1	Replatform	Replatform	2.0.10	1.1.0.0	Harmony			
-6250220	Calloatti.ResourceMonitor	version-1.1	Resource Monitor	Resource Monitor	1.1.0	1.1.0.0				
-6250220	Calloatti.ResourceMonitor	version-1.0	Resource Monitor	Resource Monitor	1.1.0	1.0.0.0				
+6250219	Calloatti.Replatform	Version-1.0	Replatform	Replatform	2.0.11	1.0.12.9	Harmony			
+6250219	Calloatti.Replatform	Version-1.0	Replatform	Replatform	2.0.11	1.0.12.9			Emberpelts	
+6250219	Calloatti.Replatform	Version-1.0	Replatform	Replatform	2.0.11	1.0.12.9			Lapantoufleagic.WhitepawsFaction	
+6250219	Calloatti.Replatform	Version-1.0	Replatform	Replatform	2.0.11	1.0.12.9			Tobbert.MorePlatforms	
+6250219	Calloatti.Replatform	Version-1.1	Replatform	Replatform	2.0.11	1.1.0.0	Harmony			
+6250219	Calloatti.Replatform	Version-1.1	Replatform	Replatform	2.0.11	1.1.0.0			Emberpelts	
+6250219	Calloatti.Replatform	Version-1.1	Replatform	Replatform	2.0.11	1.1.0.0			Lapantoufleagic.WhitepawsFaction	
+6250219	Calloatti.Replatform	Version-1.1	Replatform	Replatform	2.0.11	1.1.0.0			Tobbert.MorePlatforms	
+6250220	Calloatti.ResourceMonitor	version-1.1	Resource Monitor	Resource Monitor	1.1.1	1.1.0.0			Emberpelts	
+6250220	Calloatti.ResourceMonitor	version-1.0	Resource Monitor	Resource Monitor	1.1.1	1.0.0.0			Emberpelts	
 6250221	Calloatti.RubbleScavengers	Version-1.0	Rubble Scavengers	Rubble Scavengers	1.1.0	1.0.13.1	Harmony			
 6250223	Calloatti.ShaftBuildOrder	Version-1.0	Shaft Build Order	Shaft Build Order	1.2.0	1.0.0.0	Harmony			
 6250223	Calloatti.ShaftBuildOrder	Version-1.1	Shaft Build Order	Shaft Build Order	1.2.0	1.1.0.0	Harmony			
-6250224	Calloatti.StorageMonitor	version-1.1	Storage Monitor	Storage Monitor	1.1.0	1.1.0.0				
-6250224	Calloatti.StorageMonitor	version-1.0	Storage Monitor	Storage Monitor	1.1.0	1.0.12.5				
+6250224	Calloatti.StorageMonitor	version-1.1	Storage Monitor	Storage Monitor	1.1.1	1.1.0.0			Emberpelts	
+6250224	Calloatti.StorageMonitor	version-1.0	Storage Monitor	Storage Monitor	1.1.1	1.0.12.5			Emberpelts	
 6250225	Calloatti.StoragePanelTweaks	Version-1.0	Storage Panel Tweaks	Storage Panel Tweaks	1.1.1	1.0.13.0	Harmony			
 6250226	calloatti.syncmodspro	Version-1.0	Sync Mods Pro	Sync Mods Pro	1.1.9	1.0.0.0	Harmony			
 6250227	Calloatti.UnPath	Version-1.0	UnPath	UnPath	1.0.5	1.0.12.5	Harmony			
 6250372	Calloatti.WonderAutomation	Version-1.0	Wonder Automation	Wonder Automation	1.0.2	1.0.12.5				
 6250372	Calloatti.WonderAutomation	Version-1.1	Wonder Automation	Wonder Automation	1.0.2	1.1.0.0				
 6250381	Calloatti.WorkshopClick	Version-1.0	Workshop Click	Workshop Click	1.0.8	1.0.12.5	Harmony			
-6250403	Calloatti.DepthMonitor	Version-1.1	Depth Monitor	Depth Monitor	1.0.6	1.1.0.0				
-6250403	Calloatti.DepthMonitor	version-1.0	Depth Monitor	Depth Monitor	1.0.6	1.0.12.9				
+6250403	Calloatti.DepthMonitor	Version-1.1	Depth Monitor	Depth Monitor	1.0.7	1.1.0.0			Emberpelts	
+6250403	Calloatti.DepthMonitor	version-1.0	Depth Monitor	Depth Monitor	1.0.7	1.0.12.9			Emberpelts	
 6250410	Calloatti.VisibleLayersList	Version-1.0	Visible Layers List	Visible Layers List	1.0.3	1.0.12.5	Harmony			
 6250415	Calloatti.ZapThatSap	Version-1.0	Zap That Sap	Zap That Sap	1.0.0	1.0.12.5	Harmony			
 6252300	Ohimeee.BeaverForecast		Beaver Forecast	Beaver Forecast	1.2.0	1.0.13.0				
@@ -1461,3 +1467,4 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6326782	pir2.AutoFloodgateLevel		AutoFloodgateLevel	AutoFloodgateLevel	1.0.1.0	1.0.12				
 6326793	pir2.EzAutoFloodgateLevel		EzAutoFloodgateLevel	EzAutoFloodgateLevel	1.0.1.0	1.0.12				
 6328639	BruceTheLoon.UnderwaterBuildings		Underwater Buildings	Underwater Buildings	1.0.0.0	1.0.0.0				
+6330722	HoldYourBeavers		Hold Your Beavers	Hold Your Beavers	1.0.0.0	0.7.0.0				
