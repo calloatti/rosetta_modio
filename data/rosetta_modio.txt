@@ -215,9 +215,9 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3229481	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Advanced Automation	4.10.0	1.1.1.1	Harmony	2.3.3		
 3229481	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Advanced Automation	4.10.0	1.1.1.1	eMka.ModSettings	1.0.6.0		
 3229481	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Advanced Automation	4.10.0	1.1.1.1	Timberborn.IgorZ.CustomTools	1.1.1		
-3229481	Timberborn.IgorZ.Automation	version-1.0	Advanced Automation	Advanced Automation	4.0.9	1.0.12.0	Harmony	2.3.3		
-3229481	Timberborn.IgorZ.Automation	version-1.0	Advanced Automation	Advanced Automation	4.0.9	1.0.12.0	eMka.ModSettings	1.0.6.0		
-3229481	Timberborn.IgorZ.Automation	version-1.0	Advanced Automation	Advanced Automation	4.0.9	1.0.12.0	Timberborn.IgorZ.CustomTools	1.1.1		
+3229481	Timberborn.IgorZ.Automation	version-1.0	Advanced Automation	Advanced Automation	4.0.10	1.0.12.0	Harmony	2.3.3		
+3229481	Timberborn.IgorZ.Automation	version-1.0	Advanced Automation	Advanced Automation	4.0.10	1.0.12.0	eMka.ModSettings	1.0.6.0		
+3229481	Timberborn.IgorZ.Automation	version-1.0	Advanced Automation	Advanced Automation	4.0.10	1.0.12.0	Timberborn.IgorZ.CustomTools	1.1.1		
 3278662	Battery.PowerShaftExtensions	version-0.7	Power Shaft Extensions	Power Shaft Extensions	3.0.0	0.7.9.3	TimberApi	0.7.12.2		
 3278662	Battery.PowerShaftExtensions	version-1.0	Power Shaft Extensions	Power Shaft Extensions	4.0.0	1.0.12.5	ModdableToolGroups	10.4.3		
 3278662	Battery.PowerShaftExtensions	version-1.0	Power Shaft Extensions	Power Shaft Extensions	4.0.0	1.0.12.5			LeafCoats	
@@ -264,8 +264,10 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3669771	GreedyBuilders	version-1.0.8.1	zxuiji -m- Greedy Builders	GreedyBuilders	1.0.9.10	1.1.0.0	List-a-Mole	1.0.9.10		
 3669771	GreedyBuilders	version-1.0.8.1	zxuiji -m- Greedy Builders	GreedyBuilders	1.0.9.10	1.1.0.0	Sate-a-Mole	1.0.9.10		
 3669771	GreedyBuilders	version-1.0.8.1	zxuiji -m- Greedy Builders	GreedyBuilders	1.0.9.10	1.1.0.0	Wack-a-Mole	1.0.9.10		
-3726597	beaverbuddies	BeaverBuddies	BeaverBuddies - Multiplayer Co-Op	Beaver Buddies: Multiplayer Co-op	1.7.1	1.0.0.0	Harmony			
-3726597	beaverbuddies	BeaverBuddies	BeaverBuddies - Multiplayer Co-Op	Beaver Buddies: Multiplayer Co-op	1.7.1	1.0.0.0	eMka.ModSettings	0.7.2.0		
+3726597	beaverbuddies	BeaverBuddies/version-1.1	BeaverBuddies - Multiplayer Co-Op	Beaver Buddies: Multiplayer Co-op	1.1.0-1.0.0	1.1.0.0	Harmony			
+3726597	beaverbuddies	BeaverBuddies/version-1.1	BeaverBuddies - Multiplayer Co-Op	Beaver Buddies: Multiplayer Co-op	1.1.0-1.0.0	1.1.0.0	eMka.ModSettings	1.1.0.0		
+3726597	beaverbuddies	BeaverBuddies/version-1.0	BeaverBuddies - Multiplayer Co-Op	Beaver Buddies: Multiplayer Co-op	1.7.2	1.0.0.0	Harmony			
+3726597	beaverbuddies	BeaverBuddies/version-1.0	BeaverBuddies - Multiplayer Co-Op	Beaver Buddies: Multiplayer Co-op	1.7.2	1.0.0.0	eMka.ModSettings	0.7.2.0		
 3762955	Battery.BigSigns		Big Signs	Big Signs	3.0.5.183	0.6.8.4	TimberApi	0.7.5.0		
 4070833	Timberborn.ModExamples.ShantySpeaker	version-0.7	Shanty Speaker	Shanty Speaker	0.7.5.0	0.7.5.0				
 4070833	Timberborn.ModExamples.ShantySpeaker	version-1.0	Shanty Speaker	Shanty Speaker	1.0.7.0	1.0.7.0				
@@ -837,7 +839,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	eMka.ModSettings			
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	Harmony			
 5237083	StreamGaugeTracker		Stream Gauge Tracker	Stream Gauge Tracker	7.0.0	0.7.0.0	TimberUi			
-5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.8.230	0.1				
+5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.8.240	0.1				
 5240798	Grauschweif.MapElements		Grauschweif	Grauschweif's Map Elements	0.2.1	0.7.10.0				
 5241515	Timberborn.CapitanMaxwell.CustomNameList		Custom Name List	Custom Beavers Name List	2.0	0.0.0.0				
 5242703	ExtendedBuilderReach	version-1.1	Extended Builder Reach	Extended Builder Reach	11.0.0	1.1.1	eMka.ModSettings			
@@ -1468,3 +1470,4 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6326793	pir2.EzAutoFloodgateLevel		EzAutoFloodgateLevel	EzAutoFloodgateLevel	1.0.1.0	1.0.12				
 6328639	BruceTheLoon.UnderwaterBuildings		Underwater Buildings	Underwater Buildings	1.0.0.0	1.0.0.0				
 6330722	HoldYourBeavers		Hold Your Beavers	Hold Your Beavers	1.0.0.0	0.7.0.0				
+6333331	Agroqirax.ControllerSupport		Controller Support	Controller Support	1.1.2.0	1.1.2.0	Harmony			
