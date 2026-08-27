@@ -161,12 +161,12 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3166467	ToolShortcuts		Tool Shortcuts	ToolShortcuts	2.1.4	1.0.12.5	Harmony	2.4.1		
 3168318	Timberborn.IgorZ.SmartPower	version-1.1	SmartPower	Smart Power	1.18.0	1.1.1.1	Harmony	2.3.3		
 3168318	Timberborn.IgorZ.SmartPower	version-1.1	SmartPower	Smart Power	1.18.0	1.1.1.1	eMka.ModSettings	1.0.5.0		
-3168318	Timberborn.IgorZ.SmartPower	version-1.0	SmartPower	Smart Power	1.16.3	1.0.12.7	Harmony	2.3.3		
-3168318	Timberborn.IgorZ.SmartPower	version-1.0	SmartPower	Smart Power	1.16.3	1.0.12.7	eMka.ModSettings	1.0.5.0		
+3168318	Timberborn.IgorZ.SmartPower	version-1.0	SmartPower	Smart Power	1.16.4	1.0.12.7	Harmony	2.3.3		
+3168318	Timberborn.IgorZ.SmartPower	version-1.0	SmartPower	Smart Power	1.16.4	1.0.12.7	eMka.ModSettings	1.0.5.0		
 3198745	Timberborn.IgorZ.TimberCommons	version-1.1	TimberCommons	Timber Commons	1.23.0	1.1.0.2	Harmony	2.3.3		
 3198745	Timberborn.IgorZ.TimberCommons	version-1.1	TimberCommons	Timber Commons	1.23.0	1.1.0.2	eMka.ModSettings	1.0.1.0		
-3198745	Timberborn.IgorZ.TimberCommons	version-1.0	TimberCommons	Timber Commons	1.15.2	1.0.11.0	Harmony	2.3.3		
-3198745	Timberborn.IgorZ.TimberCommons	version-1.0	TimberCommons	Timber Commons	1.15.2	1.0.11.0	eMka.ModSettings	1.0.1.0		
+3198745	Timberborn.IgorZ.TimberCommons	version-1.0	TimberCommons	Timber Commons	1.15.3	1.0.11.0	Harmony	2.3.3		
+3198745	Timberborn.IgorZ.TimberCommons	version-1.0	TimberCommons	Timber Commons	1.15.3	1.0.11.0	eMka.ModSettings	1.0.1.0		
 3198790	KnatteAnka.MoreGroups	version-0.7	MoreGroups	More Groups	7.0.0	0.7.0.0	TimberApi	0.7.11.0		
 3198790	KnatteAnka.MoreGroups	version-0.7	MoreGroups	More Groups	7.0.0	0.7.0.0			Emberpelts	
 3198790	KnatteAnka.MoreGroups	version-0.7	MoreGroups	More Groups	7.0.0	0.7.0.0			BobStorage	
@@ -841,7 +841,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	eMka.ModSettings			
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	Harmony			
 5237083	StreamGaugeTracker		Stream Gauge Tracker	Stream Gauge Tracker	7.0.0	0.7.0.0	TimberUi			
-5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.8.250	0.1				
+5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.8.260	0.1				
 5240798	Grauschweif.MapElements		Grauschweif	Grauschweif's Map Elements	0.2.1	0.7.10.0				
 5241515	Timberborn.CapitanMaxwell.CustomNameList		Custom Name List	Custom Beavers Name List	2.0	0.0.0.0				
 5242703	ExtendedBuilderReach	version-1.1	Extended Builder Reach	Extended Builder Reach	11.0.0	1.1.1	eMka.ModSettings			
