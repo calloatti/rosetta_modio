@@ -5,5 +5,7 @@ PublishedFileID	Id	Creator	Title
 5958451	BuildingDecal	Luke✞JesusSaves✞	Building Banners
 5169262	ConfigurableFaction	Luke✞JesusSaves✞	Configurable Faction (Faction Mixer)
 5743525	ConfigurableFaction	Luke✞JesusSaves✞	Configurable Faction (Faction Mixer)
+6277625	pir2.OhTomatoRecipe	pir2_link	OhTomatoRecipe (automate recipe selection)
+6343129	pir2.OhTomatoRecipe	pir2_link	OhTomatoRecipe (automate recipe sel) MSet flavor
 6036658	SuperFaction	chriskingckay	SuperFactin
 6249580	SuperFaction	Ckay121989	SuperFaction 2

@@ -841,7 +841,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	eMka.ModSettings			
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	Harmony			
 5237083	StreamGaugeTracker		Stream Gauge Tracker	Stream Gauge Tracker	7.0.0	0.7.0.0	TimberUi			
-5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.8.280	0.1				
+5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.8.290	0.1				
 5240798	Grauschweif.MapElements		Grauschweif	Grauschweif's Map Elements	0.2.1	0.7.10.0				
 5241515	Timberborn.CapitanMaxwell.CustomNameList		Custom Name List	Custom Beavers Name List	2.0	0.0.0.0				
 5242703	ExtendedBuilderReach	version-1.1	Extended Builder Reach	Extended Builder Reach	11.0.0	1.1.1	eMka.ModSettings			
@@ -1442,7 +1442,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6272285	Wack-a-Mole	version-1.0.8	Wack-a-Mole	Wack-a-Mole	1.0.9.11	1.0.8.0			Lapantoufleagic.WhitepawsFaction	6.2.3
 6272285	Wack-a-Mole	version-1.0.8	Wack-a-Mole	Wack-a-Mole	1.0.9.11	1.0.8.0			Lapantoufleagic.FrostyWhiskersFaction	0.0.1
 6274214	WorkplaceSchedules	version-1.0	Workplace Schedules	Workplace Schedules	1.0.0	1.0.0	Harmony			
-6277625	pir2.OhTomatoRecipe		OhTomatoRecipe	OhTomatoRecipe (automate recipe selection)	3.0.1.0	1.0.12				
+6277625	pir2.OhTomatoRecipe		OhTomatoRecipe	OhTomatoRecipe (automate recipe selection)	3.1.1.0	1.0.12	Harmony			
 6279618	Calloatti.OmniFactionDevTool	Version-1.0	OmniFaction	OmniFaction (Dev Tool)	1.1.8	1.0.12.5	Harmony			
 6279618	Calloatti.OmniFactionDevTool	Version-1.1	OmniFaction	OmniFaction (Dev Tool)	1.1.8	1.1.2.0	Harmony			
 6280057	Calloatti.HoomanStairsBuildingsNBS	Version-1.0	Hooman Stairs Buildings NBS	Hooman Stairs Buildings NBS	1.0.1	1.0.12.5	Calloatti.HoomanStairs			
@@ -1477,3 +1477,6 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6333331	Agroqirax.ControllerSupport		Controller Support	Controller Support	1.1.2.0.5	1.0.0.0			Cordial.Mods.CutterTool	
 6333331	Agroqirax.ControllerSupport		Controller Support	Controller Support	1.1.2.0.5	1.0.0.0			SourcePulp.GridCutting	
 6333331	Agroqirax.ControllerSupport		Controller Support	Controller Support	1.1.2.0.5	1.0.0.0			BuildingBlueprints	
+6343129	pir2.OhTomatoRecipe		OhTomatoRecipe	OhTomatoRecipe (automate recipe sel) MSet flavor	3.1.1.0	1.0.12	eMka.ModSettings			
+6343129	pir2.OhTomatoRecipe		OhTomatoRecipe	OhTomatoRecipe (automate recipe sel) MSet flavor	3.1.1.0	1.0.12	Harmony			
+6344811	Calloatti.WindTweaks	Version-1.0	Wind Tweaks	Wind Tweaks	1.0.0	1.0.13.1	Harmony			
