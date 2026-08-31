@@ -841,7 +841,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	eMka.ModSettings			
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	Harmony			
 5237083	StreamGaugeTracker		Stream Gauge Tracker	Stream Gauge Tracker	7.0.0	0.7.0.0	TimberUi			
-5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.8.290	0.1				
+5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.8.300	0.1				
 5240798	Grauschweif.MapElements		Grauschweif	Grauschweif's Map Elements	0.2.1	0.7.10.0				
 5241515	Timberborn.CapitanMaxwell.CustomNameList		Custom Name List	Custom Beavers Name List	2.0	0.0.0.0				
 5242703	ExtendedBuilderReach	version-1.1	Extended Builder Reach	Extended Builder Reach	11.0.0	1.1.1	eMka.ModSettings			
@@ -1421,8 +1421,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6260247	MoreBuildingRenovations		More Building Renovations	More Building Renovations	11.0.0	1.1.1	BuildingRenovations			
 6260252	StockpileBalancer		Storage Balancer	Storage Balancer	11.0.0	1.1.1	BuildingRenovations			
 6261217	Calloatti.TheBeaverRetriever	Version-1.0	The Beaver Retriever	The Beaver Retriever	2.0.0	1.0.0.0	Harmony			
-6267761	WearAndTear	version-1.0	Wear and Tear	Wear and Tear	1.0.0	1.0.0	Harmony			
-6267761	WearAndTear	version-1.0	Wear and Tear	Wear and Tear	1.0.0	1.0.0	eMka.ModSettings			
+6267761	WearAndTear	version-1.0	Wear and Tear	Wear and Tear	1.0.2	1.0.0	Harmony			
+6267761	WearAndTear	version-1.0	Wear and Tear	Wear and Tear	1.0.2	1.0.0	eMka.ModSettings			
 6271907	calloatti.saverestartload	Version-1.0	Save Restart Load	Save Restart Load	1.0.0	1.0.0.0	Harmony			
 6272268	Sate-a-Mole	version-1.0.8.0	Sate-a-Mole	Sate-a-Mole	1.0.9.10	1.0.12.0	XtraPlzNoCrashes	10.2.0		
 6272268	Sate-a-Mole	version-1.0.8.0	Sate-a-Mole	Sate-a-Mole	1.0.9.10	1.0.12.0	Lapantouflemagic.TexturePack	1.3.0		
@@ -1472,11 +1472,24 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6326793	pir2.EzAutoFloodgateLevel		EzAutoFloodgateLevel	EzAutoFloodgateLevel	1.0.1.0	1.0.12				
 6328639	BruceTheLoon.UnderwaterBuildings		Underwater Buildings	Underwater Buildings	1.0.0.0	1.0.0.0				
 6330722	HoldYourBeavers		Hold Your Beavers	Hold Your Beavers	1.0.0.0	0.7.0.0				
-6333331	Agroqirax.ControllerSupport		Controller Support	Controller Support	1.1.2.0.5	1.0.0.0	Harmony	2.4.1		
-6333331	Agroqirax.ControllerSupport		Controller Support	Controller Support	1.1.2.0.5	1.0.0.0			kulesz.FPPCamera	
-6333331	Agroqirax.ControllerSupport		Controller Support	Controller Support	1.1.2.0.5	1.0.0.0			Cordial.Mods.CutterTool	
-6333331	Agroqirax.ControllerSupport		Controller Support	Controller Support	1.1.2.0.5	1.0.0.0			SourcePulp.GridCutting	
-6333331	Agroqirax.ControllerSupport		Controller Support	Controller Support	1.1.2.0.5	1.0.0.0			BuildingBlueprints	
+6333331	Agroqirax.ControllerSupport		Controller Support	Controller Support	1.1.2.0.6	1.0.0.0	Harmony	2.4.1		
+6333331	Agroqirax.ControllerSupport		Controller Support	Controller Support	1.1.2.0.6	1.0.0.0	eMka.ModSettings	1.1.1.0		
+6333331	Agroqirax.ControllerSupport		Controller Support	Controller Support	1.1.2.0.6	1.0.0.0			kulesz.FPPCamera	
+6333331	Agroqirax.ControllerSupport		Controller Support	Controller Support	1.1.2.0.6	1.0.0.0			Cordial.Mods.CutterTool	
+6333331	Agroqirax.ControllerSupport		Controller Support	Controller Support	1.1.2.0.6	1.0.0.0			SourcePulp.GridCutting	
+6333331	Agroqirax.ControllerSupport		Controller Support	Controller Support	1.1.2.0.6	1.0.0.0			BuildingBlueprints	
 6343129	pir2.OhTomatoRecipe		OhTomatoRecipe	OhTomatoRecipe (automate recipe sel) MSet flavor	3.1.1.0	1.0.12	eMka.ModSettings			
 6343129	pir2.OhTomatoRecipe		OhTomatoRecipe	OhTomatoRecipe (automate recipe sel) MSet flavor	3.1.1.0	1.0.12	Harmony			
 6344811	Calloatti.WindTweaks	Version-1.0	Wind Tweaks	Wind Tweaks	1.0.0	1.0.13.1	Harmony			
+6346374	GatherResources	version-1.0	Gather Resources	Clear Ruins	1.0.2	1.0.0	Harmony			
+6347408	TailsAndBanners.NettHier		Nett Hier. Aber waren Sie schon mal in Baden-Württemberg?	Nett Hier. Aber waren Sie schon mal in Baden-Wü...	0.1	1.0.0.0				
+6347572	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.10	1.0.12.0	XtraPlzNoCrashes	10.2.0		
+6347572	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.10	1.0.12.0	Lapantouflemagic.TexturePack	1.3.0		
+6347572	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.10	1.0.12.0	Vertical Nav Mesh	1.0.4		
+6347572	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.10	1.0.12.0	List-a-Mole	1.0.9.10		
+6347572	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.10	1.0.12.0	Mesh-a-Mole	1.0.9.10		
+6347572	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.10	1.0.12.0			Emberpelts	1.0.12.1
+6347572	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.10	1.0.12.0			LeafCoats	1.0.12.1
+6347572	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.10	1.0.12.0			Lapantoufleagic.WhitepawsFaction	6.2.3
+6347572	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.10	1.0.12.0			Lapantoufleagic.FrostyWhiskersFaction	0.0.1
+6347591	ViennoiseriesMod.ViennoiserieCastors		La Viennoiserie	La Viennoiserie	0.1	1.0.0.0				
