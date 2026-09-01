@@ -841,7 +841,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	eMka.ModSettings			
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	Harmony			
 5237083	StreamGaugeTracker		Stream Gauge Tracker	Stream Gauge Tracker	7.0.0	0.7.0.0	TimberUi			
-5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.8.300	0.1				
+5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.8.310	0.1				
 5240798	Grauschweif.MapElements		Grauschweif	Grauschweif's Map Elements	0.2.1	0.7.10.0				
 5241515	Timberborn.CapitanMaxwell.CustomNameList		Custom Name List	Custom Beavers Name List	2.0	0.0.0.0				
 5242703	ExtendedBuilderReach	version-1.1	Extended Builder Reach	Extended Builder Reach	11.0.0	1.1.1	eMka.ModSettings			
@@ -1480,7 +1480,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6333331	Agroqirax.ControllerSupport		Controller Support	Controller Support	1.1.2.0.6	1.0.0.0			BuildingBlueprints	
 6343129	pir2.OhTomatoRecipe		OhTomatoRecipe	OhTomatoRecipe (automate recipe sel) MSet flavor	3.1.1.0	1.0.12	eMka.ModSettings			
 6343129	pir2.OhTomatoRecipe		OhTomatoRecipe	OhTomatoRecipe (automate recipe sel) MSet flavor	3.1.1.0	1.0.12	Harmony			
-6344811	Calloatti.WindTweaks	Version-1.0	Wind Tweaks	Wind Tweaks	1.0.0	1.0.13.1	Harmony			
+6344811	Calloatti.WindTweaks	Version-1.0	Wind Tweaks	Wind Tweaks	1.0.1	1.0.13.1	Harmony			
 6346374	GatherResources	version-1.0	Gather Resources	Clear Ruins	1.0.2	1.0.0	Harmony			
 6347408	TailsAndBanners.NettHier		Nett Hier. Aber waren Sie schon mal in Baden-Württemberg?	Nett Hier. Aber waren Sie schon mal in Baden-Wü...	0.1	1.0.0.0				
 6347572	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.10	1.0.12.0	XtraPlzNoCrashes	10.2.0		
