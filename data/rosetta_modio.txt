@@ -841,7 +841,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	eMka.ModSettings			
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	Harmony			
 5237083	StreamGaugeTracker		Stream Gauge Tracker	Stream Gauge Tracker	7.0.0	0.7.0.0	TimberUi			
-5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.8.310	0.1				
+5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.9.10	0.1				
 5240798	Grauschweif.MapElements		Grauschweif	Grauschweif's Map Elements	0.2.1	0.7.10.0				
 5241515	Timberborn.CapitanMaxwell.CustomNameList		Custom Name List	Custom Beavers Name List	2.0	0.0.0.0				
 5242703	ExtendedBuilderReach	version-1.1	Extended Builder Reach	Extended Builder Reach	11.0.0	1.1.1	eMka.ModSettings			
@@ -1492,4 +1492,4 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6347572	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.10	1.0.12.0			LeafCoats	1.0.12.1
 6347572	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.10	1.0.12.0			Lapantoufleagic.WhitepawsFaction	6.2.3
 6347572	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.10	1.0.12.0			Lapantoufleagic.FrostyWhiskersFaction	0.0.1
-6347591	ViennoiseriesMod.ViennoiserieCastors		La Viennoiserie	La Viennoiserie	0.1	1.0.0.0				
+6347591	ViennoiseriesMod.ViennoiserieCastors		La Viennoiserie	La Viennoiserie	1.0.1.0	1.0.0.0				
