@@ -66,3 +66,4 @@ PublishedFileID	Url	Creator	Title
 5680635	https://mod.io/search/mods/5680635	Daniil2014	Быстрая скорость ( fast work )
 5834533	https://mod.io/search/mods/5834533	Luke✞JesusSaves✞	[Building Blueprints] Luke's Decorative Plants
 5877246	https://mod.io/search/mods/5877246	SilverStars	Timberborn API Remote Access App V.1.1
+6357317	https://mod.io/search/mods/6357317	SmartBeaverBlueprints	First Flow v4 Free Starter Blueprint
