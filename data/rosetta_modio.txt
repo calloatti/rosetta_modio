@@ -289,9 +289,9 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3441326	TBMPL.NeedsBoost		TBMPL | Needs Boost	Needs Boost	6.0.0	0.6.8.0	TBMPL.Core	6.3.4		
 3441528	TBMPL.LongerLife		TBMPL | Longer Life	Longer Life	6.2.3	0.6.6.1	TBMPL.Core	6.3.3		
 3456686	TBMPL.NoConstructionLimits		TBMPL | No Construction Limits	No Construction Limits	6.2.0	0.6.4.0	TBMPL.Core	6.2.0		
-3669771	GreedyBuilders	version-1.0.8.1	zxuiji -m- Greedy Builders	GreedyBuilders	1.0.9.10	1.1.0.0	List-a-Mole	1.0.9.10		
-3669771	GreedyBuilders	version-1.0.8.1	zxuiji -m- Greedy Builders	GreedyBuilders	1.0.9.10	1.1.0.0	Sate-a-Mole	1.0.9.10		
-3669771	GreedyBuilders	version-1.0.8.1	zxuiji -m- Greedy Builders	GreedyBuilders	1.0.9.10	1.1.0.0	Wack-a-Mole	1.0.9.10		
+3669771	GreedyBuilders	version-1.0.8.1	zxuiji -m- Greedy Builders	GreedyBuilders	1.0.9.12	1.1.0.0	List-a-Mole	1.0.9.10		
+3669771	GreedyBuilders	version-1.0.8.1	zxuiji -m- Greedy Builders	GreedyBuilders	1.0.9.12	1.1.0.0	Sate-a-Mole	1.0.9.12		
+3669771	GreedyBuilders	version-1.0.8.1	zxuiji -m- Greedy Builders	GreedyBuilders	1.0.9.12	1.1.0.0	Wack-a-Mole	1.0.9.12		
 3726597	beaverbuddies	BeaverBuddies/version-1.1	BeaverBuddies - Multiplayer Co-Op	Beaver Buddies: Multiplayer Co-op	1.1.0-1.0.0	1.1.0.0	Harmony			
 3726597	beaverbuddies	BeaverBuddies/version-1.1	BeaverBuddies - Multiplayer Co-Op	Beaver Buddies: Multiplayer Co-op	1.1.0-1.0.0	1.1.0.0	eMka.ModSettings	1.1.0.0		
 3726597	beaverbuddies	BeaverBuddies/version-1.0	BeaverBuddies - Multiplayer Co-Op	Beaver Buddies: Multiplayer Co-op	1.7.2	1.0.0.0	Harmony			
@@ -751,12 +751,12 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 4984002	ConfigurableBuildingRange		Configurable Building Range	Configurable Building Range	7.0.0	0.7.0.0	Harmony			
 4984002	ConfigurableBuildingRange		Configurable Building Range	Configurable Building Range	7.0.0	0.7.0.0	eMka.ModSettings			
 4986332	TImprove4Mods		TImprove 4 Mods	TImprove 4 Mods	7.2.2	0.7.0.0	TimberUi			
-4987614	GreedyEmbers	version-1.0.8.1	zxuiji -m- Greedy Embers	GreedyEmbers	1.0.9.10	1.0.12.0	BobingaboutScriptPack	1.0.10.3		
-4987614	GreedyEmbers	version-1.0.8.1	zxuiji -m- Greedy Embers	GreedyEmbers	1.0.9.10	1.0.12.0	TImprove4Ui	10.2.0		
-4987614	GreedyEmbers	version-1.0.8.1	zxuiji -m- Greedy Embers	GreedyEmbers	1.0.9.10	1.0.12.0	Emberpelts	1.0.12.1		
-4987614	GreedyEmbers	version-1.0.8.1	zxuiji -m- Greedy Embers	GreedyEmbers	1.0.9.10	1.0.12.0	List-a-Mole	1.0.9.10		
-4987614	GreedyEmbers	version-1.0.8.1	zxuiji -m- Greedy Embers	GreedyEmbers	1.0.9.10	1.0.12.0	Sate-a-Mole	1.0.9.10		
-4987614	GreedyEmbers	version-1.0.8.1	zxuiji -m- Greedy Embers	GreedyEmbers	1.0.9.10	1.0.12.0	Wack-a-Mole	1.0.9.10		
+4987614	GreedyEmbers	version-1.0.8.1	zxuiji -m- Greedy Embers	GreedyEmbers	1.0.9.12	1.0.12.0	BobingaboutScriptPack	1.0.10.3		
+4987614	GreedyEmbers	version-1.0.8.1	zxuiji -m- Greedy Embers	GreedyEmbers	1.0.9.12	1.0.12.0	TImprove4Ui	10.2.0		
+4987614	GreedyEmbers	version-1.0.8.1	zxuiji -m- Greedy Embers	GreedyEmbers	1.0.9.12	1.0.12.0	Emberpelts	1.0.12.1		
+4987614	GreedyEmbers	version-1.0.8.1	zxuiji -m- Greedy Embers	GreedyEmbers	1.0.9.12	1.0.12.0	List-a-Mole	1.0.9.10		
+4987614	GreedyEmbers	version-1.0.8.1	zxuiji -m- Greedy Embers	GreedyEmbers	1.0.9.12	1.0.12.0	Sate-a-Mole	1.0.9.12		
+4987614	GreedyEmbers	version-1.0.8.1	zxuiji -m- Greedy Embers	GreedyEmbers	1.0.9.12	1.0.12.0	Wack-a-Mole	1.0.9.12		
 4993441	EbbAndFlow.water	version-0.7	Ebb and Flow	Ebb and Flow	7.0.0.1	0.7.0.0	Harmony	0.0.0.0		
 4993441	EbbAndFlow.water	version-0.7	Ebb and Flow	Ebb and Flow	7.0.0.1	0.7.0.0	eMka.ModSettings	0.0.0.0		
 4993441	EbbAndFlow.water	version-1.0	Ebb and Flow	Ebb and Flow	2026.05.17	1.0.0.0	Harmony	0.0.0.0		
@@ -871,7 +871,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	eMka.ModSettings			
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	Harmony			
 5237083	StreamGaugeTracker		Stream Gauge Tracker	Stream Gauge Tracker	7.0.0	0.7.0.0	TimberUi			
-5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.9.30	0.1				
+5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.9.50	0.1				
 5240798	Grauschweif.MapElements		Grauschweif	Grauschweif's Map Elements	0.2.1	0.7.10.0				
 5241515	Timberborn.CapitanMaxwell.CustomNameList		Custom Name List	Custom Beavers Name List	2.0	0.0.0.0				
 5242703	ExtendedBuilderReach	version-0.7	Extended Builder Reach	Extended Builder Reach	7.1.1	0.7.0.0	eMka.ModSettings			
@@ -1082,12 +1082,12 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 5776365	BobCommuteBalancer	version-1.1	Bobingabout	Commute Balancer	1.1.1.0	1.1.0.0				
 5776365	BobCommuteBalancer	version-1.0	Bobingabout	Commute Balancer	1.0.13.2	1.0.12.0				
 5777225	TemplateNameFixes	OBS/Timberborn/Mods/zxuiji-m-TemplateNameFixes/version-1.0.8.1	zxuiji -m- Template Name Fixes	TemplateNameFixes	1.0.8.82	1.0.12.0	TNFCollections	1.0.8.60		
-5781660	GreedyPaws	version-1.0.8.1	zxuiji -m- Greedy Paws	GreedyPaws	1.0.9.10	1.0.12.0	Grauschweif.Scriptpack	1.1.1		
-5781660	GreedyPaws	version-1.0.8.1	zxuiji -m- Greedy Paws	GreedyPaws	1.0.9.10	1.0.12.0	Lapantoufleagic.WhitepawsFaction	6.2.3		
-5781660	GreedyPaws	version-1.0.8.1	zxuiji -m- Greedy Paws	GreedyPaws	1.0.9.10	1.0.12.0	TImprove4Ui	10.2.0		
-5781660	GreedyPaws	version-1.0.8.1	zxuiji -m- Greedy Paws	GreedyPaws	1.0.9.10	1.0.12.0	List-a-Mole	1.0.9.10		
-5781660	GreedyPaws	version-1.0.8.1	zxuiji -m- Greedy Paws	GreedyPaws	1.0.9.10	1.0.12.0	Sate-a-Mole	1.0.9.10		
-5781660	GreedyPaws	version-1.0.8.1	zxuiji -m- Greedy Paws	GreedyPaws	1.0.9.10	1.0.12.0	Wack-a-Mole	1.0.9.10		
+5781660	GreedyPaws	version-1.0.8.1	zxuiji -m- Greedy Paws	GreedyPaws	1.0.9.12	1.0.12.0	Grauschweif.Scriptpack	1.1.1		
+5781660	GreedyPaws	version-1.0.8.1	zxuiji -m- Greedy Paws	GreedyPaws	1.0.9.12	1.0.12.0	Lapantoufleagic.WhitepawsFaction	6.2.3		
+5781660	GreedyPaws	version-1.0.8.1	zxuiji -m- Greedy Paws	GreedyPaws	1.0.9.12	1.0.12.0	TImprove4Ui	10.2.0		
+5781660	GreedyPaws	version-1.0.8.1	zxuiji -m- Greedy Paws	GreedyPaws	1.0.9.12	1.0.12.0	List-a-Mole	1.0.9.10		
+5781660	GreedyPaws	version-1.0.8.1	zxuiji -m- Greedy Paws	GreedyPaws	1.0.9.12	1.0.12.0	Sate-a-Mole	1.0.9.12		
+5781660	GreedyPaws	version-1.0.8.1	zxuiji -m- Greedy Paws	GreedyPaws	1.0.9.12	1.0.12.0	Wack-a-Mole	1.0.9.12		
 5788951	PowerZipline		Power Zipline	Power ZipLines	1.0.0	1.0.0.0				
 5794092	calloatti.syncmods	Version-1.0	Sync Mods	Sync Mods	2.1.0	1.0.12.5	Harmony			
 5795147	BuildingBlueprints	version-1.1	Building Blueprints	Building Blueprints	11.0.1	1.1.0	ModdableTimberborn	11.0.0		
