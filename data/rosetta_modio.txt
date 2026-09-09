@@ -620,6 +620,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 4824793	RealLights	version-1.0	Configurable & Moddable Lights	Configurable &amp; Moddable Lights	10.0.2	1.0.0	eMka.ModSettings			
 4824806	NoBuildRestriction	version-0.7	No Build Restriction	No Build Restriction	7.4.1	0.7.0.0	eMka.ModSettings	0.7.0.0		
 4824806	NoBuildRestriction	version-0.7	No Build Restriction	No Build Restriction	7.4.1	0.7.0.0	Harmony			
+4824806	NoBuildRestriction	version-1.1	No Build Restriction	No Build Restriction	11.0.0	1.1.1	eMka.ModSettings			
+4824806	NoBuildRestriction	version-1.1	No Build Restriction	No Build Restriction	11.0.0	1.1.1	ModdableTimberborn			
 4824806	NoBuildRestriction	version-1.0	No Build Restriction	No Build Restriction	10.1.0	1.0.0	eMka.ModSettings			
 4824806	NoBuildRestriction	version-1.0	No Build Restriction	No Build Restriction	10.1.0	1.0.0	ModdableTimberborn	10.0.4		
 4836363	BobingaboutBeaverFactionSplitNeeds	version-0.7	Bobingabout Beaver Faction Split Needs	Beaver Faction Split Needs	0.7.9.0	0.7.9.0	BobingaboutScriptPack	0.7.8.0		
@@ -932,6 +934,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 5372630	MultiYieldersPlzNoCrashes		MultiYieldersPlzNoCrashes	MultiYieldersPlzNoCrashes	10.0.1	1.0.0	Harmony			
 5372659	DaisugiForestry		Daisugi Forestry	Daisugi Forestry (Renewable Log)	10.1.2	1.0.0	XtraPlzNoCrashes			
 5412720	TransparentShaders	version-0.7	Transparent Shaders	Transparent Shaders	10.1.0	0.7.0				
+5412720	TransparentShaders	version-1.1	Transparent Shaders	Transparent Shaders	11.0.0	1.1.1				
 5412720	TransparentShaders	version-1.0	Transparent Shaders	Transparent Shaders	10.1.0	0.7.0				
 5412733	TransparentTerrain	version-0.7	Transparent Terrain	Transparent Terrain	10.1.0	0.7.0	TransparentShaders	10.1.0		
 5412733	TransparentTerrain	version-0.7	Transparent Terrain	Transparent Terrain	10.1.0	0.7.0	TimberUi			
@@ -1070,8 +1073,10 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 5743525	ConfigurableFaction	version-1.0	Configurable Faction (Faction Mixer)	Configurable Faction (Faction Mixer)	10.0.2	1.0.0	eMka.ModSettings			
 5743525	ConfigurableFaction	version-1.0	Configurable Faction (Faction Mixer)	Configurable Faction (Faction Mixer)	10.0.2	1.0.0	ModdableTimberborn	10.1.0		
 5743525	ConfigurableFaction	version-1.0	Configurable Faction (Faction Mixer)	Configurable Faction (Faction Mixer)	10.0.2	1.0.0	XtraPlzNoCrashes			
-5753288	ModdableDecalGroups		Moddable Decal Groups	Moddable Decal Groups	10.1.1	1.0.0	TimberUi			
-5753288	ModdableDecalGroups		Moddable Decal Groups	Moddable Decal Groups	10.1.1	1.0.0	Harmony			
+5753288	ModdableDecalGroups	version-1.1	Moddable Decal Groups	Moddable Decal Groups	11.0.0	1.0.0	TimberUi			
+5753288	ModdableDecalGroups	version-1.1	Moddable Decal Groups	Moddable Decal Groups	11.0.0	1.0.0	Harmony			
+5753288	ModdableDecalGroups	version-1.0	Moddable Decal Groups	Moddable Decal Groups	10.1.1	1.0.0	TimberUi			
+5753288	ModdableDecalGroups	version-1.0	Moddable Decal Groups	Moddable Decal Groups	10.1.1	1.0.0	Harmony			
 5755487	QuickStart		Quick Start	Quick Start	7.1.0	0.7.0.0	eMka.ModSettings			
 5755487	QuickStart		Quick Start	Quick Start	7.1.0	0.7.0.0	Harmony			
 5762852	PowerCopy		Power Copy	Power Copy	10.1.0	1.0.0	ModdableTimberborn			
@@ -1127,22 +1132,25 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 5818922	grauschweif.crappyrope		Rappelling Ropes	Rappelling Ropes	1.4.3	1.0.10.1			GreedyBuilders	
 5818922	grauschweif.crappyrope		Rappelling Ropes	Rappelling Ropes	1.4.3	1.0.10.1			Adaptors	
 5818922	grauschweif.crappyrope		Rappelling Ropes	Rappelling Ropes	1.4.3	1.0.10.1			LoneFaerie.Badfurs	
-5820219	HueAndTurnX		Hue & Turn X	Hue &amp; Turn X [Works with Map Editor]	10.0.0	1.0.0	ModdableTimberborn			
-5820219	HueAndTurnX		Hue & Turn X	Hue &amp; Turn X [Works with Map Editor]	10.0.0	1.0.0	eMka.ModSettings			
-5820219	HueAndTurnX		Hue & Turn X	Hue &amp; Turn X [Works with Map Editor]	10.0.0	1.0.0	TransparentShaders			
+5820219	HueAndTurnX	version-1.1	Hue & Turn X	Hue &amp; Turn X [Works with Map Editor]	11.0.0	1.1.1	ModdableTimberborn			
+5820219	HueAndTurnX	version-1.1	Hue & Turn X	Hue &amp; Turn X [Works with Map Editor]	11.0.0	1.1.1	eMka.ModSettings			
+5820219	HueAndTurnX	version-1.1	Hue & Turn X	Hue &amp; Turn X [Works with Map Editor]	11.0.0	1.1.1	TransparentShaders			
+5820219	HueAndTurnX	version-1.0	Hue & Turn X	Hue &amp; Turn X [Works with Map Editor]	10.0.0	1.0.0	ModdableTimberborn			
+5820219	HueAndTurnX	version-1.0	Hue & Turn X	Hue &amp; Turn X [Works with Map Editor]	10.0.0	1.0.0	eMka.ModSettings			
+5820219	HueAndTurnX	version-1.0	Hue & Turn X	Hue &amp; Turn X [Works with Map Editor]	10.0.0	1.0.0	TransparentShaders			
 5824850	grauschweif.materials		Grauschweif Materials	Grauschweif Materials	2.3.1	1.0.0.0	Harmony	2.4.1		
-5832119	grauschweif.decoration	version-1.1	Grauschweif's Decorations	Grauschweifs Decorations	4.0	1.1.0.2	grauschweif.materials	2.3		
-5832119	grauschweif.decoration	version-1.1	Grauschweif's Decorations	Grauschweifs Decorations	4.0	1.1.0.2	eMka.TimberPhysics	1.0.10.3		
-5832119	grauschweif.decoration	version-1.1	Grauschweif's Decorations	Grauschweifs Decorations	4.0	1.1.0.2	Grauschweif.Scriptpack	1.6.0		
-5832119	grauschweif.decoration	version-1.1	Grauschweif's Decorations	Grauschweifs Decorations	4.0	1.1.0.2	ModdableToolGroups	10.4.0		
-5832119	grauschweif.decoration	version-1.1	Grauschweif's Decorations	Grauschweifs Decorations	4.0	1.1.0.2			Lapantoufleagic.WhitepawsFaction	
-5832119	grauschweif.decoration	version-1.1	Grauschweif's Decorations	Grauschweifs Decorations	4.0	1.1.0.2			Emberpelts	
-5832119	grauschweif.decoration	version-1.1	Grauschweif's Decorations	Grauschweifs Decorations	4.0	1.1.0.2			Leafcoats	
-5832119	grauschweif.decoration	version-1.1	Grauschweif's Decorations	Grauschweifs Decorations	4.0	1.1.0.2			GreedyEmbers	
-5832119	grauschweif.decoration	version-1.1	Grauschweif's Decorations	Grauschweifs Decorations	4.0	1.1.0.2			GreedyCoats	
-5832119	grauschweif.decoration	version-1.1	Grauschweif's Decorations	Grauschweifs Decorations	4.0	1.1.0.2			GreedyBuilders	
-5832119	grauschweif.decoration	version-1.1	Grauschweif's Decorations	Grauschweifs Decorations	4.0	1.1.0.2			LoneFaerie.Badfurs	
-5832119	grauschweif.decoration	version-1.1	Grauschweif's Decorations	Grauschweifs Decorations	4.0	1.1.0.2			eMka.Riverborne	
+5832119	grauschweif.decoration	version-1.1	Grauschweif's Decorations	Grauschweifs Decorations	4.1.1	1.1.0.2	grauschweif.materials	2.3		
+5832119	grauschweif.decoration	version-1.1	Grauschweif's Decorations	Grauschweifs Decorations	4.1.1	1.1.0.2	eMka.TimberPhysics	1.0.10.3		
+5832119	grauschweif.decoration	version-1.1	Grauschweif's Decorations	Grauschweifs Decorations	4.1.1	1.1.0.2	Grauschweif.Scriptpack	1.7.0		
+5832119	grauschweif.decoration	version-1.1	Grauschweif's Decorations	Grauschweifs Decorations	4.1.1	1.1.0.2	ModdableToolGroups	10.4.0		
+5832119	grauschweif.decoration	version-1.1	Grauschweif's Decorations	Grauschweifs Decorations	4.1.1	1.1.0.2			Lapantoufleagic.WhitepawsFaction	
+5832119	grauschweif.decoration	version-1.1	Grauschweif's Decorations	Grauschweifs Decorations	4.1.1	1.1.0.2			Emberpelts	
+5832119	grauschweif.decoration	version-1.1	Grauschweif's Decorations	Grauschweifs Decorations	4.1.1	1.1.0.2			Leafcoats	
+5832119	grauschweif.decoration	version-1.1	Grauschweif's Decorations	Grauschweifs Decorations	4.1.1	1.1.0.2			GreedyEmbers	
+5832119	grauschweif.decoration	version-1.1	Grauschweif's Decorations	Grauschweifs Decorations	4.1.1	1.1.0.2			GreedyCoats	
+5832119	grauschweif.decoration	version-1.1	Grauschweif's Decorations	Grauschweifs Decorations	4.1.1	1.1.0.2			GreedyBuilders	
+5832119	grauschweif.decoration	version-1.1	Grauschweif's Decorations	Grauschweifs Decorations	4.1.1	1.1.0.2			LoneFaerie.Badfurs	
+5832119	grauschweif.decoration	version-1.1	Grauschweif's Decorations	Grauschweifs Decorations	4.1.1	1.1.0.2			eMka.Riverborne	
 5832119	grauschweif.decoration	version-1.0	Grauschweif's Decorations	Grauschweifs Decorations	3.3	1.0.10.1	grauschweif.materials	2.3		
 5832119	grauschweif.decoration	version-1.0	Grauschweif's Decorations	Grauschweifs Decorations	3.3	1.0.10.1	eMka.TimberPhysics	1.0.10.3		
 5832119	grauschweif.decoration	version-1.0	Grauschweif's Decorations	Grauschweifs Decorations	3.3	1.0.10.1	Grauschweif.Scriptpack	1.5.0		
@@ -1192,8 +1200,10 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 5942783	MoreAchievements		More Achievements	More Achievements	10.0.0	1.0.4			TImprove4Achievements	
 5955562	BobingaboutSeepCover	version-1.1	Seep Cover	Seep Covers	1.1.1.0	1.1.1.0				
 5955562	BobingaboutSeepCover	version-1.0	Seep Cover	Seep Covers	1.0.12.2	1.0.12.0				
-5958451	BuildingDecal		Building Banners	Building Banners	10.0.1	1.0.0	ModdableTimberborn			
-5958451	BuildingDecal		Building Banners	Building Banners	10.0.1	1.0.0	ModdableDecalGroups			
+5958451	BuildingDecal	version-1.1	Building Banners	Building Banners	11.0.0	1.1.1	ModdableTimberborn			
+5958451	BuildingDecal	version-1.1	Building Banners	Building Banners	11.0.0	1.1.1	ModdableDecalGroups			
+5958451	BuildingDecal	version-1.0	Building Banners	Building Banners	10.0.1	1.0.0	ModdableTimberborn			
+5958451	BuildingDecal	version-1.0	Building Banners	Building Banners	10.0.1	1.0.0	ModdableDecalGroups			
 5968932	Ilicen.Small River		Small River: A Riverborne Addon	Small River - A Riverborne Addon	0.2.1	1.0.0.0				
 5976938	Ilicen.DandelionSmoothie		Folktail - Dandelion Smoothie	Folktail - Dandelion Smoothie	0.1.1	1.0.0.0				
 5989086	LongNames		Long Names	Long Names	0.0.1	0.6.0.0				
@@ -1566,7 +1576,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6347572	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.10	1.0.12.0			Lapantoufleagic.FrostyWhiskersFaction	0.0.1
 6347591	ViennoiseriesMod.ViennoiserieCastors		La Viennoiserie	La Viennoiserie	1.1.0.0	1.0.0.0				
 6356538	Calloatti.Anemometer	version-1.1	Anemometer	Anemometer	1.0.0	1.1.2.4				
-6363852	Calloatti.NaturalResourcesStatistics	version-1.1	Natural Resources Statistics	Natural Resources Statistics	1.0.0	1.1.2.4				
+6363852	Calloatti.NaturalResourcesStatistics	version-1.1	Natural Resources Statistics	Natural Resources Statistics	1.0.1	1.1.2.4				
 6364426	FolktailsPlus		Folktails+	Folktails+	11.0.0	1.1.1	XtraPlzNoCrashes			
 6364426	FolktailsPlus		Folktails+	Folktails+	11.0.0	1.1.1			KnatteAnka.MoreGroups	
 6364555	Calloatti.PowerMonitor	version-1.1	Power Monitor	Power Monitor	1.0.0	1.1.2.4				
