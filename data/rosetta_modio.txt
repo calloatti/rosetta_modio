@@ -77,10 +77,10 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 2613736	KnatteAnka.Path_extention	version-0.6	Path Extention	Path Extention	2.1.0	0.6.0.0	KnatteAnka.Materials	1.0.2		
 2613736	KnatteAnka.Path_extention	version-0.6	Path Extention	Path Extention	2.1.0	0.6.0.0			Emberpelts	
 2613736	KnatteAnka.Path_extention	version-0.6	Path Extention	Path Extention	2.1.0	0.6.0.0			TimberApi	
-2613736	KnatteAnka.Path_extention	version-1.1.0	Path Extention	Path Extention	1.1.0.0	1.1.0.0	KnatteAnka.Materials	1.0.1.0		
-2613736	KnatteAnka.Path_extention	version-1.1.0	Path Extention	Path Extention	1.1.0.0	1.1.0.0	ModdableToolGroups	11.0.0		
-2613736	KnatteAnka.Path_extention	version-1.1.0	Path Extention	Path Extention	1.1.0.0	1.1.0.0			Emberpelts	
-2613736	KnatteAnka.Path_extention	version-1.1.0	Path Extention	Path Extention	1.1.0.0	1.1.0.0			BobPlatforms	
+2613736	KnatteAnka.Path_extention	version-1.1.0	Path Extention	Path Extention	1.1.0.1	1.1.0.0	KnatteAnka.Materials	1.0.1.0		
+2613736	KnatteAnka.Path_extention	version-1.1.0	Path Extention	Path Extention	1.1.0.1	1.1.0.0	ModdableToolGroups	11.0.0		
+2613736	KnatteAnka.Path_extention	version-1.1.0	Path Extention	Path Extention	1.1.0.1	1.1.0.0			Emberpelts	
+2613736	KnatteAnka.Path_extention	version-1.1.0	Path Extention	Path Extention	1.1.0.1	1.1.0.0			BobPlatforms	
 2613736	KnatteAnka.Path_extention	version-1.0.0	Path Extention	Path Extention	1.0.0.9	1.0.11.1	KnatteAnka.Materials	1.0.1.0		
 2613736	KnatteAnka.Path_extention	version-1.0.0	Path Extention	Path Extention	1.0.0.9	1.0.11.1	ModdableToolGroups	10.1.0		
 2613736	KnatteAnka.Path_extention	version-1.0.0	Path Extention	Path Extention	1.0.0.9	1.0.11.1			Emberpelts	
@@ -873,7 +873,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	eMka.ModSettings			
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	Harmony			
 5237083	StreamGaugeTracker		Stream Gauge Tracker	Stream Gauge Tracker	7.0.0	0.7.0.0	TimberUi			
-5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.9.70	0.1				
+5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.9.90	0.1				
 5240798	Grauschweif.MapElements		Grauschweif	Grauschweif's Map Elements	0.2.1	0.7.10.0				
 5241515	Timberborn.CapitanMaxwell.CustomNameList		Custom Name List	Custom Beavers Name List	2.0	0.0.0.0				
 5242703	ExtendedBuilderReach	version-0.7	Extended Builder Reach	Extended Builder Reach	7.1.1	0.7.0.0	eMka.ModSettings			
@@ -1583,3 +1583,5 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6365434	TimberSeasons	version-1.0	Timber Seasons	TimberSeasons	1.0.0	1.0.0	Harmony			
 6365434	TimberSeasons	version-1.0	Timber Seasons	TimberSeasons	1.0.0	1.0.0	eMka.ModSettings			
 6366855	Building.NaturalOverhangs		Buildable Natural Overhangs	Buildable Natural Overhangs	0.1	1.0.0.0				
+6371761	MapTransformer		Map Transformer	Map Transformer [Game + Map Editor]	11.0.0	1.1.1	Harmony			
+6371761	MapTransformer		Map Transformer	Map Transformer [Game + Map Editor]	11.0.0	1.1.1	ModdableTimberborn			
