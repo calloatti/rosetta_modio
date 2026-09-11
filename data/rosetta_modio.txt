@@ -240,9 +240,9 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3198790	KnatteAnka.MoreGroups	version-0.7.9	MoreGroups	More Groups	7.0.2	0.7.0.0	TimberApi	0.7.11.0		
 3201863	Lapantouflemagic.MPMapEditor	version-0.7	MorePlants ! MapEditor	Map Editor Mod	3.0.9	0.7.8.0	Lapantouflemagic.TexturePack	1.0.4		
 3201863	Lapantouflemagic.MPMapEditor	version-0.6	MorePlants ! MapEditor	Map Editor Mod	3.0.4	0.6.0.4	Lapantouflemagic.TexturePack	1.0.4		
-3229481	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Advanced Automation	4.10.0	1.1.1.1	Harmony	2.3.3		
-3229481	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Advanced Automation	4.10.0	1.1.1.1	eMka.ModSettings	1.0.6.0		
-3229481	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Advanced Automation	4.10.0	1.1.1.1	Timberborn.IgorZ.CustomTools	1.1.1		
+3229481	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Advanced Automation	4.11.0	1.1.1.1	Harmony	2.3.3		
+3229481	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Advanced Automation	4.11.0	1.1.1.1	eMka.ModSettings	1.0.6.0		
+3229481	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Advanced Automation	4.11.0	1.1.1.1	Timberborn.IgorZ.CustomTools	1.1.1		
 3229481	Timberborn.IgorZ.Automation	version-1.0	Advanced Automation	Advanced Automation	4.0.11	1.0.12.0	Harmony	2.3.3		
 3229481	Timberborn.IgorZ.Automation	version-1.0	Advanced Automation	Advanced Automation	4.0.11	1.0.12.0	eMka.ModSettings	1.0.6.0		
 3229481	Timberborn.IgorZ.Automation	version-1.0	Advanced Automation	Advanced Automation	4.0.11	1.0.12.0	Timberborn.IgorZ.CustomTools	1.1.1		
