@@ -1325,7 +1325,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6072694	SylvanGames.Keystone		Keystone	Keystone	1.3.3.0	1.1.0.0	TimberUi	10.1.5		
 6072694	SylvanGames.Keystone		Keystone	Keystone	1.3.3.0	1.1.0.0	Harmony	2.3.3		
 6072694	SylvanGames.Keystone		Keystone	Keystone	1.3.3.0	1.1.0.0	eMka.ModSettings	1.0.13.0		
-6086273	Aoernis.ZiplineWalkThrough		Zipline Walk-Through	Zipline Walk-Through	1.0.0	1.0.12.5	Harmony			
+6086273	Aoernis.ZiplineWalkThrough		Zipline Walk-Through	Zipline Walk-Through [1.1 updated]	1.1.0	1.0.12.5	Harmony	2.4.1		
 6109891	Revenio.Dragonclaws		Dragonclaws [ModContest1]	Dragonclaws	0.4.1	1.0.0.0	Tobbert.Ladder	1.0.0.2		
 6130246	Timberborn.IgorZ.XRay	version-1.1	X-Ray	X-Ray	1.3.0	1.1.1.1	Harmony	2.3.3		
 6130246	Timberborn.IgorZ.XRay	version-1.1	X-Ray	X-Ray	1.3.0	1.1.1.1	eMka.ModSettings	1.0.12.0		
@@ -1548,7 +1548,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6309767	Timberborn.IgorZ.FillTheGap	version-1.1	Fill The Gap	Fill The Gap	1.0.0	1.1.0.0	Harmony	2.3.3		
 6311926	Calloatti.Footprints	Version-1.1	Footprints	Footprints	1.0.1	1.1.2.4				
 6311926	Calloatti.Footprints	Version-1.0	Footprints	Footprints	1.0.1	1.0.13.1				
-6325096	dividehex.Simple Compass		Simple Compass	Simple Compass	1.0	1.0.0.0				
+6325096	dividehex.Simple Compass		Simple Compass	Simple Compass	1.1.0	1.0.0.0				
 6326782	pir2.AutoFloodgateLevel		AutoFloodgateLevel	AutoFloodgateLevel	1.0.1.0	1.0.12				
 6326793	pir2.EzAutoFloodgateLevel		EzAutoFloodgateLevel	EzAutoFloodgateLevel	1.0.1.0	1.0.12				
 6328639	BruceTheLoon.UnderwaterBuildings		Underwater Buildings	Underwater Buildings	1.0.0.0	1.0.0.0				
@@ -1585,3 +1585,5 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6366855	Building.NaturalOverhangs		Buildable Natural Overhangs	Buildable Natural Overhangs	0.1	1.0.0.0				
 6371761	MapTransformer		Map Transformer	Map Transformer [Game + Map Editor]	11.0.0	1.1.1	Harmony			
 6371761	MapTransformer		Map Transformer	Map Transformer [Game + Map Editor]	11.0.0	1.1.1	ModdableTimberborn			
+6377126	Agroqirax.TimberbornMCP		Timberborn MCP	Timberborn MCP	1.1.2.4.1	1.1.0.0	eMka.ModSettings	1.0.1.0		
+6377132	Agroqirax.TimberbornMCPDevs		Timberborn MCP Dev Tools	Timberborn MCP Devs	0.1.0.0	1.1.0.0	Agroqirax.TimberbornMCP	1.1.2.0.1		
