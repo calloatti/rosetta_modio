@@ -140,6 +140,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 2931246	Lapantouflemagic.MPReader	version-0.7	MorePlants ! Reader	Special Map Reader mod	3.0.9	0.7.8.0			Lapantouflemagic.WhitepawsFaction	
 2931246	Lapantouflemagic.MPReader	version-0.6	MorePlants ! Reader	Special Map Reader mod	3.0.4	0.6.0.4	Lapantouflemagic.TexturePack	1.0.4		
 3005262	Timberborn.ModExamples.HelloWorld	version-0.7.9.3	Hello World	Flywheels	1.0.0.0	1.0.0.0				
+3005262	Battery.Flywheels	Version-1.1	Flywheels	Flywheels	4.1.1.15	1.1.2.4				
 3005262	Battery.Flywheels	version-1.0.12.6	Flywheels	Flywheels	4.1.1.14	1.0.12.6				
 3005262	Battery.Flywheels	version-0.7.8.1	Flywheels	Flywheels	3.0.1.94	0.7.8.1	TimberApi	0.7.5.0		
 3093239			DehydrationAlert	Dehydration Alert						
@@ -1366,7 +1367,9 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6197624	MagdalenaPotakowska.WoodWorkers		Wood Workers Tails and Banners [ModContest1]	Wood Workers Tails and Banners	1.0.0	1.0.0			ModdableDecalGroups	
 6204421	DisableHauling		Disable Hauling	Disable Hauling	11.0.0	1.1.0	ModdableTimberborn			
 6204702	WipWatch	version-1.0	WIP Watch	WIPWatch	0.6.4	1.0.0.0				
-6205736	ConveyorBelt		Conveyor Belts	Conveyor Belts	11.1.1	1.1.0	ModdableTimberborn			
+6205736	ConveyorBelt		Conveyor Belts	Conveyor Belts	11.2.0	1.1.0	ModdableTimberborn			
+6205736	ConveyorBelt		Conveyor Belts	Conveyor Belts	11.2.0	1.1.0	ModdableToolGroups			
+6205736	ConveyorBelt		Conveyor Belts	Conveyor Belts	11.2.0	1.1.0	eMka.ModSettings			
 6210129	AllBuildingsTransferPower		All Buildings Transfer Power	All Buildings Transfer Power	11.0.1	1.1.0	ModdableTimberborn			
 6220899	BruceTheLoon.ForestPath	version-1.1	Forest Path	Forest Path	1.0.1.0	1.1.0.0				
 6220899	BruceTheLoon.ForestPath	version-1.0	Forest Path	Forest Path	1.0.1.0	1.0.6.0				
@@ -1589,6 +1592,6 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6371761	MapTransformer		Map Transformer	Map Transformer [Game + Map Editor]	11.0.0	1.1.1	ModdableTimberborn			
 6377126	Agroqirax.TimberbornMCP		Timberborn MCP	Timberborn MCP	1.1.2.4.1	1.1.0.0	eMka.ModSettings	1.0.1.0		
 6377132	Agroqirax.TimberbornMCPDevs		Timberborn MCP Dev Tools	Timberborn MCP Devs	0.1.0.0	1.1.0.0	Agroqirax.TimberbornMCP	1.1.2.0.1		
-6383407	Calloatti.HighlightTweaks	version-1.1	Highlight Tweaks	Highlight Tweaks	1.0.0	1.1.2.4	Harmony			
-6384148	TimberPipes		Timber Pipes	Timber Pipes	11.0.0	1.1.1	ModdableTimberborn			
-6384148	TimberPipes		Timber Pipes	Timber Pipes	11.0.0	1.1.1	ModdableToolGroups			
+6383407	Calloatti.HighlightTweaks	version-1.1	Highlight Tweaks	Highlight Tweaks	1.0.1	1.1.2.4	Harmony			
+6384148	TimberPipes		Timber Pipes	Timber Pipes	11.0.1	1.1.1	ModdableTimberborn			
+6384148	TimberPipes		Timber Pipes	Timber Pipes	11.0.1	1.1.1	ModdableToolGroups			
