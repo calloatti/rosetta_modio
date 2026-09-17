@@ -1593,5 +1593,6 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6377126	Agroqirax.TimberbornMCP		Timberborn MCP	Timberborn MCP	1.1.2.4.1	1.1.0.0	eMka.ModSettings	1.0.1.0		
 6377132	Agroqirax.TimberbornMCPDevs		Timberborn MCP Dev Tools	Timberborn MCP Devs	0.1.0.0	1.1.0.0	Agroqirax.TimberbornMCP	1.1.2.0.1		
 6383407	Calloatti.HighlightTweaks	version-1.1	Highlight Tweaks	Highlight Tweaks	1.0.1	1.1.2.4	Harmony			
-6384148	TimberPipes		Timber Pipes	Timber Pipes	11.0.1	1.1.1	ModdableTimberborn			
-6384148	TimberPipes		Timber Pipes	Timber Pipes	11.0.1	1.1.1	ModdableToolGroups			
+6384148	TimberPipes		Timber Pipes	Timber Pipes	11.1.0	1.1.1	ModdableTimberborn			
+6384148	TimberPipes		Timber Pipes	Timber Pipes	11.1.0	1.1.1	ModdableToolGroups			
+6386689	Calloatti.ImpermeableWall	Version-1.1	Impermeable Wall	Impermeable Wall	1.1.0	1.1.2.4	Harmony			
