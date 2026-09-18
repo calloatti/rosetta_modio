@@ -1596,3 +1596,6 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6384148	TimberPipes		Timber Pipes	Timber Pipes	11.1.0	1.1.1	ModdableTimberborn			
 6384148	TimberPipes		Timber Pipes	Timber Pipes	11.1.0	1.1.1	ModdableToolGroups			
 6386689	Calloatti.ImpermeableWall	Version-1.1	Impermeable Wall	Impermeable Wall	1.1.0	1.1.2.4	Harmony			
+6388248	SuperFaction	version-1.1	SuperFaction - Limitless	SuperFaction 1.0-1.1	1.1.0.0	1.1.0.0	Emberpelts	1.0.8.1		
+6388248	SuperFaction	version-1.1	SuperFaction - Limitless	SuperFaction 1.0-1.1	1.1.0.0	1.1.0.0	LeafCoats	1.0.8.1		
+6388248	SuperFaction	version-1.1	SuperFaction - Limitless	SuperFaction 1.0-1.1	1.1.0.0	1.1.0.0	KnatteAnka.MoreGroups_Paths	1.0.0.1		

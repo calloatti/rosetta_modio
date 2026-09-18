@@ -9,3 +9,4 @@ PublishedFileID	Id	Creator	Title
 6343129	pir2.OhTomatoRecipe	pir2_link	OhTomatoRecipe (automate recipe sel) MSet flavor
 6036658	SuperFaction	chriskingckay	SuperFactin
 6249580	SuperFaction	Ckay121989	SuperFaction 2
+6388248	SuperFaction	chriskingckay	SuperFaction 1.0-1.1
