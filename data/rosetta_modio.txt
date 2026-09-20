@@ -1410,7 +1410,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6249580	SuperFaction	version-1.0	SuperFaction - Limitless	SuperFaction 2	1.0.0.0	1.0.0.0	KnatteAnka.MoreGroups_Paths	1.0.0.1		
 6250020	Calloatti.DevNoCtrl	Version-1.1	DevNoCtrl	DevNoCtrl	1.1.3	1.1.2.4	Harmony			
 6250020	Calloatti.DevNoCtrl	Version-1.0	DevNoCtrl	DevNoCtrl	1.1.3	1.0.13.1	Harmony			
-6250026	Calloatti.Grid	Version-1.1	Grid	Grid	3.17.1	1.1.2.4	Harmony			
+6250026	Calloatti.Grid	Version-1.1	Grid	Grid	3.17.2	1.1.2.4	Harmony			
 6250026	Calloatti.Grid	version-1.0	Grid	Grid	3.17.1	1.0.13.1	Harmony			
 6250159	Calloatti.HousingTweaks	Version-1.1	Housing Tweaks	Housing Tweaks	1.1.2	1.1.2.4	Harmony			
 6250159	Calloatti.HousingTweaks	Version-1.0	Housing Tweaks	Housing Tweaks	1.1.2	1.0.13.1	Harmony			
@@ -1593,8 +1593,9 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6377126	Agroqirax.TimberbornMCP		Timberborn MCP	Timberborn MCP	1.1.2.4.1	1.1.0.0	eMka.ModSettings	1.0.1.0		
 6377132	Agroqirax.TimberbornMCPDevs		Timberborn MCP Dev Tools	Timberborn MCP Devs	0.1.0.0	1.1.0.0	Agroqirax.TimberbornMCP	1.1.2.0.1		
 6383407	Calloatti.HighlightTweaks	version-1.1	Highlight Tweaks	Highlight Tweaks	1.0.1	1.1.2.4	Harmony			
-6384148	TimberPipes		Timber Pipes	Timber Pipes	11.1.0	1.1.1	ModdableTimberborn			
-6384148	TimberPipes		Timber Pipes	Timber Pipes	11.1.0	1.1.1	ModdableToolGroups			
+6384148	TimberPipes		Timber Pipes	Timber Pipes	11.2.0	1.1.1	ModdableTimberborn			
+6384148	TimberPipes		Timber Pipes	Timber Pipes	11.2.0	1.1.1	ModdableToolGroups			
+6384148	TimberPipes		Timber Pipes	Timber Pipes	11.2.0	1.1.1	eMka.ModSettings			
 6386689	Calloatti.ImpermeableWall	Version-1.1	Impermeable Wall	Impermeable Wall	1.1.0	1.1.2.4	Harmony			
 6388248	SuperFaction	version-1.1	SuperFaction - Limitless	SuperFaction 1.0-1.1	1.1.0.0	1.1.0.0	Emberpelts	1.0.8.1		
 6388248	SuperFaction	version-1.1	SuperFaction - Limitless	SuperFaction 1.0-1.1	1.1.0.0	1.1.0.0	LeafCoats	1.0.8.1		
