@@ -1108,7 +1108,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 5802446	ConfigurableHousing	version-0.7	Configurable Housing	Configurable Housing	7.2.0	0.7.0.0	Harmony			
 5802446	ConfigurableHousing	version-1.0	Configurable Housing	Configurable Housing	10.0.0	1.0.0	eMka.ModSettings			
 5802446	ConfigurableHousing	version-1.0	Configurable Housing	Configurable Housing	10.0.0	1.0.0	ModdableTimberborn			
-5803970	Calloatti.BannerTweaks	Version-1.1	Banner Tweaks	Banner Tweaks	1.1.2	1.1.2.4	Harmony			
+5803970	Calloatti.BannerTweaks	Version-1.1	Banner Tweaks	Banner Tweaks	1.1.3	1.1.2.4	Harmony			
 5803970	Calloatti.BannerTweaks	Version-1.0	Banner Tweaks	Banner Tweaks	1.1.2	1.0.13.1	Harmony			
 5805999	eMka.TimberPhysics	version-1.1	Bober's Laws of Motion	Bober's Laws of Motion	1.1.1.0	1.0.10.2	Harmony	2.3.0		
 5805999	eMka.TimberPhysics	version-1.1	Bober's Laws of Motion	Bober's Laws of Motion	1.1.1.0	1.0.10.2	eMka.ModSettings	1.0.7.0		
@@ -1596,7 +1596,9 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6384148	TimberPipes		Timber Pipes	Timber Pipes	11.2.0	1.1.1	ModdableTimberborn			
 6384148	TimberPipes		Timber Pipes	Timber Pipes	11.2.0	1.1.1	ModdableToolGroups			
 6384148	TimberPipes		Timber Pipes	Timber Pipes	11.2.0	1.1.1	eMka.ModSettings			
-6386689	Calloatti.ImpermeableWall	Version-1.1	Impermeable Wall	Impermeable Wall	1.1.0	1.1.2.4	Harmony			
+6386689	Calloatti.ImpermeableWall	Version-1.1	Impermeable Wall	Impermeable Wall	1.2.0	1.1.2.4	Harmony			
 6388248	SuperFaction	version-1.1	SuperFaction - Limitless	SuperFaction 1.0-1.1	1.1.0.0	1.1.0.0	Emberpelts	1.0.8.1		
 6388248	SuperFaction	version-1.1	SuperFaction - Limitless	SuperFaction 1.0-1.1	1.1.0.0	1.1.0.0	LeafCoats	1.0.8.1		
 6388248	SuperFaction	version-1.1	SuperFaction - Limitless	SuperFaction 1.0-1.1	1.1.0.0	1.1.0.0	KnatteAnka.MoreGroups_Paths	1.0.0.1		
+6396084	Barbara.RollerCoaster		RollerCoaster	RollerCoaster – Grand Circuit	1.4.32	1.0.13.1				
+6396137	Barbara.FolktailsPlayground		Folktails Playground	Folktails &amp; IronTeeth Playground	1.7.6	1.0.13.1	ModdableToolGroups			
