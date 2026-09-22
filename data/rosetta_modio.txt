@@ -874,7 +874,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	eMka.ModSettings			
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	Harmony			
 5237083	StreamGaugeTracker		Stream Gauge Tracker	Stream Gauge Tracker	7.0.0	0.7.0.0	TimberUi			
-5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.9.180	0.1				
+5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.9.210	0.1				
 5240798	Grauschweif.MapElements		Grauschweif	Grauschweif's Map Elements	0.2.1	0.7.10.0				
 5241515	Timberborn.CapitanMaxwell.CustomNameList		Custom Name List	Custom Beavers Name List	2.0	0.0.0.0				
 5242703	ExtendedBuilderReach	version-0.7	Extended Builder Reach	Extended Builder Reach	7.1.1	0.7.0.0	eMka.ModSettings			
@@ -1186,8 +1186,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 5859057	argargablar.FtFabricTails	version-0.6	Folktail Fabric Tails	Folktail Fabric Tails	1.0.0	0.6.9.3				
 5859057	argargablar.FtFabricTails	version-1.1.0	Folktail Fabric Tails	Folktail Fabric Tails	1.1.0.0	1.1.0.0				
 5859057	argargablar.FtFabricTails	version-1.0.12.3	Folktail Fabric Tails	Folktail Fabric Tails	1.0.12	1.0.12.3				
-5877316	BetterWeatherStation	version-1.1	Better Weather Station	Better Weather Station	11.0.0	1.1.0	ModdableTimberborn			
-5877316	BetterWeatherStation	version-1.1	Better Weather Station	Better Weather Station	11.0.0	1.1.0			ModdableWeathers	
+5877316	BetterWeatherStation	version-1.1	Better Weather Station	Better Weather Station	11.0.1	1.1.1	ModdableTimberborn			
+5877316	BetterWeatherStation	version-1.1	Better Weather Station	Better Weather Station	11.0.1	1.1.1			ModdableWeathers	
 5877316	BetterWeatherStation	version-1.0	Better Weather Station	Better Weather Station	10.0.0	1.0.0	ModdableTimberborn	10.4.0		
 5877316	BetterWeatherStation	version-1.0	Better Weather Station	Better Weather Station	10.0.0	1.0.0			ModdableWeathers	
 5877594	grauschweif.leafcoats.frogstatue		LeafCoats Frog Statue - Unofficial	LeafCoats - Frog Statue Patch	1.0	1.0.10.1				
@@ -1602,3 +1602,4 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6388248	SuperFaction	version-1.1	SuperFaction - Limitless	SuperFaction 1.0-1.1	1.1.0.0	1.1.0.0	KnatteAnka.MoreGroups_Paths	1.0.0.1		
 6396084	Barbara.RollerCoaster		RollerCoaster	RollerCoaster – Grand Circuit	1.4.32	1.0.13.1				
 6396137	Barbara.FolktailsPlayground		Folktails Playground	Folktails &amp; IronTeeth Playground	1.7.6	1.0.13.1	ModdableToolGroups			
+6397398	Barbara.MeadowLoopRide		Meadow Loop Ride	Meadow Loop Ride	1.0.15	1.1.2.4				
