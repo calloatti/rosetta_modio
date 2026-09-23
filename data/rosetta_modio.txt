@@ -1434,7 +1434,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6250217	Calloatti.PausableStorage	Version-1.1	Pausable Storage	Pausable Storage	1.1.1	1.1.2.4	Harmony			
 6250217	Calloatti.PausableStorage	Version-1.0	Pausable Storage	Pausable Storage	1.1.1	1.0.13.1	Harmony			
 6250218	calloatti.pumptotank	Version-1.1	Pump to Tank	Pump to Tank	1.0.9	1.1.2.4	Harmony			
-6250218	calloatti.pumptotank	Version-1.0	Pump to Tank	Pump to Tank	1.0.8	1.0.13.1	Harmony			
+6250218	calloatti.pumptotank	Version-1.0	Pump to Tank	Pump to Tank	1.0.9	1.0.13.1	Harmony			
 6250219	Calloatti.Replatform	Version-1.1	Replatform	Replatform	2.0.12	1.1.2.4	Harmony			
 6250219	Calloatti.Replatform	Version-1.1	Replatform	Replatform	2.0.12	1.1.2.4			Emberpelts	
 6250219	Calloatti.Replatform	Version-1.1	Replatform	Replatform	2.0.12	1.1.2.4			Lapantoufleagic.WhitepawsFaction	
@@ -1596,10 +1596,11 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6384148	TimberPipes		Timber Pipes	Timber Pipes	11.2.0	1.1.1	ModdableTimberborn			
 6384148	TimberPipes		Timber Pipes	Timber Pipes	11.2.0	1.1.1	ModdableToolGroups			
 6384148	TimberPipes		Timber Pipes	Timber Pipes	11.2.0	1.1.1	eMka.ModSettings			
-6386689	Calloatti.ImpermeableWall	Version-1.1	Impermeable Wall	Impermeable Wall	1.2.0	1.1.2.4	Harmony			
+6386689	Calloatti.ImpermeableWall	Version-1.1	Impermeable Wall	Impermeable Wall	1.2.2	1.1.2.4	Harmony			
 6388248	SuperFaction	version-1.1	SuperFaction - Limitless	SuperFaction 1.0-1.1	1.1.0.0	1.1.0.0	Emberpelts	1.0.8.1		
 6388248	SuperFaction	version-1.1	SuperFaction - Limitless	SuperFaction 1.0-1.1	1.1.0.0	1.1.0.0	LeafCoats	1.0.8.1		
 6388248	SuperFaction	version-1.1	SuperFaction - Limitless	SuperFaction 1.0-1.1	1.1.0.0	1.1.0.0	KnatteAnka.MoreGroups_Paths	1.0.0.1		
 6396084	Barbara.RollerCoaster		RollerCoaster	RollerCoaster – Grand Circuit	1.4.32	1.0.13.1				
 6396137	Barbara.FolktailsPlayground		Folktails Playground	Folktails &amp; IronTeeth Playground	1.7.6	1.0.13.1	ModdableToolGroups			
 6397398	Barbara.MeadowLoopRide		Meadow Loop Ride	Meadow Loop Ride	1.0.15	1.1.2.4				
+6399711	Calloatti.FlatBanner	Version-1.1	Flat Banner	Flat Banner	1.0.2	1.1.2.4	Harmony			
