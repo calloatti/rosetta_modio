@@ -877,7 +877,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	eMka.ModSettings			
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	Harmony			
 5237083	StreamGaugeTracker		Stream Gauge Tracker	Stream Gauge Tracker	7.0.0	0.7.0.0	TimberUi			
-5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.9.210	0.1				
+5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.9.240	0.1				
 5240798	Grauschweif.MapElements		Grauschweif	Grauschweif's Map Elements	0.2.1	0.7.10.0				
 5241515	Timberborn.CapitanMaxwell.CustomNameList		Custom Name List	Custom Beavers Name List	2.0	0.0.0.0				
 5242703	ExtendedBuilderReach	version-1.1	Extended Builder Reach	Extended Builder Reach	11.0.0	1.1.1	eMka.ModSettings			
@@ -1618,3 +1618,5 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6401082	ConfigurableLifetime	version-1.0	Configurable Lifetime	Configurable Lifetime	10.0.0	1.0.0	Harmony			
 6401082	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable Lifetime	7.0.0	0.7.0.0	eMka.ModSettings			
 6401082	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable Lifetime	7.0.0	0.7.0.0	Harmony			
+6401227	RomAcc.MetalTerrainBlock		Metal Terrain Block	Metal Terrain Block	0.3	1.1.0.0	Harmony			
+6403141	Calloatti.SettlementPanelTweaks	Version-1.1	Settlement Panel Tweaks	Settlement Panel Tweaks	1.0.1	1.1.2.4	Harmony			
