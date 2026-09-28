@@ -1603,7 +1603,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6388248	SuperFaction	version-1.1	SuperFaction - Limitless	SuperFaction 1.0-1.1	1.1.0.0	1.1.0.0	Emberpelts	1.0.8.1		
 6388248	SuperFaction	version-1.1	SuperFaction - Limitless	SuperFaction 1.0-1.1	1.1.0.0	1.1.0.0	LeafCoats	1.0.8.1		
 6388248	SuperFaction	version-1.1	SuperFaction - Limitless	SuperFaction 1.0-1.1	1.1.0.0	1.1.0.0	KnatteAnka.MoreGroups_Paths	1.0.0.1		
-6396084	Barbara.RollerCoaster		RollerCoaster	RollerCoaster – Grand Circuit	1.4.32	1.0.13.1				
+6396084	Barbara.RollerCoaster		RollerCoaster	RollerCoaster – Grand Circuit	1.4.34	1.1.2.4				
 6396137	Barbara.FolktailsPlayground		Folktails Playground	Folktails &amp; IronTeeth Playground	1.7.6	1.0.13.1	ModdableToolGroups			
 6397398	Barbara.MeadowLoopRide		Meadow Loop Ride	Meadow Loop Ride	1.0.15	1.1.2.4				
 6399711	Calloatti.FlatBanner	version-1.1	Flat Banner	Flat Banner	1.0.4	1.1.2.4	Harmony			
@@ -1621,3 +1621,9 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6401227	RomAcc.MetalTerrainBlock		Metal Terrain Block	Metal Terrain Block	0.3	1.1.0.0	Harmony			
 6403141	Calloatti.SettlementPanelTweaks	Version-1.1	Settlement Panel Tweaks	Settlement Panel Tweaks	1.0.1	1.1.2.4	Harmony			
 6408405	Barbara.Timberbar		Timberbar	TimberBar	0.0.76	1.1.2.4	ModdableToolGroups	10.4.0		
+6409168	acalc79.AlternativeWeatherSystem		Alternative Weather System	Alternative Weather System	1.5.0	1.0.0				
+6409186	acalc79.HardcoreSettings		Hardcore Settings	Hardcore Settings	1.2.1	1.0.0				
+6409209	acalc79.ExtremeDifficulties		Extreme Difficulties	Extreme Difficulties	1.3	1.0.3.0			acalc79.HardcoreSettings	1.0.0
+6409209	acalc79.ExtremeDifficulties		Extreme Difficulties	Extreme Difficulties	1.3	1.0.3.0			acalc79.AlternativeWeatherSystem	1.4.0
+6409218	acalc79.UITweaks		UI Tweaks	UI Tweaks	0.3.0	1.1.2.0	Harmony	2.4.1		
+6409218	acalc79.UITweaks		UI Tweaks	UI Tweaks	0.3.0	1.1.2.0	eMka.ModSettings	1.1.1.0		
