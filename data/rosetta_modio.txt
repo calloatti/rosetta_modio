@@ -1604,7 +1604,10 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6388248	SuperFaction	version-1.1	SuperFaction - Limitless	SuperFaction 1.0-1.1	1.1.0.0	1.1.0.0	LeafCoats	1.0.8.1		
 6388248	SuperFaction	version-1.1	SuperFaction - Limitless	SuperFaction 1.0-1.1	1.1.0.0	1.1.0.0	KnatteAnka.MoreGroups_Paths	1.0.0.1		
 6396084	Barbara.RollerCoaster		RollerCoaster	RollerCoaster – Grand Circuit	1.4.34	1.1.2.4				
-6396137	Barbara.FolktailsPlayground		Folktails Playground	Folktails &amp; IronTeeth Playground	1.7.6	1.0.13.1	ModdableToolGroups			
+6396137	Barbara.FolktailsPlayground		Folktails Playground	Folktails &amp; IronTeeth Playground	1.7.8	1.1.2.4	ModdableToolGroups			
+6396137	Barbara.FolktailsPlayground		Folktails Playground	Folktails &amp; IronTeeth Playground	1.7.8	1.1.2.4	ModdableTimberborn	11.1.2		
+6396137	Barbara.FolktailsPlayground		Folktails Playground	Folktails &amp; IronTeeth Playground	1.7.8	1.1.2.4	Harmony			
+6396137	Barbara.FolktailsPlayground		Folktails Playground	Folktails &amp; IronTeeth Playground	1.7.8	1.1.2.4	TimberUi	11.0.1		
 6397398	Barbara.MeadowLoopRide		Meadow Loop Ride	Meadow Loop Ride	1.0.15	1.1.2.4				
 6399711	Calloatti.FlatBanner	version-1.1	Flat Banner	Flat Banner	1.0.4	1.1.2.4	Harmony			
 6401052	GlobalInventory		Global Inventory	Global Inventory	11.0.0	1.1.1	ModdableTimberborn			
