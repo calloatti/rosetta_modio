@@ -167,8 +167,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3097037	KnatteAnka.damdecoration_decorationextention	version-1.0.0	DamDecorations_DecorationExtention	Dam Decoration: Decoration Extention	1.0.0.7	1.0.8.0			Emberpelts	
 3155916	Tobbert.TobbyTools	version-0.7	Tobby Tools	Tobby Tools	3.0.0	0.6.0.0	Harmony	2.3.3		
 3166467	ToolShortcuts		Tool Shortcuts	ToolShortcuts	2.1.4	1.0.12.5	Harmony	2.4.1		
-3168318	Timberborn.IgorZ.SmartPower	version-1.1	SmartPower	Smart Power	1.18.0	1.1.1.1	Harmony	2.3.3		
-3168318	Timberborn.IgorZ.SmartPower	version-1.1	SmartPower	Smart Power	1.18.0	1.1.1.1	eMka.ModSettings	1.0.5.0		
+3168318	Timberborn.IgorZ.SmartPower	version-1.1	SmartPower	Smart Power	1.19.0	1.1.1.1	Harmony	2.3.3		
+3168318	Timberborn.IgorZ.SmartPower	version-1.1	SmartPower	Smart Power	1.19.0	1.1.1.1	eMka.ModSettings	1.0.5.0		
 3168318	Timberborn.IgorZ.SmartPower	version-1.0	SmartPower	Smart Power	1.16.4	1.0.12.7	Harmony	2.3.3		
 3168318	Timberborn.IgorZ.SmartPower	version-1.0	SmartPower	Smart Power	1.16.4	1.0.12.7	eMka.ModSettings	1.0.5.0		
 3198745	Timberborn.IgorZ.TimberCommons	version-1.1	TimberCommons	Timber Commons	1.23.0	1.1.0.2	Harmony	2.3.3		
@@ -580,9 +580,12 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 4764523	TimberUi	version-0.7	TimberUi	TimberUi	7.8.7	0.7.0.0				
 4764527	BuffDebuffDemo		Buff & Debuff Demo	Buff &amp; Debuff Demo	7.0.0	0.7.0.0	Harmony	0.6.0.0		
 4764527	BuffDebuffDemo		Buff & Debuff Demo	Buff &amp; Debuff Demo	7.0.0	0.7.0.0	BuffDebuff	7.0.0		
-4764536	TImprove	version-1.0	TImprove	TImprove - Various QoL Timberborn-Improvements	10.2.0	1.0.0	eMka.ModSettings			
-4764536	TImprove	version-1.0	TImprove	TImprove - Various QoL Timberborn-Improvements	10.2.0	1.0.0	Harmony			
-4764536	TImprove	version-1.0	TImprove	TImprove - Various QoL Timberborn-Improvements	10.2.0	1.0.0	TimberUi			
+4764536	TImprove	version-1.1	TImprove	TImprove - Various QoL Timberborn-Improvements	10.2.2	1.0.0	eMka.ModSettings			
+4764536	TImprove	version-1.1	TImprove	TImprove - Various QoL Timberborn-Improvements	10.2.2	1.0.0	Harmony			
+4764536	TImprove	version-1.1	TImprove	TImprove - Various QoL Timberborn-Improvements	10.2.2	1.0.0	TimberUi			
+4764536	TImprove	version-1.0	TImprove	TImprove - Various QoL Timberborn-Improvements	10.2.1	1.0.0	eMka.ModSettings			
+4764536	TImprove	version-1.0	TImprove	TImprove - Various QoL Timberborn-Improvements	10.2.1	1.0.0	Harmony			
+4764536	TImprove	version-1.0	TImprove	TImprove - Various QoL Timberborn-Improvements	10.2.1	1.0.0	TimberUi			
 4764536	TImprove	version-0.7	TImprove	TImprove - Various QoL Timberborn-Improvements	7.6.0	0.7.0.0	eMka.ModSettings			
 4764536	TImprove	version-0.7	TImprove	TImprove - Various QoL Timberborn-Improvements	7.6.0	0.7.0.0	Harmony			
 4764546	FasterUnderwaterMovement	version-0.6	Faster Underwater Movement	Faster Underwater Movement	1.0.0	0.6.0.0	eMka.ModSettings	0.6.0.0		
