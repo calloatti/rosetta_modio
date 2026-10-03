@@ -1641,3 +1641,4 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6409218	acalc79.UITweaks		UI Tweaks	UI Tweaks	0.3.0	1.1.2.0	Harmony	2.4.1		
 6409218	acalc79.UITweaks		UI Tweaks	UI Tweaks	0.3.0	1.1.2.0	eMka.ModSettings	1.1.1.0		
 6416454	Blacksteam		Better Impermeable Power Shaft	Better Impermeable Power Shaft	1.1	1.1.0.0	Harmony			
+6420066	DarkLord7854.DynamiteDepth		Dynamite Depth View	Dynamite Depth View	1.0.1	1.1.2.4				
