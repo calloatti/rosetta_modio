@@ -1355,8 +1355,10 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6147884	BobingaboutNewGameModes	version-1.0	Bobingabout	Bobingabout New Game Modes	1.0.13.1	1.0.0.0				
 6149513	LunchTimeMod		Lunch & Leisure	Lunch &amp; Leisure	0.1.0	1.1.0.0	Harmony			
 6149513	LunchTimeMod		Lunch & Leisure	Lunch &amp; Leisure	0.1.0	1.1.0.0	eMka.ModSettings			
-6156536	RandomHazardWarningDays	version-1.0	Random Hazard Warning Days	RandomHazardWarningDays	1.2.0	1.0.0	Harmony			
-6156536	RandomHazardWarningDays	version-1.0	Random Hazard Warning Days	RandomHazardWarningDays	1.2.0	1.0.0	eMka.ModSettings			
+6156536	RandomHazardWarningDays	version-1.1	Fair Warning	Fair Warning	1.3.0	1.0.0	Harmony			
+6156536	RandomHazardWarningDays	version-1.1	Fair Warning	Fair Warning	1.3.0	1.0.0	eMka.ModSettings			
+6156536	RandomHazardWarningDays	version-1.0	Fair Warning	Fair Warning	1.3.0	1.0.0	Harmony			
+6156536	RandomHazardWarningDays	version-1.0	Fair Warning	Fair Warning	1.3.0	1.0.0	eMka.ModSettings			
 6170127	academicunwinds.Rainborn		Academic's Rainborn	Academic's Rainborn 0.2.0.4	0.2.0.4	1.0.0.0	eMka.ModSettings	1.0.7.0		
 6170127	academicunwinds.Rainborn		Academic's Rainborn	Academic's Rainborn 0.2.0.4	0.2.0.4	1.0.0.0	Harmony	2.4.1.0		
 6170302	M3NN1.DamnDamDegradation		Damn Dam Degradation [ModContest1]	DamnDamDegradation60626	1.1.1	1.0.0.0	eMka.ModSettings	1.0.11.0		
@@ -1613,7 +1615,6 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6388248	SuperFaction	version-1.1	SuperFaction - Limitless	SuperFaction 1.0-1.1	1.1.0.0	1.1.0.0	Emberpelts	1.0.8.1		
 6388248	SuperFaction	version-1.1	SuperFaction - Limitless	SuperFaction 1.0-1.1	1.1.0.0	1.1.0.0	LeafCoats	1.0.8.1		
 6388248	SuperFaction	version-1.1	SuperFaction - Limitless	SuperFaction 1.0-1.1	1.1.0.0	1.1.0.0	KnatteAnka.MoreGroups_Paths	1.0.0.1		
-6396084	Barbara.RollerCoaster		RollerCoaster	RollerCoaster – Grand Circuit	1.4.34	1.1.2.4				
 6396137	Barbara.FolktailsPlayground		Folktails Playground	Folktails &amp; IronTeeth Playground	1.7.8	1.1.2.4	ModdableToolGroups			
 6396137	Barbara.FolktailsPlayground		Folktails Playground	Folktails &amp; IronTeeth Playground	1.7.8	1.1.2.4	ModdableTimberborn	11.1.2		
 6396137	Barbara.FolktailsPlayground		Folktails Playground	Folktails &amp; IronTeeth Playground	1.7.8	1.1.2.4	Harmony			
@@ -1634,11 +1635,12 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6401227	RomAcc.MetalTerrainBlock		Metal Terrain Block	Metal Terrain Block	0.3	1.1.0.0	Harmony			
 6403141	Calloatti.SettlementPanelTweaks	Version-1.1	Settlement Panel Tweaks	Settlement Panel Tweaks	1.0.1	1.1.2.4	Harmony			
 6408405	Barbara.Timberbar		Timberbar	TimberBar	0.0.76	1.1.2.4	ModdableToolGroups	10.4.0		
-6409168	acalc79.AlternativeWeatherSystem		Alternative Weather System	Alternative Weather System	1.6.0	1.0.0				
-6409186	acalc79.HardcoreSettings		Hardcore Settings	Hardcore Settings	1.2.1	1.0.0				
-6409209	acalc79.ExtremeDifficulties		Extreme Difficulties	Extreme Difficulties	1.3	1.0.3.0			acalc79.HardcoreSettings	1.0.0
-6409209	acalc79.ExtremeDifficulties		Extreme Difficulties	Extreme Difficulties	1.3	1.0.3.0			acalc79.AlternativeWeatherSystem	1.4.0
-6409218	acalc79.UITweaks		UI Tweaks	UI Tweaks	0.3.0	1.1.2.0	Harmony	2.4.1		
-6409218	acalc79.UITweaks		UI Tweaks	UI Tweaks	0.3.0	1.1.2.0	eMka.ModSettings	1.1.1.0		
+6409168	acalc79.AlternativeWeatherSystem		Alternative Weather System	Alternative Weather System	1.7.0	1.0.0				
+6409186	acalc79.HardcoreSettings		Hardcore Settings	Hardcore Settings	1.3.0	1.0.0				
+6409209	acalc79.ExtremeDifficulties		Extreme Difficulties	Extreme Difficulties	1.3.1	1.0.3.0			acalc79.HardcoreSettings	1.0.0
+6409209	acalc79.ExtremeDifficulties		Extreme Difficulties	Extreme Difficulties	1.3.1	1.0.3.0			acalc79.AlternativeWeatherSystem	1.4.0
+6409218	acalc79.UITweaks		UI Tweaks	UI Tweaks	0.5.0	1.1.2.0	Harmony	2.4.1		
+6409218	acalc79.UITweaks		UI Tweaks	UI Tweaks	0.5.0	1.1.2.0	eMka.ModSettings	1.1.1.0		
 6416454	Blacksteam		Better Impermeable Power Shaft	Better Impermeable Power Shaft	1.1	1.1.0.0	Harmony			
 6420066	DarkLord7854.DynamiteDepth		Dynamite Depth View	Dynamite Depth View	1.0.1	1.1.2.4				
+6422554	Blacksteam.VerticalTubewayFreeStacking		Better Vertical Tubeway	Better Vertical Tubeway	1.0	1.1.0.0	Harmony			
