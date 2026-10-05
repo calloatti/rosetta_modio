@@ -67,4 +67,4 @@ PublishedFileID	Url	Creator	Title
 5834533	https://mod.io/search/mods/5834533	Luke✞JesusSaves✞	[Building Blueprints] Luke's Decorative Plants
 5877246	https://mod.io/search/mods/5877246	SilverStars	Timberborn API Remote Access App V.1.1
 6357317	https://mod.io/search/mods/6357317	SmartBeaverBlueprints	First Flow v4 Free Starter Blueprint
-6396084	https://mod.io/search/mods/6396084	LUPA_LIAM	RollerCoaster – Grand Circuit
+6428584	https://mod.io/search/mods/6428584	SmartBeaverBlueprints	Hearth Block - Free 8x8 Housing Blueprint

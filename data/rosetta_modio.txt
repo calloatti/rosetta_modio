@@ -1615,6 +1615,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6388248	SuperFaction	version-1.1	SuperFaction - Limitless	SuperFaction 1.0-1.1	1.1.0.0	1.1.0.0	Emberpelts	1.0.8.1		
 6388248	SuperFaction	version-1.1	SuperFaction - Limitless	SuperFaction 1.0-1.1	1.1.0.0	1.1.0.0	LeafCoats	1.0.8.1		
 6388248	SuperFaction	version-1.1	SuperFaction - Limitless	SuperFaction 1.0-1.1	1.1.0.0	1.1.0.0	KnatteAnka.MoreGroups_Paths	1.0.0.1		
+6396084	Barbara.RollerCoaster		RollerCoaster	RollerCoaster – Grand Circuit	1.4.67	1.1.2.4				
 6396137	Barbara.FolktailsPlayground		Folktails Playground	Folktails &amp; IronTeeth Playground	1.7.8	1.1.2.4	ModdableToolGroups			
 6396137	Barbara.FolktailsPlayground		Folktails Playground	Folktails &amp; IronTeeth Playground	1.7.8	1.1.2.4	ModdableTimberborn	11.1.2		
 6396137	Barbara.FolktailsPlayground		Folktails Playground	Folktails &amp; IronTeeth Playground	1.7.8	1.1.2.4	Harmony			
@@ -1644,3 +1645,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6416454	Blacksteam		Better Impermeable Power Shaft	Better Impermeable Power Shaft	1.1	1.1.0.0	Harmony			
 6420066	DarkLord7854.DynamiteDepth		Dynamite Depth View	Dynamite Depth View	1.0.1	1.1.2.4				
 6422554	Blacksteam.VerticalTubewayFreeStacking		Better Vertical Tubeway	Better Vertical Tubeway	1.0	1.1.0.0	Harmony			
+6426492	Barbara.TimberLoop		TimberLoop	TimberLoop	1.0.11	1.1.2.4				
+6426504	Barbara.BurrowCircuit		Burrow Circuit	Burrow Circuit	1.0.3	1.1.2.4	ModdableTimberborn	11.1.2		
+6426504	Barbara.BurrowCircuit		Burrow Circuit	Burrow Circuit	1.0.3	1.1.2.4	Harmony			
+6426504	Barbara.BurrowCircuit		Burrow Circuit	Burrow Circuit	1.0.3	1.1.2.4	TimberUi	11.0.1		
+6426591	Agroqirax.NoWineBrowser		No Wine Browser	No Wine Browser	0.1.0	1.0.0.0	Harmony	2.4.1		
