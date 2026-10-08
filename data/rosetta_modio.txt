@@ -446,8 +446,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 4399324	KnatteAnka.waterextention.IrrigationTowers	version-1.1.0	Water Extention Irrigation Towers	Water Extention: Irrigation towers	1.1.0.0	1.1.0.0	Timberborn.IgorZ.TimberCommons	1.23.0		
 4399324	KnatteAnka.waterextention.IrrigationTowers	version-1.0.0	Water Extention Irrigation Towers	Water Extention: Irrigation towers	1.0.0.4	1.0.11.1	KnatteAnka.Materials	1.0.1.0		
 4399324	KnatteAnka.waterextention.IrrigationTowers	version-1.0.0	Water Extention Irrigation Towers	Water Extention: Irrigation towers	1.0.0.4	1.0.11.1	Timberborn.IgorZ.TimberCommons	1.14.0		
-4401243	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.3	1.1.1.0	BobingaboutScriptPack	1.1.1.1		
-4401243	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.3	1.1.1.0			Lapantouflemagic.1x1x2Storage	
+4401243	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.4	1.1.1.0	BobingaboutScriptPack	1.1.1.1		
+4401243	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.4	1.1.1.0			Lapantouflemagic.1x1x2Storage	
 4401243	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.2	1.0.12.0	BobingaboutScriptPack	1.0.10.0		
 4401243	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.2	1.0.12.0			Lapantouflemagic.1x1x2Storage	
 4424312	MoreModLogs	version-0.6	More Mod Logs (requires Harmony)	More Mod Logs	0.0.11	0.6.7.0	Harmony	2.3.3		
@@ -518,7 +518,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 4673526	Timberborn.ModExamples.YearOfTheSnakeBeaverTails	version-1.0	Year of the Snake Beaver Tails	Year Of The Snake Beaver Tails	1.0.5.0	1.0.0.0				
 4673526	Timberborn.ModExamples.YearOfTheSnakeBeaverTails	version-0.7	Year of the Snake Beaver Tails	Year Of The Snake Beaver Tails	1.1	0.7.6.0				
 4689751	BobingaboutScriptPack	version-0.6	Bobingabout Script Pack	Bobingabout Script Pack	0.6.0.2	0.6.1.0				
-4689751	BobingaboutScriptPack	version-1.1	Bobingabout Script Pack	Bobingabout Script Pack	1.1.2.2	1.1.0.0				
+4689751	BobingaboutScriptPack	version-1.1	Bobingabout Script Pack	Bobingabout Script Pack	1.1.2.3	1.1.0.0				
 4689751	BobingaboutScriptPack	version-1.0	Bobingabout Script Pack	Bobingabout Script Pack	1.0.13.5	1.0.10.1				
 4689751	BobingaboutScriptPack	version-0.7	Bobingabout Script Pack	Bobingabout Script Pack	0.7.10.1	0.7.9.0				
 4693532	argargablar.ItHazardAwarenessTails	version-0.6	Iron Teeth Hazard Awareness Tails	Iron Teeth Hazard Awareness Tails	1.2	0.6.9.3				
@@ -841,8 +841,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 5169262	ConfigurableFaction		Configurable Faction (Faction Mixer)	Configurable Faction (Faction Mixer)	7.3.0	0.7.0.0	MaterialPlzNoCrashes			
 5169262	ConfigurableFaction		Configurable Faction (Faction Mixer)	Configurable Faction (Faction Mixer)	7.3.0	0.7.0.0	TimberUi	7.7.3		
 5169262	ConfigurableFaction		Configurable Faction (Faction Mixer)	Configurable Faction (Faction Mixer)	7.3.0	0.7.0.0			TimberModBuilder	
-5180618	LeafCoats	version-1.1	Leaf Coats	Leaf Coats	1.1.2.3	1.1.0.0	BobingaboutScriptPack	1.1.2.2		
-5180618	LeafCoats	version-1.1	Leaf Coats	Leaf Coats	1.1.2.3	1.1.0.0	Vertical Nav Mesh			
+5180618	LeafCoats	version-1.1	Leaf Coats	Leaf Coats	1.1.2.4	1.1.0.0	BobingaboutScriptPack	1.1.2.2		
+5180618	LeafCoats	version-1.1	Leaf Coats	Leaf Coats	1.1.2.4	1.1.0.0	Vertical Nav Mesh			
 5180618	LeafCoats	version-1.0	Leaf Coats	Leaf Coats	1.0.13.6	1.0.12.0	BobingaboutScriptPack	1.0.10.0		
 5180618	LeafCoats	version-1.0	Leaf Coats	Leaf Coats	1.0.13.6	1.0.12.0	Vertical Nav Mesh			
 5180618	LeafCoats	version-0.7	Leaf Coats (Early Access)	Leaf Coats	0.7.10.20	0.7.10.0	BobingaboutScriptPack	0.7.10.0		
@@ -891,8 +891,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 5242703	ExtendedBuilderReach	version-0.7	Extended Builder Reach	Extended Builder Reach	7.1.1	0.7.0.0	Harmony			
 5242799	BuildingDecal		Building Decals	Building Decals	7.0.2	0.7.0.0	TimberUi	7.8.2		
 5243306	Robin.OverhaulCamera		Overhaul Pan, Orbit, Zoom	Overhaul Pan, Orbit, &amp; Zoom	0.2	0.0.0.0	Harmony			
-5267276	ModdableTimberborn	version-1.1	Moddable Timberborn	Moddable Timberborn	11.1.2	1.1.1	Harmony			
-5267276	ModdableTimberborn	version-1.1	Moddable Timberborn	Moddable Timberborn	11.1.2	1.1.1	TimberUi	11.0.0		
+5267276	ModdableTimberborn	version-1.1	Moddable Timberborn	Moddable Timberborn	11.1.3	1.1.1	Harmony			
+5267276	ModdableTimberborn	version-1.1	Moddable Timberborn	Moddable Timberborn	11.1.3	1.1.1	TimberUi	11.0.0		
 5267276	ModdableTimberborn	version-1.0	Moddable Timberborn	Moddable Timberborn	10.6.1	1.0.5	Harmony			
 5267276	ModdableTimberborn	version-1.0	Moddable Timberborn	Moddable Timberborn	10.6.1	1.0.5	TimberUi	10.1.5		
 5267276	ModdableTimberborn	version-0.7	Moddable Timberborn	Moddable Timberborn	7.0.5	0.7.0.0	Harmony			
@@ -1082,8 +1082,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 5743525	ConfigurableFaction	version-1.0	Configurable Faction (Faction Mixer)	Configurable Faction (Faction Mixer)	10.0.2	1.0.0	eMka.ModSettings			
 5743525	ConfigurableFaction	version-1.0	Configurable Faction (Faction Mixer)	Configurable Faction (Faction Mixer)	10.0.2	1.0.0	ModdableTimberborn	10.1.0		
 5743525	ConfigurableFaction	version-1.0	Configurable Faction (Faction Mixer)	Configurable Faction (Faction Mixer)	10.0.2	1.0.0	XtraPlzNoCrashes			
-5753288	ModdableDecalGroups	version-1.1	Moddable Decal Groups	Moddable Decal Groups	11.0.0	1.0.0	TimberUi			
-5753288	ModdableDecalGroups	version-1.1	Moddable Decal Groups	Moddable Decal Groups	11.0.0	1.0.0	Harmony			
+5753288	ModdableDecalGroups	version-1.1	Moddable Decal Groups	Moddable Decal Groups	11.0.1	1.0.0	TimberUi			
+5753288	ModdableDecalGroups	version-1.1	Moddable Decal Groups	Moddable Decal Groups	11.0.1	1.0.0	Harmony			
 5753288	ModdableDecalGroups	version-1.0	Moddable Decal Groups	Moddable Decal Groups	10.1.1	1.0.0	TimberUi			
 5753288	ModdableDecalGroups	version-1.0	Moddable Decal Groups	Moddable Decal Groups	10.1.1	1.0.0	Harmony			
 5755487	QuickStart		Quick Start	Quick Start	7.1.0	0.7.0.0	eMka.ModSettings			
@@ -1656,3 +1656,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6433044	ModdedFactionsBuildingSupport		Modded Factions Building Support	Modded Factions Building Support	11.0.0	1.1.1			Lapantoufleagic.WhitepawsFaction	
 6433044	ModdedFactionsBuildingSupport		Modded Factions Building Support	Modded Factions Building Support	11.0.0	1.1.1			LeafCoats	
 6433044	ModdedFactionsBuildingSupport		Modded Factions Building Support	Modded Factions Building Support	11.0.0	1.1.1			Emberpelts	
+6434083	ConveyorBelt		Conveyor Belts v2	Conveyor Belts v2	11.3.0	1.1.1	ModdableTimberborn			
+6434083	ConveyorBelt		Conveyor Belts v2	Conveyor Belts v2	11.3.0	1.1.1	ModdableToolGroups			
+6434083	ConveyorBelt		Conveyor Belts v2	Conveyor Belts v2	11.3.0	1.1.1	eMka.ModSettings			
+6434083	ConveyorBelt		Conveyor Belts v2	Conveyor Belts v2	11.3.0	1.1.1			ModdedFactionsBuildingSupport	
