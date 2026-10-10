@@ -1621,7 +1621,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6396137	Barbara.FolktailsPlayground		Folktails Playground	Folktails &amp; IronTeeth Playground	1.7.9	1.1.2.4	ModdableTimberborn	11.1.2		
 6396137	Barbara.FolktailsPlayground		Folktails Playground	Folktails &amp; IronTeeth Playground	1.7.9	1.1.2.4	Harmony			
 6396137	Barbara.FolktailsPlayground		Folktails Playground	Folktails &amp; IronTeeth Playground	1.7.9	1.1.2.4	TimberUi	11.0.1		
-6397398	Barbara.MeadowLoopRide		Meadow Loop Ride	Meadow Loop Ride	1.0.15	1.1.2.4				
+6397398	Barbara.MeadowLoopRide		Meadow Loop Ride	Meadow Loop Ride	1.0.16	1.1.2.4	grauschweif.materials	2.3.2		
 6399711	Calloatti.FlatBanner	version-1.1	Flat Banner	Flat Banner	1.0.4	1.1.2.4	Harmony			
 6401052	GlobalInventory		Global Inventory	Global Inventory	11.0.0	1.1.1	ModdableTimberborn			
 6401054	ScienceShop		Science Shop	Science Shop	11.0.0	1.1.1	GlobalInventory			
@@ -1660,3 +1660,4 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6434083	ConveyorBelt		Conveyor Belts v2	Conveyor Belts v2	11.3.0	1.1.1	ModdableToolGroups			
 6434083	ConveyorBelt		Conveyor Belts v2	Conveyor Belts v2	11.3.0	1.1.1	eMka.ModSettings			
 6434083	ConveyorBelt		Conveyor Belts v2	Conveyor Belts v2	11.3.0	1.1.1			ModdedFactionsBuildingSupport	
+6438789	Sooly890.InfinitePressure		Infinite Pressure	Infinite Pressure	1.0.0.0	1.1.0.0	Harmony			
