@@ -1609,9 +1609,10 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6377126	Agroqirax.TimberbornMCP		Timberborn MCP	Timberborn MCP	1.1.2.4.1	1.1.0.0	eMka.ModSettings	1.0.1.0		
 6377132	Agroqirax.TimberbornMCPDevs		Timberborn MCP Dev Tools	Timberborn MCP Devs	0.1.0.0	1.1.0.0	Agroqirax.TimberbornMCP	1.1.2.0.1		
 6383407	Calloatti.HighlightTweaks	version-1.1	Highlight Tweaks	Highlight Tweaks	1.0.1	1.1.2.4	Harmony			
-6384148	TimberPipes		Timber Pipes	Timber Pipes	11.3.1	1.1.1	ModdableTimberborn			
-6384148	TimberPipes		Timber Pipes	Timber Pipes	11.3.1	1.1.1	ModdableToolGroups			
-6384148	TimberPipes		Timber Pipes	Timber Pipes	11.3.1	1.1.1	eMka.ModSettings			
+6384148	TimberPipes		Timber Pipes	Timber Pipes	11.3.2	1.1.1	ModdableTimberborn			
+6384148	TimberPipes		Timber Pipes	Timber Pipes	11.3.2	1.1.1	ModdableToolGroups			
+6384148	TimberPipes		Timber Pipes	Timber Pipes	11.3.2	1.1.1	eMka.ModSettings			
+6384148	TimberPipes		Timber Pipes	Timber Pipes	11.3.2	1.1.1			ExtendedOptionalModSupport	
 6386689	Calloatti.ImpermeableWall	Version-1.1	Impermeable Wall	Impermeable Wall	1.2.2	1.1.2.4	Harmony			
 6388248	SuperFaction	version-1.1	SuperFaction - Limitless	SuperFaction 1.0-1.1	1.1.0.0	1.1.0.0	Emberpelts	1.0.8.1		
 6388248	SuperFaction	version-1.1	SuperFaction - Limitless	SuperFaction 1.0-1.1	1.1.0.0	1.1.0.0	LeafCoats	1.0.8.1		
@@ -1661,3 +1662,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6434083	ConveyorBelt		Conveyor Belts v2	Conveyor Belts v2	11.3.0	1.1.1	eMka.ModSettings			
 6434083	ConveyorBelt		Conveyor Belts v2	Conveyor Belts v2	11.3.0	1.1.1			ModdedFactionsBuildingSupport	
 6438789	Sooly890.InfinitePressure		Infinite Pressure	Infinite Pressure	1.0.0.0	1.1.0.0	Harmony			
+6441996	DamScience	version-1.1	Dam Science!	Dam Science!	1.0.0	1.0.5	Harmony			
+6441996	DamScience	version-1.1	Dam Science!	Dam Science!	1.0.0	1.0.5	eMka.ModSettings			
+6441996	DamScience	version-1.0	Dam Science!	Dam Science!	1.0.0	1.0.5	Harmony			
+6441996	DamScience	version-1.0	Dam Science!	Dam Science!	1.0.0	1.0.5	eMka.ModSettings			
