@@ -1,6 +1,8 @@
 PublishedFileID	Id	Creator	Title
 6135677	academicunwinds.Rainborn	AcademicUnwinds	Academic's Rainborn
 6170127	academicunwinds.Rainborn	antasant	Academic's Rainborn 0.2.0.4
+3726597	beaverbuddies	dud8dud	Beaver Buddies: Multiplayer Co-op
+6446808	beaverbuddies	FezVrasta-	BeaverBuddies Co-Op/PvP Edition
 5242799	BuildingDecal	Luke✞JesusSaves✞	Building Decals
 5958451	BuildingDecal	Luke✞JesusSaves✞	Building Banners
 5169262	ConfigurableFaction	Luke✞JesusSaves✞	Configurable Faction (Faction Mixer)

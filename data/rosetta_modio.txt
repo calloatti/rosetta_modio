@@ -1666,3 +1666,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6441996	DamScience	version-1.1	Dam Science!	Dam Science!	1.0.0	1.0.5	eMka.ModSettings			
 6441996	DamScience	version-1.0	Dam Science!	Dam Science!	1.0.0	1.0.5	Harmony			
 6441996	DamScience	version-1.0	Dam Science!	Dam Science!	1.0.0	1.0.5	eMka.ModSettings			
+6446808	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.4.1	1.1.0.0	Harmony			
+6446808	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.4.1	1.1.0.0	eMka.ModSettings	1.1.0.0		
+6446845	timberempires	version-1.1	Timber Empires	Timber Empires	0.4.2	1.1.0.0	Harmony			
+6446845	timberempires	version-1.1	Timber Empires	Timber Empires	0.4.2	1.1.0.0	eMka.ModSettings	1.1.0.0		
+6446845	timberempires	version-1.1	Timber Empires	Timber Empires	0.4.2	1.1.0.0	beaverbuddies			
