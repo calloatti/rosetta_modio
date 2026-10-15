@@ -1046,8 +1046,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 5617709	Vertical Nav Mesh		Vertical Nav Mesh	Vertical Nav Mesh (for Ladder)	1.0.4	1.0.6.0	Harmony	2.4.0		
 5628921	BobingaboutBeaverFactions	version-1.1	Bobingabout	Beaver Factions	1.1.2.0	1.1.0.0				
 5628921	BobingaboutBeaverFactions	version-1.0	Bobingabout	Beaver Factions	1.0.13.1	1.0.0.0				
-5636705	WarningsBeGone	version-1.1	Warnings Be Gone	Warnings Be Gone	11.0.2	1.0.0	TimberUi			
-5636705	WarningsBeGone	version-1.1	Warnings Be Gone	Warnings Be Gone	11.0.2	1.0.0	Harmony			
+5636705	WarningsBeGone	version-1.1	Warnings Be Gone	Warnings Be Gone	11.1.0	1.1.1	TimberUi			
+5636705	WarningsBeGone	version-1.1	Warnings Be Gone	Warnings Be Gone	11.1.0	1.1.1	Harmony			
 5636705	WarningsBeGone	version-1.0	Warnings Be Gone	Warnings Be Gone	10.0.2	1.0.0	TimberUi			
 5636705	WarningsBeGone	version-1.0	Warnings Be Gone	Warnings Be Gone	10.0.2	1.0.0	Harmony			
 5642889	GreedyNation	version-1.0.8.1	zxuiji -m- Greedy Nation	GreedyNation	1.0.9.15	1.0.12.0	BobingaboutScriptPack	1.0.10.3		
@@ -1690,8 +1690,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6441996	DamScience	version-1.1	Dam Science!	Dam Science!	1.0.0	1.0.5	eMka.ModSettings			
 6441996	DamScience	version-1.0	Dam Science!	Dam Science!	1.0.0	1.0.5	Harmony			
 6441996	DamScience	version-1.0	Dam Science!	Dam Science!	1.0.0	1.0.5	eMka.ModSettings			
-6446808	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.4.1	1.1.0.0	Harmony			
-6446808	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.4.1	1.1.0.0	eMka.ModSettings	1.1.0.0		
-6446845	timberempires	version-1.1	Timber Empires	Timber Empires	0.4.2	1.1.0.0	Harmony			
-6446845	timberempires	version-1.1	Timber Empires	Timber Empires	0.4.2	1.1.0.0	eMka.ModSettings	1.1.0.0		
-6446845	timberempires	version-1.1	Timber Empires	Timber Empires	0.4.2	1.1.0.0	beaverbuddies			
+6446808	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.5.2	1.1.0.0	Harmony			
+6446808	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.5.2	1.1.0.0	eMka.ModSettings	1.1.0.0		
+6446845	timberempires	version-1.1	Timber Empires	Timber Empires	0.5.2	1.1.0.0	Harmony			
+6446845	timberempires	version-1.1	Timber Empires	Timber Empires	0.5.2	1.1.0.0	eMka.ModSettings	1.1.0.0		
+6446845	timberempires	version-1.1	Timber Empires	Timber Empires	0.5.2	1.1.0.0	beaverbuddies			
