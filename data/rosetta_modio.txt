@@ -885,7 +885,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	eMka.ModSettings			
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	Harmony			
 5237083	StreamGaugeTracker		Stream Gauge Tracker	Stream Gauge Tracker	7.0.0	0.7.0.0	TimberUi			
-5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.10.180	0.1				
+5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.10.190	0.1				
 5240798	Grauschweif.MapElements		Grauschweif	Grauschweif's Map Elements	0.2.1	0.7.10.0				
 5241515	Timberborn.CapitanMaxwell.CustomNameList		Custom Name List	Custom Beavers Name List	2.0	0.0.0.0				
 5242703	ExtendedBuilderReach	version-1.1	Extended Builder Reach	Extended Builder Reach	11.0.0	1.1.1	eMka.ModSettings			
@@ -1539,14 +1539,14 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6267761	WearAndTear	version-1.0	Damaged Goods!	Damaged Goods!	2.0.0	1.0.0	eMka.ModSettings			
 6271907	calloatti.saverestartload	Version-1.1	Save Restart Load	Save Restart Load	1.0.1	1.1.2.4	Harmony			
 6271907	calloatti.saverestartload	Version-1.0	Save Restart Load	Save Restart Load	1.0.1	1.0.13.1	Harmony			
-6272268	Sate-a-Mole	version-1.0.8.0	Sate-a-Mole	Sate-a-Mole	1.0.9.15	1.0.12.0	XtraPlzNoCrashes	11.2.0		
-6272268	Sate-a-Mole	version-1.0.8.0	Sate-a-Mole	Sate-a-Mole	1.0.9.15	1.0.12.0	Lapantouflemagic.TexturePack	1.3.0		
-6272268	Sate-a-Mole	version-1.0.8.0	Sate-a-Mole	Sate-a-Mole	1.0.9.15	1.0.12.0	List-a-Mole	1.0.9.15		
-6272268	Sate-a-Mole	version-1.0.8.0	Sate-a-Mole	Sate-a-Mole	1.0.9.15	1.0.12.0	Mesh-a-Mole	1.0.9.15		
-6272268	Sate-a-Mole	version-1.0.8.0	Sate-a-Mole	Sate-a-Mole	1.0.9.15	1.0.12.0			Emberpelts	1.0.12.1
-6272268	Sate-a-Mole	version-1.0.8.0	Sate-a-Mole	Sate-a-Mole	1.0.9.15	1.0.12.0			LeafCoats	1.0.12.1
-6272268	Sate-a-Mole	version-1.0.8.0	Sate-a-Mole	Sate-a-Mole	1.0.9.15	1.0.12.0			Lapantoufleagic.WhitepawsFaction	6.2.3
-6272268	Sate-a-Mole	version-1.0.8.0	Sate-a-Mole	Sate-a-Mole	1.0.9.15	1.0.12.0			Lapantoufleagic.FrostyWhiskersFaction	0.0.1
+6272268	Sate-a-Mole	version-1.0.8.0	Sate-a-Mole	Sate-a-Mole	1.0.9.16	1.0.12.0	XtraPlzNoCrashes	11.2.0		
+6272268	Sate-a-Mole	version-1.0.8.0	Sate-a-Mole	Sate-a-Mole	1.0.9.16	1.0.12.0	Lapantouflemagic.TexturePack	1.3.0		
+6272268	Sate-a-Mole	version-1.0.8.0	Sate-a-Mole	Sate-a-Mole	1.0.9.16	1.0.12.0	List-a-Mole	1.0.9.15		
+6272268	Sate-a-Mole	version-1.0.8.0	Sate-a-Mole	Sate-a-Mole	1.0.9.16	1.0.12.0	Mesh-a-Mole	1.0.9.15		
+6272268	Sate-a-Mole	version-1.0.8.0	Sate-a-Mole	Sate-a-Mole	1.0.9.16	1.0.12.0			Emberpelts	1.0.12.1
+6272268	Sate-a-Mole	version-1.0.8.0	Sate-a-Mole	Sate-a-Mole	1.0.9.16	1.0.12.0			LeafCoats	1.0.12.1
+6272268	Sate-a-Mole	version-1.0.8.0	Sate-a-Mole	Sate-a-Mole	1.0.9.16	1.0.12.0			Lapantoufleagic.WhitepawsFaction	6.2.3
+6272268	Sate-a-Mole	version-1.0.8.0	Sate-a-Mole	Sate-a-Mole	1.0.9.16	1.0.12.0			Lapantoufleagic.FrostyWhiskersFaction	0.0.1
 6272285	Wack-a-Mole	version-1.0.8	Wack-a-Mole	Wack-a-Mole	1.0.9.16	1.0.8.0	XtraPlzNoCrashes	11.2.0		
 6272285	Wack-a-Mole	version-1.0.8	Wack-a-Mole	Wack-a-Mole	1.0.9.16	1.0.8.0	Lapantouflemagic.TexturePack	1.3.0		
 6272285	Wack-a-Mole	version-1.0.8	Wack-a-Mole	Wack-a-Mole	1.0.9.16	1.0.8.0	List-a-Mole	1.0.9.15		
@@ -1688,11 +1688,11 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6441996	DamScience	version-1.1	Dam Science!	Dam Science!	1.0.0	1.0.5	eMka.ModSettings			
 6441996	DamScience	version-1.0	Dam Science!	Dam Science!	1.0.0	1.0.5	Harmony			
 6441996	DamScience	version-1.0	Dam Science!	Dam Science!	1.0.0	1.0.5	eMka.ModSettings			
-6446808	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.6.2	1.1.0.0	Harmony			
-6446808	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.6.2	1.1.0.0	eMka.ModSettings	1.1.0.0		
-6446845	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.6.2	1.1.0.0	Harmony			
-6446845	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.6.2	1.1.0.0	eMka.ModSettings	1.1.0.0		
-6446845	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.6.2	1.1.0.0	beaverbuddies			
+6446808	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.6.4	1.1.0.0	Harmony			
+6446808	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.6.4	1.1.0.0	eMka.ModSettings	1.1.0.0		
+6446845	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.7.4	1.1.0.0	Harmony			
+6446845	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.7.4	1.1.0.0	eMka.ModSettings	1.1.0.0		
+6446845	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.7.4	1.1.0.0	beaverbuddies			
 6461344	acalc79.TimeInMapEditor		Time in Map Editor	Time in Map Editor	0.1.5	1.1.2.0	Harmony	2.4.1		
 6461360	acalc79.BetterMapEditor		Better Map Editor	Better Map Editor	0.1.6	1.1.2.0	Harmony	2.4.1		
 6461360	acalc79.BetterMapEditor		Better Map Editor	Better Map Editor	0.1.6	1.1.2.0	acalc79.TimeInMapEditor	0.1.5		
