@@ -565,6 +565,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 4747084	KnatteAnka.waterextention.PowerEdition	version-1.0.0	Water Extention PowerEdition	Water Extention PowerEdition	1.0.1.4	1.0.13.0	KnatteAnka.Materials	1.0.1.0		
 4747145	SuperCursor	version-0.7	Super Cursor	Super Cursor - Extra info for Cursor Tool	7.1.5	0.7.0.0				
 4747145	SuperCursor	version-1.0	Super Cursor	Super Cursor - Extra info for Cursor Tool	10.0.6	1.0.0				
+4747145	SuperCursor	version-1.1	Super Cursor	Super Cursor - Extra info for Cursor Tool	11.0.0	1.1.1				
 4753349	sp1um.GoodTracing	version-0.7	Goods Tracing	Goods Tracing	1.3.1	0.7.9.0			Battery.Pantry	0.0.2.1
 4753349	sp1um.GoodTracing	version-0.6	Goods Tracing	Goods Tracing	1.3.0	0.6.5.1			Battery.Pantry	0.0.2.1
 4757575	TimberApi.UIBuilder	version-0.7	TimberApi UIBuilder	TimberApi UIBuilder	1.0.2.1	0.7.0.0				
@@ -887,7 +888,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	eMka.ModSettings			
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	Harmony			
 5237083	StreamGaugeTracker		Stream Gauge Tracker	Stream Gauge Tracker	7.0.0	0.7.0.0	TimberUi			
-5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.10.290	0.1				
+5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.10.300	0.1				
 5240798	Grauschweif.MapElements		Grauschweif	Grauschweif's Map Elements	0.2.1	0.7.10.0				
 5241515	Timberborn.CapitanMaxwell.CustomNameList		Custom Name List	Custom Beavers Name List	2.0	0.0.0.0				
 5242703	ExtendedBuilderReach	version-0.7	Extended Builder Reach	Extended Builder Reach	7.1.1	0.7.0.0	eMka.ModSettings			
@@ -1694,11 +1695,13 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6446808	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.10.0	1.1.0.0	Harmony			
 6446808	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.10.0	1.1.0.0	gamemodes	1.1.0-1.3.0		
 6446808	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.10.0	1.1.0.0	eMka.ModSettings	1.1.0.0		
-6446845	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.15.0	1.1.0.0	Harmony			
-6446845	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.15.0	1.1.0.0	eMka.ModSettings	1.1.0.0		
-6446845	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.15.0	1.1.0.0	gamemodes	1.1.0-1.3.0		
-6446845	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.15.0	1.1.0.0	beaverbuddies			
-6446845	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.15.0	1.1.0.0			archipelago	
+6446808	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.10.0	1.1.0.0			timberatlas	
+6446845	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.16.0	1.1.0.0	Harmony			
+6446845	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.16.0	1.1.0.0	eMka.ModSettings	1.1.0.0		
+6446845	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.16.0	1.1.0.0	gamemodes	1.1.0-1.6.0		
+6446845	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.16.0	1.1.0.0	beaverbuddies			
+6446845	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.16.0	1.1.0.0			archipelago	
+6446845	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.16.0	1.1.0.0			timberatlas	
 6461344	acalc79.TimeInMapEditor		Time in Map Editor	Time in Map Editor	0.1.6	1.1.2.0	Harmony	2.4.1		
 6461360	acalc79.BetterMapEditor		Better Map Editor	Better Map Editor	0.1.7	1.1.2.0	Harmony	2.4.1		
 6461360	acalc79.BetterMapEditor		Better Map Editor	Better Map Editor	0.1.7	1.1.2.0	acalc79.TimeInMapEditor	0.1.5		
@@ -1716,9 +1719,11 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6463155	List-a-Mole-Versioned	version-1.1	List a Mole (Versioned)	List-a-Mole-Version	1.0.9.16	1.1.0.0			Lapantoufleagic.FrostyWhiskersFaction	0.0.1
 6468495	Barbara.ModuloCucinaFondo		Beavers Cozy World — New Generation	Beavers Cozy World New Generation	0.1.197.23	1.1.2.4	ModdableToolGroups	10.4.0		
 6468495	Barbara.ModuloCucinaFondo		Beavers Cozy World — New Generation	Beavers Cozy World New Generation	0.1.197.23	1.1.2.4	Harmony			
-6472457	gamemodes	version-1.1	Game Modes	Game Modes	1.1.0-1.5.0	1.1.0.0	Harmony			
+6472457	gamemodes	version-1.1	Game Modes	Game Modes	1.1.0-1.6.0	1.1.0.0	Harmony			
 6473057		UnityProject/Packages		Ich arbeite gerade daran viele Spiele kombinieren.						
 6474327	AllRev.CustomCursors2		Custom Cursors 2	Custom Cursors 2	1.0.0	1.1.1.0	Harmony	2.3.3		
 6474327	AllRev.CustomCursors2		Custom Cursors 2	Custom Cursors 2	1.0.0	1.1.1.0	eMka.ModSettings	1.0.13.0		
 6480710	AllRev.ResourceRecoveryOnDemolition		Resource Recovery on Demolition	Resource Recovery on Demolition	1.0	1.1.1.0	Harmony			
 6480710	AllRev.ResourceRecoveryOnDemolition		Resource Recovery on Demolition	Resource Recovery on Demolition	1.0	1.1.1.0	eMka.ModSettings			
+6490566	timberatlas	version-1.1	TimberAtlas	Timber Atlas	1.1.0-0.1.0	1.1.0.0	Harmony			
+6490566	timberatlas	version-1.1	TimberAtlas	Timber Atlas	1.1.0-0.1.0	1.1.0.0	eMka.ModSettings	1.1.0.0		
