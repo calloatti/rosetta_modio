@@ -613,8 +613,10 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 4788149	ConfigurableAutoSave	version-1.0	Configurable Autosave	Configurable Autosave	10.0.0	1.0.0	eMka.ModSettings			
 4788154	SaveEveryday	version-0.7	Save Everyday	Save Everyday	7.4.1	0.7.0.0	eMka.ModSettings			
 4788154	SaveEveryday	version-1.0	Save Everyday	Save Everyday	10.0.0	1.0.0	eMka.ModSettings			
-4804583	Ximsa.TerrainGenerator		Yet Another Terrain Generator	Yet Another Terrain Generator	1.0.3	0.7.0.0	Harmony	2.3.3		
-4804583	Ximsa.TerrainGenerator		Yet Another Terrain Generator	Yet Another Terrain Generator	1.0.3	0.7.0.0	TimberUi	7.2.0		
+4804583	Ximsa.TerrainGenerator	version-0.7	Yet Another Terrain Generator	Yet Another Terrain Generator	1.0.3	0.7.0.0	Harmony	2.3.3		
+4804583	Ximsa.TerrainGenerator	version-0.7	Yet Another Terrain Generator	Yet Another Terrain Generator	1.0.3	0.7.0.0	TimberUi	7.2.0		
+4804583	Ximsa.TerrainGenerator	version-1.1	Yet Another Terrain Generator	Yet Another Terrain Generator	1.3.1	1.1.1	Harmony	2.4.1		
+4804583	Ximsa.TerrainGenerator	version-1.1	Yet Another Terrain Generator	Yet Another Terrain Generator	1.3.1	1.1.1	TimberUi	11.0.1		
 4805221	UnlockableRecipe		Moddable and Unlockable Recipe	Moddable and Unlockable Recipe	7.1.4	0.7.0.0	Harmony			
 4807818	ModdablePrefab	version-0.7	Moddable Prefab	Moddable Prefab	7.2.0	0.7.0.0	Harmony			
 4807818	ModdablePrefab	version-1.0	Moddable Prefab	Moddable Prefab	10.0.0	1.0.0				
@@ -890,7 +892,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	eMka.ModSettings			
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	Harmony			
 5237083	StreamGaugeTracker		Stream Gauge Tracker	Stream Gauge Tracker	7.0.0	0.7.0.0	TimberUi			
-5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.11.70	0.1				
+5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.11.80	0.1				
 5240798	Grauschweif.MapElements		Grauschweif	Grauschweif's Map Elements	0.2.1	0.7.10.0				
 5241515	Timberborn.CapitanMaxwell.CustomNameList		Custom Name List	Custom Beavers Name List	2.0	0.0.0.0				
 5242703	ExtendedBuilderReach	version-0.7	Extended Builder Reach	Extended Builder Reach	7.1.1	0.7.0.0	eMka.ModSettings			
@@ -1722,8 +1724,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6463155	List-a-Mole-Versioned	version-1.1	List a Mole (Versioned)	List-a-Mole-Version	1.0.9.16	1.1.0.0			LeafCoats	
 6463155	List-a-Mole-Versioned	version-1.1	List a Mole (Versioned)	List-a-Mole-Version	1.0.9.16	1.1.0.0			Lapantoufleagic.WhitepawsFaction	6.2.3
 6463155	List-a-Mole-Versioned	version-1.1	List a Mole (Versioned)	List-a-Mole-Version	1.0.9.16	1.1.0.0			Lapantoufleagic.FrostyWhiskersFaction	0.0.1
-6468495	Barbara.ModuloCucinaFondo		Beavers Cozy World — New Generation	Beavers Cozy World New Generation	0.1.197.43	1.1.2.4	ModdableToolGroups	10.4.0		
-6468495	Barbara.ModuloCucinaFondo		Beavers Cozy World — New Generation	Beavers Cozy World New Generation	0.1.197.43	1.1.2.4	Harmony			
+6468495	Barbara.ModuloCucinaFondo		Beavers Cozy World — New Generation	Beavers Cozy World New Generation	0.1.197.74	1.1.2.4	ModdableToolGroups	10.4.0		
+6468495	Barbara.ModuloCucinaFondo		Beavers Cozy World — New Generation	Beavers Cozy World New Generation	0.1.197.74	1.1.2.4	Harmony			
 6472457	gamemodes	version-1.1	Game Modes	Game Modes	1.1.0-1.6.0	1.1.0.0	Harmony			
 6473057		UnityProject/Packages		Ich arbeite gerade daran viele Spiele kombinieren.						
 6474327	AllRev.CustomCursors2		Custom Cursors 2	Custom Cursors 2	1.0.0	1.1.1.0	Harmony	2.3.3		
@@ -1756,7 +1758,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6503354	AllRev.PlantDemolition		Plant Demolition	Plant Demolition	1.3.0	1.1.0.0				
 6504882	DavidMods.BeaverHospital		Beaver Hospital	Beaver Hospital	0.3.0	1.1.2.8				
 6505684	PasteSettingsPainter	version-1.1	Paste Settings Painter	Paste Settings Painter	1.1.2.0	1.1.2.0	Harmony			
-6507261	acasperw.WillItLast		Will It Last?	Will It Last?	1.1.0	1.1.0.0				
+6507261	acasperw.WillItLast		Will It Last?	Will It Last?	1.2.0	1.1.0.0				
 6509229	ThePostOffice		The Post Office: Global Logistics	The Post Office: Global Logistics	11.0.0	1.1.1	GlobalInventory			
 6509229	ThePostOffice		The Post Office: Global Logistics	The Post Office: Global Logistics	11.0.0	1.1.1	ModdableToolGroups			
 6510599	BobingaboutBeaverFactionPopulationStatistics	version-1.1	Beaver Faction Population Statistics	Beaver Faction Population Statistics	1.1.2.0	1.1.0.0	BobingaboutBeaverFactions	1.1.2.1		
