@@ -68,3 +68,7 @@ PublishedFileID	Url	Creator	Title
 5877246	https://mod.io/search/mods/5877246	SilverStars	Timberborn API Remote Access App V.1.1
 6357317	https://mod.io/search/mods/6357317	SmartBeaverBlueprints	First Flow v4 Free Starter Blueprint
 6428584	https://mod.io/search/mods/6428584	SmartBeaverBlueprints	Hearth Block - Free 8x8 Housing Blueprint
+6518418	https://mod.io/search/mods/6518418	pir2_link	NBA - OhTomatoRecipe for Timberborn 1.0
+6518432	https://mod.io/search/mods/6518432	pir2_link	NBA - OhTomatoRecipe for Timberborn 1.1
+6518470	https://mod.io/search/mods/6518470	pir2_link	NBA - EzAutoFloodgateLevel for Timberborn 1.0
+6518478	https://mod.io/search/mods/6518478	pir2_link	NBA - EzAutoFloodgateLevel for Timberborn 1.1
