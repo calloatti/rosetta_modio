@@ -582,7 +582,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 4764517	BuffDebuff		Buff & Debuff System	Buff &amp; Debuff System [Deprecated ❌]	7.1.2	0.7.0.0	TimberUi	7.0.0		
 4764523	TimberUi	version-0.7	TimberUi	TimberUi	7.8.7	0.7.0.0				
 4764523	TimberUi	version-1.0	TimberUi	TimberUi	10.1.6	1.0.0				
-4764523	TimberUi	version-1.1	TimberUi	TimberUi	11.0.1	1.1.1				
+4764523	TimberUi	version-1.1	TimberUi	TimberUi	11.0.2	1.1.1				
 4764527	BuffDebuffDemo		Buff & Debuff Demo	Buff &amp; Debuff Demo	7.0.0	0.7.0.0	Harmony	0.6.0.0		
 4764527	BuffDebuffDemo		Buff & Debuff Demo	Buff &amp; Debuff Demo	7.0.0	0.7.0.0	BuffDebuff	7.0.0		
 4764536	TImprove	version-0.7	TImprove	TImprove - Various QoL Timberborn-Improvements	7.6.0	0.7.0.0	eMka.ModSettings			
@@ -891,7 +891,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	eMka.ModSettings			
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	Harmony			
 5237083	StreamGaugeTracker		Stream Gauge Tracker	Stream Gauge Tracker	7.0.0	0.7.0.0	TimberUi			
-5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.11.80	0.1				
+5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.11.100	0.1				
 5240798	Grauschweif.MapElements		Grauschweif	Grauschweif's Map Elements	0.2.1	0.7.10.0				
 5241515	Timberborn.CapitanMaxwell.CustomNameList		Custom Name List	Custom Beavers Name List	2.0	0.0.0.0				
 5242703	ExtendedBuilderReach	version-0.7	Extended Builder Reach	Extended Builder Reach	7.1.1	0.7.0.0	eMka.ModSettings			
@@ -1672,9 +1672,9 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6409186	acalc79.HardcoreSettings		Hardcore Settings	Hardcore Settings	1.5.0	1.0.0	TimberUi	11.0.1		
 6409209	acalc79.ExtremeDifficulties		Extreme Difficulties	Extreme Difficulties	1.3.4	1.0.3.0			acalc79.HardcoreSettings	1.0.0
 6409209	acalc79.ExtremeDifficulties		Extreme Difficulties	Extreme Difficulties	1.3.4	1.0.3.0			acalc79.AlternativeWeatherSystem	1.8.0
-6409218	acalc79.UITweaks		UI Tweaks	UI Tweaks	0.6.2	1.1.2.0	Harmony	2.4.1		
-6409218	acalc79.UITweaks		UI Tweaks	UI Tweaks	0.6.2	1.1.2.0	eMka.ModSettings	1.1.1.0		
-6409218	acalc79.UITweaks		UI Tweaks	UI Tweaks	0.6.2	1.1.2.0	TimberUi	11.0.1		
+6409218	acalc79.UITweaks		UI Tweaks (UIT)	UI Tweaks (UIT)	0.6.3	1.1.2.0	Harmony	2.4.1		
+6409218	acalc79.UITweaks		UI Tweaks (UIT)	UI Tweaks (UIT)	0.6.3	1.1.2.0	eMka.ModSettings	1.1.1.0		
+6409218	acalc79.UITweaks		UI Tweaks (UIT)	UI Tweaks (UIT)	0.6.3	1.1.2.0	TimberUi	11.0.1		
 6416454	Blacksteam		Better Impermeable Power Shaft	Better Impermeable Power Shaft	1.1	1.1.0.0	Harmony			
 6420066	DarkLord7854.DynamiteDepth		Dynamite Depth View	Dynamite Depth View	1.0.1	1.1.2.4				
 6422554	Blacksteam.VerticalTubewayFreeStacking		Better Vertical Tubeway	Better Vertical Tubeway	1.0	1.1.0.0	Harmony			
@@ -1708,7 +1708,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6446845	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.18.0	1.1.0.0			beaverbuddies	
 6446845	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.18.0	1.1.0.0			archipelago	
 6446845	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.18.0	1.1.0.0			timberatlas	
-6461344	acalc79.TimeInMapEditor		Time in Map Editor	Time in Map Editor	0.1.6	1.1.2.0	Harmony	2.4.1		
+6461344	acalc79.TimeInMapEditor		Time in Map Editor (TiME)	Time in Map Editor (TiME)	0.1.8	1.1.2.0	Harmony	2.4.1		
 6461360	acalc79.BetterMapEditor		Better Map Editor (BME)	Better Map Editor (BME)	0.1.12	1.1.2.0	Harmony	2.4.1		
 6461360	acalc79.BetterMapEditor		Better Map Editor (BME)	Better Map Editor (BME)	0.1.12	1.1.2.0	acalc79.TimeInMapEditor	0.1.5		
 6463155	List-a-Mole-Versioned	version-1.0.8.1	List a Mole (Versioned)	List-a-Mole-Version	1.0.9.16	1.0.8.0	XtraPlzNoCrashes	11.2.0		
@@ -1723,8 +1723,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6463155	List-a-Mole-Versioned	version-1.1	List a Mole (Versioned)	List-a-Mole-Version	1.0.9.16	1.1.0.0			LeafCoats	
 6463155	List-a-Mole-Versioned	version-1.1	List a Mole (Versioned)	List-a-Mole-Version	1.0.9.16	1.1.0.0			Lapantoufleagic.WhitepawsFaction	6.2.3
 6463155	List-a-Mole-Versioned	version-1.1	List a Mole (Versioned)	List-a-Mole-Version	1.0.9.16	1.1.0.0			Lapantoufleagic.FrostyWhiskersFaction	0.0.1
-6468495	Barbara.ModuloCucinaFondo		Beavers Cozy World — New Generation	Beavers Cozy World New Generation	0.1.197.76	1.1.2.4	ModdableToolGroups	10.4.0		
-6468495	Barbara.ModuloCucinaFondo		Beavers Cozy World — New Generation	Beavers Cozy World New Generation	0.1.197.76	1.1.2.4	Harmony			
+6468495	Barbara.ModuloCucinaFondo		Beavers Cozy World — New Generation	Beavers Cozy World New Generation	0.1.197.78	1.1.2.4	ModdableToolGroups	10.4.0		
+6468495	Barbara.ModuloCucinaFondo		Beavers Cozy World — New Generation	Beavers Cozy World New Generation	0.1.197.78	1.1.2.4	Harmony			
 6472457	gamemodes	version-1.1	Game Modes	Game Modes	1.1.0-1.6.0	1.1.0.0	Harmony			
 6473057		UnityProject/Packages		Ich arbeite gerade daran viele Spiele kombinieren.						
 6474327	AllRev.CustomCursors2		Custom Cursors 2	Custom Cursors 2	1.0.0	1.1.1.0	Harmony	2.3.3		
@@ -1739,9 +1739,9 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6490587	archipelago	version-1.1	Archipelago	Archipelago: Naval Expansion	1.1.0-0.2.0	1.1.0.0			ModdableWeathers	
 6490587	archipelago	version-1.1	Archipelago	Archipelago: Naval Expansion	1.1.0-0.2.0	1.1.0.0			acalc79.AlternativeWeatherSystem	
 6490587	archipelago	version-1.1	Archipelago	Archipelago: Naval Expansion	1.1.0-0.2.0	1.1.0.0			timberatlas	
-6494166	acalc79.PerformancePlus		Performance Plus	Performance +	0.1.7	1.1.2.0	Harmony	2.4.1		
-6494166	acalc79.PerformancePlus		Performance Plus	Performance +	0.1.7	1.1.2.0	T3MP	1.2.5		
-6494166	acalc79.PerformancePlus		Performance Plus	Performance +	0.1.7	1.1.2.0	eMka.ModSettings	1.1.1.0		
+6494166	acalc79.PerformancePlus		Performance Plus (P+)	Performance Plus (P+)	0.1.8	1.1.2.0	Harmony	2.4.1		
+6494166	acalc79.PerformancePlus		Performance Plus (P+)	Performance Plus (P+)	0.1.8	1.1.2.0	T3MP	1.2.5		
+6494166	acalc79.PerformancePlus		Performance Plus (P+)	Performance Plus (P+)	0.1.8	1.1.2.0	eMka.ModSettings	1.1.1.0		
 6496987	AllRev.PathRangeOptimizer		Path Range Optimizer	Path Range Optimizer	0.6.2.0	1.1.0.0	eMka.ModSettings	1.0.13.0		
 6496987	AllRev.PathRangeOptimizer		Path Range Optimizer	Path Range Optimizer	0.6.2.0	1.1.0.0	Harmony	2.4.1		
 6497105	Barbara.MerryChristmasBeavers		Merry Christmas Beavers	MerryChristmasBeavers	0.1.42	1.1.2.4	RealLights			
@@ -1762,3 +1762,6 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6509229	ThePostOffice		The Post Office: Global Logistics	The Post Office: Global Logistics	11.0.0	1.1.1	ModdableToolGroups			
 6510599	BobingaboutBeaverFactionPopulationStatistics	version-1.1	Beaver Faction Population Statistics	Beaver Faction Population Statistics	1.1.2.0	1.1.0.0	BobingaboutBeaverFactions	1.1.2.1		
 6510599	BobingaboutBeaverFactionPopulationStatistics	version-1.1	Beaver Faction Population Statistics	Beaver Faction Population Statistics	1.1.2.0	1.1.0.0	Harmony			
+6517797	DavidDelayat.SmartStairsDebug		Civil Engineer's Office	The Civil Engineer's Office	2.0.0	1.1.2.0				
+6519794	acalc79.UltimatePlantingTools		Ultimate Planting Tools (UPT)	Ultimate Planting Tools (UPT)	0.1.0	1.1.2.0	Harmony	2.4.1		
+6519794	acalc79.UltimatePlantingTools		Ultimate Planting Tools (UPT)	Ultimate Planting Tools (UPT)	0.1.0	1.1.2.0	eMka.ModSettings	1.1.1.0		

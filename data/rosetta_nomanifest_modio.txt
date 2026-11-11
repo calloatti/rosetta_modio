@@ -72,3 +72,7 @@ PublishedFileID	Url	Creator	Title
 6518432	https://mod.io/search/mods/6518432	pir2_link	NBA - OhTomatoRecipe for Timberborn 1.1
 6518470	https://mod.io/search/mods/6518470	pir2_link	NBA - EzAutoFloodgateLevel for Timberborn 1.0
 6518478	https://mod.io/search/mods/6518478	pir2_link	NBA - EzAutoFloodgateLevel for Timberborn 1.1
+6519520	https://mod.io/search/mods/6519520	pir2_link	NBA - AutoFloodgateLevel for Timberborn 1.0
+6519529	https://mod.io/search/mods/6519529	pir2_link	NBA - AutoFloodgateLevel for Timberborn 1.1
+6519545	https://mod.io/search/mods/6519545	pir2_link	NBA - AutoWorkerNumber for Timberborn 1.0
+6519551	https://mod.io/search/mods/6519551	pir2_link	NBA - AutoWorkerNumber for Timberborn 1.1
