@@ -891,7 +891,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	eMka.ModSettings			
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	Harmony			
 5237083	StreamGaugeTracker		Stream Gauge Tracker	Stream Gauge Tracker	7.0.0	0.7.0.0	TimberUi			
-5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.11.130	0.1				
+5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.11.140	0.1				
 5240798	Grauschweif.MapElements		Grauschweif	Grauschweif's Map Elements	0.2.1	0.7.10.0				
 5241515	Timberborn.CapitanMaxwell.CustomNameList		Custom Name List	Custom Beavers Name List	2.0	0.0.0.0				
 5242703	ExtendedBuilderReach	version-0.7	Extended Builder Reach	Extended Builder Reach	7.1.1	0.7.0.0	eMka.ModSettings			
@@ -1739,9 +1739,9 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6490587	archipelago	version-1.1	Archipelago	Archipelago: Naval Expansion	1.1.0-0.2.0	1.1.0.0			ModdableWeathers	
 6490587	archipelago	version-1.1	Archipelago	Archipelago: Naval Expansion	1.1.0-0.2.0	1.1.0.0			acalc79.AlternativeWeatherSystem	
 6490587	archipelago	version-1.1	Archipelago	Archipelago: Naval Expansion	1.1.0-0.2.0	1.1.0.0			timberatlas	
-6494166	acalc79.PerformancePlus		Performance Plus (P+)	Performance Plus (P+)	0.1.8	1.1.2.0	Harmony	2.4.1		
-6494166	acalc79.PerformancePlus		Performance Plus (P+)	Performance Plus (P+)	0.1.8	1.1.2.0	T3MP	1.2.5		
-6494166	acalc79.PerformancePlus		Performance Plus (P+)	Performance Plus (P+)	0.1.8	1.1.2.0	eMka.ModSettings	1.1.1.0		
+6494166	acalc79.PerformancePlus		Performance Plus (P+)	Performance Plus (P+)	1.0.0	1.1.2.0	Harmony	2.4.1		
+6494166	acalc79.PerformancePlus		Performance Plus (P+)	Performance Plus (P+)	1.0.0	1.1.2.0	T3MP	1.2.5		
+6494166	acalc79.PerformancePlus		Performance Plus (P+)	Performance Plus (P+)	1.0.0	1.1.2.0	eMka.ModSettings	1.1.1.0		
 6496987	AllRev.PathRangeOptimizer		Path Range Optimizer	Path Range Optimizer	0.6.2.0	1.1.0.0	eMka.ModSettings	1.0.13.0		
 6496987	AllRev.PathRangeOptimizer		Path Range Optimizer	Path Range Optimizer	0.6.2.0	1.1.0.0	Harmony	2.4.1		
 6497105	Barbara.MerryChristmasBeavers		Merry Christmas Beavers	MerryChristmasBeavers	0.1.42	1.1.2.4	RealLights			
@@ -1768,3 +1768,4 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6525939	ModdableAlternativeBuildingStyle		Moddable Alternative Building Style	Moddable Alternative Building Style	11.0.0	1.1.1	ModdableTimberborn			
 6525944	AlternativeFactionBuildingStyles		Alternative Faction Building Styles	Alternative Faction Building Styles	11.0.0	1.1.1	ModdableAlternativeBuildingStyle			
 6525944	AlternativeFactionBuildingStyles		Alternative Faction Building Styles	Alternative Faction Building Styles	11.0.0	1.1.1	XtraPlzNoCrashes			
+6528751	BeaverBellStatue		Beaver Bell Statue	Beaver Bell Statue	11.0.0	1.1.1			ModdedFactionsBuildingSupport	
