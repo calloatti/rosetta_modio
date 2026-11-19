@@ -898,7 +898,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	eMka.ModSettings			
 5232571	ConfigurableLifetime	version-0.7	Configurable Lifetime	Configurable lifetime	7.0.0	0.7.0.0	Harmony			
 5237083	StreamGaugeTracker		Stream Gauge Tracker	Stream Gauge Tracker	7.0.0	0.7.0.0	TimberUi			
-5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.11.170	0.1				
+5238039	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.11.180	0.1				
 5240798	Grauschweif.MapElements		Grauschweif	Grauschweif's Map Elements	0.2.1	0.7.10.0				
 5241515	Timberborn.CapitanMaxwell.CustomNameList		Custom Name List	Custom Beavers Name List	2.0	0.0.0.0				
 5242703	ExtendedBuilderReach	version-1.1	Extended Builder Reach	Extended Builder Reach	11.0.0	1.1.1	eMka.ModSettings			
@@ -1731,8 +1731,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6463155	List-a-Mole-Versioned	version-1.0.8.1	List a Mole (Versioned)	List-a-Mole-Version	1.0.9.20	1.0.8.0			LeafCoats	1.0.12.1
 6463155	List-a-Mole-Versioned	version-1.0.8.1	List a Mole (Versioned)	List-a-Mole-Version	1.0.9.20	1.0.8.0			Lapantoufleagic.WhitepawsFaction	6.2.3
 6463155	List-a-Mole-Versioned	version-1.0.8.1	List a Mole (Versioned)	List-a-Mole-Version	1.0.9.20	1.0.8.0			Lapantoufleagic.FrostyWhiskersFaction	0.0.1
-6468495	Barbara.ModuloCucinaFondo		Beavers Cozy World — New Generation	Beavers Cozy World New Generation	0.1.197.78	1.1.2.4	ModdableToolGroups	10.4.0		
-6468495	Barbara.ModuloCucinaFondo		Beavers Cozy World — New Generation	Beavers Cozy World New Generation	0.1.197.78	1.1.2.4	Harmony			
+6468495	Barbara.ModuloCucinaFondo		Beavers Cozy World — New Generation	Beavers Cozy World New Generation	0.1.198.0	1.1.2.4	ModdableToolGroups	10.4.0		
+6468495	Barbara.ModuloCucinaFondo		Beavers Cozy World — New Generation	Beavers Cozy World New Generation	0.1.198.0	1.1.2.4	Harmony			
 6472457	gamemodes	version-1.1	Game Modes	Game Modes	1.1.0-1.6.0	1.1.0.0	Harmony			
 6473057		UnityProject/Packages		Ich arbeite gerade daran viele Spiele kombinieren.						
 6474327	AllRev.CustomCursors2		Custom Cursors 2	Custom Cursors 2	1.0.0	1.1.1.0	Harmony	2.3.3		
@@ -1787,5 +1787,13 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6534153	KnatteAnka.damdecoration_blockdecoration	version-1.0.0	DamDecoration_BlockDecoration	DamDecoration BlockDecoration	1.0.1.0	1.0.7.0			KnatteAnka.damdecoration_decorationextention	
 6534349	Oiltanker.AroundTheClock		Around The Clock	Around The Clock	1.0.0.0	1.1.1.0	Harmony	2.3.0		
 6534583	DressYouUp		Dress You Up	DRESS YOU UP	0.7.0	1.0.0.0	Harmony			
-6536400	ChainDrives		Chain Drives	Chain Drives	1.0.0	1.1.0.0			ModdableToolGroups	
+6536400	ChainDrives		Chain Drives	Chain Drives	1.1.0	1.1.0.0			ModdableToolGroups	
 6536586	Oiltanker.CranetopWindmillReplacement		Cranetop Windmill Replacement	Cranetop Windmill Replacement	1.0.0	1.1.1	CraneHeads			
+6537455	Jove.ClimbLadder		Climb Ladder	Climb Ladder	0.1.2	1.1.0.0				
+6537766	Crane		Crane	Crane	11.1.3	1.1.1	ModdableTimberborn			
+6537771	CraneHeads		Crane Heads	Crane Heads	11.0.1	1.1.1	Crane			
+6537771	CraneHeads		Crane Heads	Crane Heads	11.0.1	1.1.1	ModdableToolGroups			
+6537918	MechanizedManufactory		Mechanized Manufactory	Mechanized Manufactory	11.0.0	1.1.1	ModdableTimberborn			
+6537918	MechanizedManufactory		Mechanized Manufactory	Mechanized Manufactory	11.0.0	1.1.1	ModdableToolGroups			
+6537918	MechanizedManufactory		Mechanized Manufactory	Mechanized Manufactory	11.0.0	1.1.1	eMka.ModSettings			
+6538287	acasperw.Caravans		Caravans	Caravans	0.3.0	1.1.0.0				
