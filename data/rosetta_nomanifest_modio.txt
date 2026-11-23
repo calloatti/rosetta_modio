@@ -76,3 +76,5 @@ PublishedFileID	Url	Creator	Title
 6519529	https://mod.io/search/mods/6519529	pir2_link	NBA - AutoFloodgateLevel for Timberborn 1.1
 6519545	https://mod.io/search/mods/6519545	pir2_link	NBA - AutoWorkerNumber for Timberborn 1.0
 6519551	https://mod.io/search/mods/6519551	pir2_link	NBA - AutoWorkerNumber for Timberborn 1.1
+6546026	https://mod.io/search/mods/6546026	pir2_link	NBASys for timberborn 1.0
+6546035	https://mod.io/search/mods/6546035	pir2_link	NBASys for timberborn 1.1

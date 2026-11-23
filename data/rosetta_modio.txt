@@ -1778,8 +1778,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6525944	AlternativeFactionBuildingStyles		Alternative Faction Building Styles	Alternative Faction Building Styles	11.0.0	1.1.1	ModdableAlternativeBuildingStyle			
 6525944	AlternativeFactionBuildingStyles		Alternative Faction Building Styles	Alternative Faction Building Styles	11.0.0	1.1.1	XtraPlzNoCrashes			
 6528751	BeaverBellStatue		Beaver Bell Statue	Beaver Bell Statue	11.0.0	1.1.1			ModdedFactionsBuildingSupport	
-6531139	LowPolyHouses		Woodland Homes	WoodlandHomes	0.1.11	1.1.0.0	Harmony			
-6531139	LowPolyHouses		Woodland Homes	WoodlandHomes	0.1.11	1.1.0.0	ModdableToolGroups	10.4.0		
+6531139	LowPolyHouses		Woodland Homes	WoodlandHomes	0.1.20	1.1.2.4	Harmony			
+6531139	LowPolyHouses		Woodland Homes	WoodlandHomes	0.1.20	1.1.2.4	ModdableToolGroups	10.4.0		
 6534153	KnatteAnka.damdecoration_blockdecoration	version-1.0.0	DamDecoration_BlockDecoration	DamDecoration BlockDecoration	1.0.1.0	1.0.7.0	ModdableToolGroups	10.1.0		
 6534153	KnatteAnka.damdecoration_blockdecoration	version-1.0.0	DamDecoration_BlockDecoration	DamDecoration BlockDecoration	1.0.1.0	1.0.7.0			KnatteAnka.damdecoration	
 6534153	KnatteAnka.damdecoration_blockdecoration	version-1.0.0	DamDecoration_BlockDecoration	DamDecoration BlockDecoration	1.0.1.0	1.0.7.0			KnatteAnka.damdecoration_decorationextention	
