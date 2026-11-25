@@ -1297,9 +1297,10 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6015711	KnatteAnka.EffWorkplace	version-1.1.0	Efficient Workplaces [ModContest1]	Efficient Workplaces	1.1.0.0	1.1.0.0	Harmony	2.3.6		
 6015711	KnatteAnka.EffWorkplace	version-1.1.0	Efficient Workplaces [ModContest1]	Efficient Workplaces	1.1.0.0	1.1.0.0	XtraPlzNoCrashes	11.2.0		
 6032254	Daxisaurus.Timberborn.ColonyPlanner		Colony Planner	Colony Planner	1.0.3.0	1.0.7.0	Harmony	2.4.1		
-6036658	SuperFaction	version-1.0	SuperFaction - Limitless	SuperFactin	1.0.0.0	1.0.0.0	Emberpelts	1.0.8.1		
-6036658	SuperFaction	version-1.0	SuperFaction - Limitless	SuperFactin	1.0.0.0	1.0.0.0	LeafCoats	1.0.8.1		
-6036658	SuperFaction	version-1.0	SuperFaction - Limitless	SuperFactin	1.0.0.0	1.0.0.0	KnatteAnka.MoreGroups_Paths	1.0.0.1		
+6036658	SuperFaction	version-1.1.2.4	SuperFaction - Limitless	SuperFactin	1.1.0.0	1.1.0.0	Emberpelts	1.0.8.1		
+6036658	SuperFaction	version-1.1.2.4	SuperFaction - Limitless	SuperFactin	1.1.0.0	1.1.0.0	LeafCoats	1.0.8.1		
+6036658	SuperFaction	version-1.1.2.4	SuperFaction - Limitless	SuperFactin	1.1.0.0	1.1.0.0	KnatteAnka.MoreGroups_Paths	1.0.0.1		
+6036658	SuperFaction	version-1.1.2.4	SuperFaction - Limitless	SuperFactin	1.1.0.0	1.1.0.0	ModdableToolGroups	10.1.0		
 6039527	DynamicTailsBanners		Dynamic Tails & Banners	Dynamic Tails &amp; Banners	10.0.2	1.0.0	ModdableTimberborn	10.1.5		
 6039527	DynamicTailsBanners		Dynamic Tails & Banners	Dynamic Tails &amp; Banners	10.0.2	1.0.0	eMka.ModSettings			
 6039527	DynamicTailsBanners		Dynamic Tails & Banners	Dynamic Tails &amp; Banners	10.0.2	1.0.0	ModdableDecalGroups	10.1.0		
