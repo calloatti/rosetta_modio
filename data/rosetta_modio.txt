@@ -1793,3 +1793,5 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 6537918	MechanizedManufactory		Mechanized Manufactory	Mechanized Manufactory	11.0.0	1.1.1	eMka.ModSettings			
 6538287	acasperw.Caravans		Caravans	Caravans	0.3.5	1.1.0.0				
 6555344	SolidBaseOverhangs		Solid Base Overhangs	Solid Base Overhangs	0.2.1	1.0.0.0				
+6556885	Oiltanker.ShowMeTheActivations		Show Me the Activations	Show Me the Activations	1.0.0	1.1.1	Harmony	2.3.0		
+6556885	Oiltanker.ShowMeTheActivations		Show Me the Activations	Show Me the Activations	1.0.0	1.1.1	eMka.ModSettings	1.1.1.0		
